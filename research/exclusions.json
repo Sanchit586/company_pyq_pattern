@@ -100,5 +100,35 @@
     "url": "https://github.com/anirudhakulkarni/Placements-2024",
     "reason": "IIT Delhi preparation guide; general preparation recommendations are not company-specific OA task evidence.",
     "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Goldman Sachs",
+    "url": "https://www.geeksforgeeks.org/interview-experiences/goldman-sachs-interview-experience-on-campus-3/",
+    "reason": "Actual campus visit explicitly August 2021, despite July 2025 update.",
+    "reviewed_at": "2026-11-07"
+  },
+  {
+    "company": "Salesforce",
+    "url": "https://drive.google.com/file/d/11WimZTqOvK51pqCAN7Jsdl9Bop2QXRua/view#page=169",
+    "reason": "Explicitly off-campus Tech Accelerator account; not entered into campus OA tables.",
+    "reviewed_at": "2026-11-07"
+  },
+  {
+    "company": "Samsung (R&D)",
+    "url": "https://drive.google.com/file/d/11WimZTqOvK51pqCAN7Jsdl9Bop2QXRua/view#page=177",
+    "reason": "Korea assessment described as offline; broad preparation topics do not identify the particular OA task.",
+    "reviewed_at": "2026-11-07"
+  },
+  {
+    "company": "Microsoft",
+    "url": "https://drive.google.com/file/d/18PDJHXMp93RX6v34iiNu431txw35PfcQ/view#page=31",
+    "reason": "AI Security role explicitly used interviews without tests; no OA coding topic contributed.",
+    "reviewed_at": "2026-11-07"
+  },
+  {
+    "company": "Intel",
+    "url": "https://drive.google.com/file/d/18PDJHXMp93RX6v34iiNu431txw35PfcQ/view#page=117",
+    "reason": "Yield-engineer report describes interviews only, without a DSA coding OA.",
+    "reviewed_at": "2026-11-07"
   }
 ]

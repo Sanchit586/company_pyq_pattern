@@ -1,0 +1,276 @@
+[
+  {
+    "id": "R068",
+    "company": "DE Shaw",
+    "oa_year": 2025,
+    "year_basis": "source_title_year_with_role_year_ambiguity",
+    "campus": "IIT Bhubaneswar",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_body",
+    "role": "Campus OA",
+    "source_url": "https://codeforces.com/blog/entry/145050",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Prefix Sum; Substring Enumeration",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Bounded input permits quadratic substring counting."
+      },
+      {
+        "topic": "Queues; Event Simulation; Priority Rules",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Stateful priority and idle-time handling require careful event simulation; estimated, not an official label."
+      },
+      {
+        "topic": "Hashing; Sorting; Coordinate Grouping; Nearest Neighbors",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Group and sort coordinates to answer large query sets."
+      }
+    ],
+    "notes": "Three OA tasks. Title identifies the 2025 assessment; body also uses 2025 as the internship role year."
+  },
+  {
+    "id": "R069",
+    "company": "Amazon",
+    "oa_year": null,
+    "year_basis": "oa_calendar_year_not_stated",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_body",
+    "role": "Campus OA",
+    "source_url": "https://medium.com/@swgiitkgp/foresight-2025-internship-at-amazon-vivek-malik-f1bce30678ab",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Implementation",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate explicitly describes the OA task as easy."
+      },
+      {
+        "topic": "Binary Search",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate explicitly describes the OA task as easy."
+      }
+    ],
+    "notes": "July 25 OA; published May 2025 for a summer 2025 internship. Calendar year absent; 2024 is plausible but not confirmed. Later tree/DP interview tasks excluded.",
+    "year_candidates": [
+      2024
+    ]
+  },
+  {
+    "id": "R070",
+    "company": "Google",
+    "oa_year": 2024,
+    "year_basis": "explicit_recruitment_month_year",
+    "campus": "IIIT Gwalior",
+    "campus_group": "IIIT",
+    "campus_basis": "explicit_source_body",
+    "role": "Campus OA",
+    "source_url": "https://medium.com/@Ishpreet_Kaur/google-interview-experience-sde-e717b42dd1f0",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "notes": "August 2024 campus opening followed by OA within a week. Two DSA items, topics undisclosed. DP, trees, and sliding window describe later interviews."
+  },
+  {
+    "id": "R071",
+    "company": "Uber",
+    "oa_year": null,
+    "year_basis": "oa_calendar_year_not_stated",
+    "campus": "IIT Jodhpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_body",
+    "role": "Campus OA",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/uber-interview-experience-for-summer-intern-on-campus/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Dynamic Programming; Memoization",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "No individual task rating or constraints disclosed."
+      },
+      {
+        "topic": "Geometry; Two-Dimensional Constraints",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "The recollection does not distinguish packing from nesting or provide constraints."
+      },
+      {
+        "topic": "Number Theory; Base Conversion; Strings",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Straightforward positional-base conversion with representation handling."
+      }
+    ],
+    "notes": "Three OA topics disclosed. August 2023 page update is not an event-year statement; calendar year remains unconfirmed."
+  },
+  {
+    "id": "R072",
+    "company": "Amazon",
+    "oa_year": null,
+    "year_basis": "oa_calendar_year_not_stated",
+    "campus": "NIT Warangal",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_body",
+    "role": "Campus OA",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/amazon-interview-experiencesde-internship-on-campus/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Arrays; Deques",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "No individual task rating or constraints disclosed."
+      }
+    ],
+    "notes": "Candidate recalls OA data structures and a shuffled pool, without sufficient formulations or ratings. August 2024 update does not establish OA year."
+  },
+  {
+    "id": "R073",
+    "company": "Squarepoint Capital",
+    "oa_year": null,
+    "year_basis": "oa_calendar_year_not_stated",
+    "campus": "IIT Delhi (author affiliation)",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_body",
+    "role": "Campus OA",
+    "source_url": "https://github.com/Shivam5022/Interview-Experiences",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_and_drive_uncertain",
+    "topics": [
+      {
+        "topic": "Two Pointers",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "No individual task rating or constraints disclosed."
+      },
+      {
+        "topic": "Implementation",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "No individual task rating or constraints disclosed."
+      }
+    ],
+    "notes": "Author groups campus and off-campus experiences without attributing this drive or its year. Codeforces 1600 is not converted to a LeetCode rating."
+  },
+  {
+    "id": "R074",
+    "company": "Graviton Research Capital",
+    "oa_year": 2024,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_body",
+    "role": "Campus OA",
+    "source_url": "https://drive.google.com/file/d/1668Li-oWwacpL0ZORYKzTRnPhjN1ScRw/view#page=55",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Dynamic Programming",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "No individual task rating or constraints disclosed."
+      },
+      {
+        "topic": "Graphs",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "No individual task rating or constraints disclosed."
+      }
+    ],
+    "notes": "PDF p55. Year inferred from p2's previous-year collection statement; no task-specific difficulty."
+  },
+  {
+    "id": "R075",
+    "company": "Microsoft",
+    "oa_year": 2024,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_body",
+    "role": "Campus OA",
+    "source_url": "https://drive.google.com/file/d/1668Li-oWwacpL0ZORYKzTRnPhjN1ScRw/view#page=62",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Grids",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "No individual task rating or constraints disclosed."
+      },
+      {
+        "topic": "Dynamic Programming",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "No individual task rating or constraints disclosed."
+      }
+    ],
+    "notes": "PDF p62. OA topics explicitly separated from interview topics. Year inferred from p2."
+  },
+  {
+    "id": "R076",
+    "company": "Nvidia",
+    "oa_year": 2024,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_body",
+    "role": "Campus OA",
+    "source_url": "https://drive.google.com/file/d/1668Li-oWwacpL0ZORYKzTRnPhjN1ScRw/view#page=33",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "notes": "PDF p33: two coding tasks; topics absent. Year inferred from p2.",
+    "overall_difficulty": "Easy–Medium",
+    "overall_difficulty_basis": "reported"
+  },
+  {
+    "id": "R077",
+    "company": "Sprinklr",
+    "oa_year": 2024,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_body",
+    "role": "Campus OA",
+    "source_url": "https://drive.google.com/file/d/1668Li-oWwacpL0ZORYKzTRnPhjN1ScRw/view#page=68",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "notes": "PDF p68: three OA items; topics absent. Year inferred from p2.",
+    "overall_difficulty": "Hard",
+    "overall_difficulty_basis": "reported"
+  }
+]

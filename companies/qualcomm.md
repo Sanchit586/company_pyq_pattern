@@ -2,7 +2,7 @@
 
 Scope: campus OA coding at IITs, NITs, IIITs, and BITS; calendar years 2023–2026.
 
-Research date: 2026-11-06. Public reports are incomplete. Counts represent source observations, not unique questions.
+Research date: 2026-11-07. Public reports are incomplete. Counts represent source observations, not unique questions.
 
 Difficulty: **official** = checked LeetCode match; **estimate** = researcher estimate on that scale; **reported** = source author’s label. Ranges and unknowns remain unresolved.
 

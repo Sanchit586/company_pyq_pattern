@@ -2,7 +2,7 @@
 
 Scope: campus OA coding at IITs, NITs, IIITs, and BITS; calendar years 2023–2026.
 
-Research date: 2026-11-06. Public reports are incomplete. Counts represent source observations, not unique questions.
+Research date: 2026-11-07. Public reports are incomplete. Counts represent source observations, not unique questions.
 
 Difficulty: **official** = checked LeetCode match; **estimate** = researcher estimate on that scale; **reported** = source author’s label. Ranges and unknowns remain unresolved.
 
@@ -25,9 +25,9 @@ Additional campus leads (metadata only; topics not inferred from titles):
 
 ## 2024
 
-Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+Coverage: `report_without_topics`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+- [R070](https://medium.com/@Ishpreet_Kaur/google-interview-experience-sde-e717b42dd1f0), IIIT Gwalior. No specific OA topics disclosed. August 2024 campus opening followed by OA within a week. Two DSA items, topics undisclosed. DP, trees, and sliding window describe later interviews. Year evidence: `explicit_recruitment_month_year`.
 
 ## 2025
 

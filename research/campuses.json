@@ -1,0 +1,655 @@
+{
+  "scope_note": "88-campus search roster: 23 Indian IIT main campuses, 31 NITs, 25 centrally listed IIITs plus five state/international IIITs, and four established BITS engineering campuses. Satellite and newly established campuses are not asserted to have four years of OA history.",
+  "verified_at": "2026-11-07",
+  "campuses": [
+    {
+      "id": "iit-bhubaneswar",
+      "name": "IIT Bhubaneswar",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-bombay",
+      "name": "IIT Bombay",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-mandi",
+      "name": "IIT Mandi",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-delhi",
+      "name": "IIT Delhi",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-indore",
+      "name": "IIT Indore",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-kharagpur",
+      "name": "IIT Kharagpur",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-hyderabad",
+      "name": "IIT Hyderabad",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-jodhpur",
+      "name": "IIT Jodhpur",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-kanpur",
+      "name": "IIT Kanpur",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-madras",
+      "name": "IIT Madras",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-gandhinagar",
+      "name": "IIT Gandhinagar",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-patna",
+      "name": "IIT Patna",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-roorkee",
+      "name": "IIT Roorkee",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-dhanbad",
+      "name": "IIT Dhanbad",
+      "group": "IIT",
+      "aliases": [
+        "IIT ISM Dhanbad"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-ropar",
+      "name": "IIT Ropar",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-bhu-varanasi",
+      "name": "IIT BHU Varanasi",
+      "group": "IIT",
+      "aliases": [
+        "IIT BHU"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-guwahati",
+      "name": "IIT Guwahati",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-bhilai",
+      "name": "IIT Bhilai",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-goa",
+      "name": "IIT Goa",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-palakkad",
+      "name": "IIT Palakkad",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-tirupati",
+      "name": "IIT Tirupati",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-jammu",
+      "name": "IIT Jammu",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iit-dharwad",
+      "name": "IIT Dharwad",
+      "group": "IIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-jalandhar",
+      "name": "NIT Jalandhar",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-jaipur",
+      "name": "NIT Jaipur",
+      "group": "NIT",
+      "aliases": [
+        "MNIT Jaipur"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-bhopal",
+      "name": "NIT Bhopal",
+      "group": "NIT",
+      "aliases": [
+        "MANIT Bhopal",
+        "MANIT"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-allahabad",
+      "name": "NIT Allahabad",
+      "group": "NIT",
+      "aliases": [
+        "MNNIT Allahabad",
+        "MNNIT"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-agartala",
+      "name": "NIT Agartala",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-andhra-pradesh",
+      "name": "NIT Andhra Pradesh",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-arunachal-pradesh",
+      "name": "NIT Arunachal Pradesh",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-calicut",
+      "name": "NIT Calicut",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-delhi",
+      "name": "NIT Delhi",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-durgapur",
+      "name": "NIT Durgapur",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-goa",
+      "name": "NIT Goa",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-hamirpur",
+      "name": "NIT Hamirpur",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-jamshedpur",
+      "name": "NIT Jamshedpur",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-karnataka-surathkal",
+      "name": "NIT Karnataka Surathkal",
+      "group": "NIT",
+      "aliases": [
+        "NITK",
+        "NIT Surathkal"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-kurukshetra",
+      "name": "NIT Kurukshetra",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-manipur",
+      "name": "NIT Manipur",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-meghalaya",
+      "name": "NIT Meghalaya",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-mizoram",
+      "name": "NIT Mizoram",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-nagaland",
+      "name": "NIT Nagaland",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-patna",
+      "name": "NIT Patna",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-puducherry",
+      "name": "NIT Puducherry",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-raipur",
+      "name": "NIT Raipur",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-rourkela",
+      "name": "NIT Rourkela",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-sikkim",
+      "name": "NIT Sikkim",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-silchar",
+      "name": "NIT Silchar",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-srinagar",
+      "name": "NIT Srinagar",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-surat",
+      "name": "NIT Surat",
+      "group": "NIT",
+      "aliases": [
+        "SVNIT"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-tiruchirappalli",
+      "name": "NIT Tiruchirappalli",
+      "group": "NIT",
+      "aliases": [
+        "NIT Trichy"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-uttarakhand",
+      "name": "NIT Uttarakhand",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-warangal",
+      "name": "NIT Warangal",
+      "group": "NIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "nit-nagpur",
+      "name": "NIT Nagpur",
+      "group": "NIT",
+      "aliases": [
+        "VNIT"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-gwalior",
+      "name": "IIIT Gwalior",
+      "group": "IIIT",
+      "aliases": [
+        "ABV IIITM Gwalior"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-allahabad",
+      "name": "IIIT Allahabad",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-sri-city",
+      "name": "IIIT Sri City",
+      "group": "IIIT",
+      "aliases": [
+        "IIIT Chittoor"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-kurnool",
+      "name": "IIIT Kurnool",
+      "group": "IIIT",
+      "aliases": [
+        "IIITDM Kurnool"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-guwahati",
+      "name": "IIIT Guwahati",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-kalyani",
+      "name": "IIIT Kalyani",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-kota",
+      "name": "IIIT Kota",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-lucknow",
+      "name": "IIIT Lucknow",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-manipur",
+      "name": "IIIT Manipur",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-raichur",
+      "name": "IIIT Raichur",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-sonepat",
+      "name": "IIIT Sonepat",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-tiruchirappalli",
+      "name": "IIIT Tiruchirappalli",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-una",
+      "name": "IIIT Una",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-vadodara",
+      "name": "IIIT Vadodara",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-kancheepuram",
+      "name": "IIIT Kancheepuram",
+      "group": "IIIT",
+      "aliases": [
+        "IIITDM Kancheepuram"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-agartala",
+      "name": "IIIT Agartala",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-bhagalpur",
+      "name": "IIIT Bhagalpur",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-bhopal",
+      "name": "IIIT Bhopal",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-dharwad",
+      "name": "IIIT Dharwad",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-kottayam",
+      "name": "IIIT Kottayam",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-nagpur",
+      "name": "IIIT Nagpur",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-pune",
+      "name": "IIIT Pune",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-ranchi",
+      "name": "IIIT Ranchi",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-surat",
+      "name": "IIIT Surat",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-jabalpur",
+      "name": "IIIT Jabalpur",
+      "group": "IIIT",
+      "aliases": [
+        "IIITDM Jabalpur"
+      ],
+      "registry_source": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx"
+    },
+    {
+      "id": "iiit-hyderabad",
+      "name": "IIIT Hyderabad",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://www.iiit.ac.in/"
+    },
+    {
+      "id": "iiit-bangalore",
+      "name": "IIIT Bangalore",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://www.iiitb.ac.in/"
+    },
+    {
+      "id": "iiit-delhi",
+      "name": "IIIT Delhi",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://iiitd.ac.in/"
+    },
+    {
+      "id": "iiit-bhubaneswar",
+      "name": "IIIT Bhubaneswar",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://www.iiit-bh.ac.in/"
+    },
+    {
+      "id": "iiit-naya-raipur",
+      "name": "IIIT Naya Raipur",
+      "group": "IIIT",
+      "aliases": [],
+      "registry_source": "https://www.iiitnr.ac.in/"
+    },
+    {
+      "id": "bits-pilani",
+      "name": "BITS Pilani",
+      "group": "BITS",
+      "aliases": [],
+      "registry_source": "https://www.bits-pilani.ac.in/contact-us/"
+    },
+    {
+      "id": "bits-goa",
+      "name": "BITS Goa",
+      "group": "BITS",
+      "aliases": [
+        "BITS Pilani Goa"
+      ],
+      "registry_source": "https://www.bits-pilani.ac.in/contact-us/"
+    },
+    {
+      "id": "bits-hyderabad",
+      "name": "BITS Hyderabad",
+      "group": "BITS",
+      "aliases": [],
+      "registry_source": "https://www.bits-pilani.ac.in/contact-us/"
+    },
+    {
+      "id": "bits-dubai",
+      "name": "BITS Dubai",
+      "group": "BITS",
+      "aliases": [],
+      "registry_source": "https://www.bits-pilani.ac.in/contact-us/"
+    }
+  ]
+}

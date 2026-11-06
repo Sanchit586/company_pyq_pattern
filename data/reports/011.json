@@ -1,0 +1,32 @@
+[
+  {
+    "id": "R092",
+    "company": "Microsoft",
+    "oa_year": 2025,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "publisher_campus_and_cdc_collection",
+    "role": "Campus OA",
+    "source_url": "https://drive.google.com/file/d/11WimZTqOvK51pqCAN7Jsdl9Bop2QXRua/view#page=124",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Bit Manipulation; XOR; Bitmasking",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Source gives task topic and level."
+      },
+      {
+        "topic": "Strings; Dynamic Programming",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Source gives task topic and level."
+      }
+    ],
+    "notes": "p124: mid-July OA."
+  }
+]

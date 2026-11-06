@@ -5,7 +5,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 YEARS = (2023, 2024, 2025, 2026)
-AS_OF = '2026-11-06'
+AS_OF = '2026-11-07'
 ALLOWED_GROUPS = {'IIT', 'NIT', 'IIIT', 'BITS'}
 
 
@@ -141,6 +141,12 @@ def main():
                'companies_with_qualifying_topics': len({r['company'] for r in observations}),
                'recorded_company_search_queries': len(queries), 'unique_recorded_company_search_queries': len(set(queries)),
                'archive_access_audits': len(access), 'coverage_status_counts': dict(status_counts), 'complete': False}
+    campus_summary = ROOT / 'research/campus_search_summary.json'
+    if campus_summary.exists():
+        campus_progress = read_json(campus_summary)
+        summary['campus_roster_size'] = campus_progress['roster_campuses']
+        summary['executed_campus_year_discovery_queries'] = campus_progress['executed_campus_year_queries']
+        summary['individual_company_campus_year_search_complete'] = False
     write_json(ROOT / 'data/summary.json', summary)
     print(json.dumps(summary, indent=2))
 

@@ -2,7 +2,7 @@
 
 Scope: campus OA coding at IITs, NITs, IIITs, and BITS; calendar years 2023–2026.
 
-Research date: 2026-11-06. Public reports are incomplete. Counts represent source observations, not unique questions.
+Research date: 2026-11-07. Public reports are incomplete. Counts represent source observations, not unique questions.
 
 Difficulty: **official** = checked LeetCode match; **estimate** = researcher estimate on that scale; **reported** = source author’s label. Ranges and unknowns remain unresolved.
 
@@ -42,4 +42,14 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## Evidence outside the main dated coding tables
 
-None curated.
+### [R071](https://www.geeksforgeeks.org/interview-experiences/uber-interview-experience-for-summer-intern-on-campus/)
+
+Year: unconfirmed; campus: IIT Jodhpur; status: `year_uncertain`; assessment: `coding`.
+
+Three OA topics disclosed. August 2023 page update is not an event-year statement; calendar year remains unconfirmed.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Dynamic Programming; Memoization | Unknown | unknown |
+| Geometry; Two-Dimensional Constraints | Unknown | unknown |
+| Number Theory; Base Conversion; Strings | Easy | estimate |

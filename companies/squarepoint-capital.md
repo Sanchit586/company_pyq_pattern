@@ -2,7 +2,7 @@
 
 Scope: campus OA coding at IITs, NITs, IIITs, and BITS; calendar years 2023–2026.
 
-Research date: 2026-11-06. Public reports are incomplete. Counts represent source observations, not unique questions.
+Research date: 2026-11-07. Public reports are incomplete. Counts represent source observations, not unique questions.
 
 Difficulty: **official** = checked LeetCode match; **estimate** = researcher estimate on that scale; **reported** = source author’s label. Ranges and unknowns remain unresolved.
 
@@ -53,3 +53,14 @@ Year: unconfirmed; campus: IIT Kharagpur; status: `year_uncertain`; assessment: 
 |---|---|---|
 | Binary Search | Unknown | unknown |
 | Strings; Hashing | Unknown | unknown |
+
+### [R073](https://github.com/Shivam5022/Interview-Experiences)
+
+Year: unconfirmed; campus: IIT Delhi (author affiliation); status: `year_and_drive_uncertain`; assessment: `coding`.
+
+Author groups campus and off-campus experiences without attributing this drive or its year. Codeforces 1600 is not converted to a LeetCode rating.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Two Pointers | Unknown | unknown |
+| Implementation | Unknown | unknown |

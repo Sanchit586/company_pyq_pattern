@@ -1,0 +1,88 @@
+[
+  {
+    "id": "R078",
+    "company": "Graviton Research Capital",
+    "oa_year": 2023,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "publisher_campus_and_cdc_collection",
+    "role": "Campus OA",
+    "source_url": "https://drive.google.com/file/d/13Sxvx0GWcJPv9z0xVEcktMSMMrzwCoi4/view#page=6",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Trees; Bit Manipulation",
+        "difficulty": "Unknown",
+        "difficulty_range": [
+          "Medium",
+          "Hard"
+        ],
+        "difficulty_basis": "reported_range",
+        "rationale": "Two tasks are described together."
+      },
+      {
+        "topic": "Bit Manipulation; Invariants",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "No individual level stated."
+      }
+    ],
+    "notes": "PDF p6. Year inferred from p2's previous-year collection statement; exact pool size unclear."
+  },
+  {
+    "id": "R079",
+    "company": "Microsoft",
+    "oa_year": 2023,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "publisher_campus_and_cdc_collection",
+    "role": "Campus OA",
+    "source_url": "https://drive.google.com/file/d/1Gkt1r7gJm_cx66Xu35L-uwFp18njEGAc/view#page=37",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Parsing; Data Processing",
+        "difficulty": "Unknown",
+        "difficulty_range": [
+          "Easy",
+          "Medium"
+        ],
+        "difficulty_basis": "reported_oa_range",
+        "rationale": "Overall coding-test range only."
+      }
+    ],
+    "notes": "PDF p37. Data-scientist coding screening; later interview topics excluded. Year inferred from p2."
+  },
+  {
+    "id": "R080",
+    "company": "Optiver",
+    "oa_year": 2023,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "publisher_campus_and_cdc_collection",
+    "role": "Campus OA",
+    "source_url": "https://drive.google.com/file/d/1Gkt1r7gJm_cx66Xu35L-uwFp18njEGAc/view#page=14",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Implementation; Basic Data Structures",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "Aggregate description of three tasks."
+      }
+    ],
+    "notes": "PDF p14. Shared nationwide screening followed by HackerRank coding in a campus-recruitment account. Year inferred from p2."
+  }
+]

@@ -1,8 +1,10 @@
 # Company OA topic and difficulty research
 
-Topics and difficulty only, for the 52 requested companies and calendar years **2023, 2024, 2025, and 2026**. Institution scope: **IITs, NITs, IIITs, and BITS**. Research cutoff: **November 6, 2026**.
+Topics and difficulty only, for the 52 requested companies and calendar years **2023, 2024, 2025, and 2026**. Institution scope: **IITs, NITs, IIITs, and BITS**. Research cutoff: **November 7, 2026**.
 
 **This is a partial, source-backed public dataset. It is not an exhaustive collection of every campus OA.** Public evidence does not support filling every company/year cell, and 2026 is still in progress. Empty cells must not be interpreted as absence of an OA.
+
+The initial pass was insufficient for the requested campus-by-campus scope. The [campus search audit](CAMPUS_SEARCHES.md) now distinguishes executed discovery searches from actual source review. The full company/campus/year matrix remains unfinished.
 
 Start with the **[52-company coverage table](COVERAGE.md)**. Each company links to four year sections, topic/difficulty tables, source links, and evidence limitations.
 
@@ -11,6 +13,7 @@ Start with the **[52-company coverage table](COVERAGE.md)**. Each company links 
 | File | Purpose |
 |---|---|
 | [COVERAGE.md](COVERAGE.md) | Browse all 208 company/year cells |
+| [CAMPUS_SEARCHES.md](CAMPUS_SEARCHES.md) | Inspect the 88-campus search roster and the limits of the discovery sweep |
 | [data/topics.json](data/topics.json) | Qualifying dated campus OA topic observations |
 | [data/unverified_topics.json](data/unverified_topics.json) | Useful topics with unresolved year, campus, or drive scope |
 | [data/reports](data/reports) | Curated source records, including reports that disclose no specific OA topics |
@@ -37,6 +40,7 @@ Python 3.10+ is sufficient for the offline build and checks:
 
 ```sh
 python scripts/build_dataset.py
+python scripts/build_campus_search_log.py
 python scripts/validate_dataset.py
 ```
 

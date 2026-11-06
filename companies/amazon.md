@@ -2,7 +2,7 @@
 
 Scope: campus OA coding at IITs, NITs, IIITs, and BITS; calendar years 2023–2026.
 
-Research date: 2026-11-06. Public reports are incomplete. Counts represent source observations, not unique questions.
+Research date: 2026-11-07. Public reports are incomplete. Counts represent source observations, not unique questions.
 
 Difficulty: **official** = checked LeetCode match; **estimate** = researcher estimate on that scale; **reported** = source author’s label. Ranges and unknowns remain unresolved.
 
@@ -45,3 +45,24 @@ Second OA item is not recalled. Interview-only stack/tree items excluded.
 | Topic | Difficulty | Basis |
 |---|---|---|
 | Arrays; Prefix Sum | Easy | estimate |
+
+### [R069](https://medium.com/@swgiitkgp/foresight-2025-internship-at-amazon-vivek-malik-f1bce30678ab)
+
+Year: unconfirmed; campus: IIT Kharagpur; status: `year_uncertain`; assessment: `coding`.
+
+July 25 OA; published May 2025 for a summer 2025 internship. Calendar year absent; 2024 is plausible but not confirmed. Later tree/DP interview tasks excluded.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Implementation | Easy | reported |
+| Binary Search | Easy | reported |
+
+### [R072](https://www.geeksforgeeks.org/interview-experiences/amazon-interview-experiencesde-internship-on-campus/)
+
+Year: unconfirmed; campus: NIT Warangal; status: `year_uncertain`; assessment: `coding`.
+
+Candidate recalls OA data structures and a shuffled pool, without sufficient formulations or ratings. August 2024 update does not establish OA year.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Arrays; Deques | Unknown | unknown |

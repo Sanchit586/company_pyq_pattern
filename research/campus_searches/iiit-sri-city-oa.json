@@ -1,0 +1,114 @@
+{
+  "campus_id": "iiit-sri-city",
+  "campus": "IIIT Sri City",
+  "campus_group": "IIIT",
+  "searched_at": "2026-11-07",
+  "queries": [
+    {
+      "year": 2023,
+      "q": "\"IIIT Chittoor\" \"2023\" \"online assessment\"",
+      "results": [
+        {
+          "title": "Annual Report 2022-23: Education Overview | PDF",
+          "url": "https://www.scribd.com/document/716660374/Annual-Report-2022-23-English"
+        },
+        {
+          "title": "Annual Report 2017-18 | PDF | Computer Security | Security",
+          "url": "https://www.scribd.com/document/422399970/Annual-Report-2017-18"
+        },
+        {
+          "title": "Swarnandhra College of Engineering and Technology(autonomous) | SCET Narsapur",
+          "url": "https://www.swarnandhra.ac.in/photogallery.php"
+        },
+        {
+          "title": "Swarnandhra - News & Gallery Management",
+          "url": "https://www.swarnandhra.ac.in/webmanager/"
+        },
+        {
+          "title": "Annual Report 2021-22: India Education Ministry",
+          "url": "https://studylib.net/doc/26186112/annual-report-eng"
+        },
+        {
+          "title": "Annual Report 2023-24 Overview | PDF | Agriculture | Organic Farming",
+          "url": "https://www.scribd.com/document/860146450/Annual-Report-2023-24-English-Version-22042025"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "\"IIIT Chittoor\" \"2024\" \"online assessment\"",
+      "results": [
+        {
+          "title": "Annual Report 2022-23: Education Overview | PDF",
+          "url": "https://www.scribd.com/document/716660374/Annual-Report-2022-23-English"
+        },
+        {
+          "title": "Swarnandhra - News & Gallery Management",
+          "url": "https://www.swarnandhra.ac.in/webmanager/"
+        },
+        {
+          "title": "Annual Report 2023-24 Overview | PDF | Agriculture | Organic Farming",
+          "url": "https://www.scribd.com/document/860146450/Annual-Report-2023-24-English-Version-22042025"
+        },
+        {
+          "title": "Swarnandhra College of Engineering and Technology(autonomous) | SCET Narsapur",
+          "url": "https://www.swarnandhra.ac.in/photogallery.php"
+        },
+        {
+          "title": "Annual Report 2023-24 Overview | PDF | Agriculture | Organic Farming",
+          "url": "https://it.scribd.com/document/860146450/Annual-Report-2023-24-English-Version-22042025"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "\"IIIT Chittoor\" \"2025\" \"online assessment\"",
+      "results": [
+        {
+          "title": "Annual Report 2022-23: Education Overview | PDF",
+          "url": "https://www.scribd.com/document/716660374/Annual-Report-2022-23-English"
+        },
+        {
+          "title": "Swarnandhra College of Engineering and Technology(autonomous) | SCET Narsapur",
+          "url": "https://www.swarnandhra.ac.in/photogallery.php"
+        },
+        {
+          "title": "Swarnandhra - News & Gallery Management",
+          "url": "https://www.swarnandhra.ac.in/webmanager/"
+        },
+        {
+          "title": "Annual Report 2017-18 | PDF | Computer Security | Security",
+          "url": "https://www.scribd.com/document/422399970/Annual-Report-2017-18"
+        },
+        {
+          "title": "Annual Report 2021-22: India Education Ministry",
+          "url": "https://studylib.net/doc/26186112/annual-report-eng"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "\"IIIT Chittoor\" \"2026\" \"online assessment\"",
+      "results": [
+        {
+          "title": "Swarnandhra College of Engineering and Technology(autonomous) | SCET Narsapur",
+          "url": "https://www.swarnandhra.ac.in/photogallery.php"
+        },
+        {
+          "title": "Swarnandhra - News & Gallery Management",
+          "url": "https://www.swarnandhra.ac.in/webmanager/"
+        },
+        {
+          "title": "Annual Report 2022-23: Education Overview | PDF",
+          "url": "https://www.scribd.com/document/716660374/Annual-Report-2022-23-English"
+        },
+        {
+          "title": "Annual Report 2021-22: India Education Ministry",
+          "url": "https://studylib.net/doc/26186112/annual-report-eng"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "note": "Exact campus/alias, year and OA-phrase discovery; hits require separate provenance review. Not an exhaustive company-by-campus search."
+}

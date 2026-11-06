@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Wells Fargo",
+    "oa_year": 2025,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "publisher_campus_and_cdc_collection",
+    "role": "Campus OA",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "id": "R095",
+    "source_url": "https://drive.google.com/file/d/11WimZTqOvK51pqCAN7Jsdl9Bop2QXRua/view#page=225",
+    "scope": "delivery_mode_uncertain",
+    "topics": [
+      {
+        "topic": "Strings; Sets",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Formulation absent."
+      },
+      {
+        "topic": "Three-Dimensional Dynamic Programming",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Formulation absent."
+      }
+    ],
+    "notes": "p225: conflicting online/offline wording."
+  },
+  {
+    "company": "Wells Fargo",
+    "oa_year": 2025,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "publisher_campus_and_cdc_collection",
+    "role": "Campus OA",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "id": "R096",
+    "source_url": "https://drive.google.com/file/d/11WimZTqOvK51pqCAN7Jsdl9Bop2QXRua/view#page=228",
+    "scope": "supported",
+    "topics": [],
+    "notes": "p228: TAP OA topics absent."
+  }
+]

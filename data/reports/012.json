@@ -1,0 +1,43 @@
+[
+  {
+    "oa_year": 2025,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "publisher_campus_and_cdc_collection",
+    "role": "Campus OA",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "id": "R093",
+    "company": "Samsung (R&D)",
+    "source_url": "https://drive.google.com/file/d/11WimZTqOvK51pqCAN7Jsdl9Bop2QXRua/view#page=179",
+    "topics": [
+      {
+        "topic": "Graphs",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Explicit OA topic and level."
+      }
+    ],
+    "notes": "p179: one three-hour SRI-B OA."
+  },
+  {
+    "oa_year": 2025,
+    "year_basis": "inferred_collection_previous_year",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "publisher_campus_and_cdc_collection",
+    "role": "Campus OA",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "id": "R094",
+    "company": "Oracle",
+    "source_url": "https://drive.google.com/file/d/11WimZTqOvK51pqCAN7Jsdl9Bop2QXRua/view#page=150",
+    "topics": [],
+    "notes": "p150: OA topics unspecified; linked lists/strings describe interviews."
+  }
+]

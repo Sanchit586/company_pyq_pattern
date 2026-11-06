@@ -2,7 +2,7 @@
 
 Scope: campus OA coding at IITs, NITs, IIITs, and BITS; calendar years 2023–2026.
 
-Research date: 2026-11-06. Public reports are incomplete. Counts represent source observations, not unique questions.
+Research date: 2026-11-07. Public reports are incomplete. Counts represent source observations, not unique questions.
 
 Difficulty: **official** = checked LeetCode match; **estimate** = researcher estimate on that scale; **reported** = source author’s label. Ranges and unknowns remain unresolved.
 
@@ -31,9 +31,9 @@ Coverage: `report_without_topics`. Completeness: **not established**.
 
 ## 2025
 
-Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+Coverage: `report_without_topics`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+- [R094](https://drive.google.com/file/d/11WimZTqOvK51pqCAN7Jsdl9Bop2QXRua/view#page=150), IIT Kharagpur. No specific OA topics disclosed. p150: OA topics unspecified; linked lists/strings describe interviews. Year evidence: `inferred_collection_previous_year`.
 
 ## 2026
 

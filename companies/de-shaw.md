@@ -2,7 +2,7 @@
 
 Scope: campus OA coding at IITs, NITs, IIITs, and BITS; calendar years 2023–2026.
 
-Research date: 2026-11-06. Public reports are incomplete. Counts represent source observations, not unique questions.
+Research date: 2026-11-07. Public reports are incomplete. Counts represent source observations, not unique questions.
 
 Difficulty: **official** = checked LeetCode match; **estimate** = researcher estimate on that scale; **reported** = source author’s label. Ranges and unknowns remain unresolved.
 
@@ -45,9 +45,16 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## 2025
 
-Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+Coverage: `topics_found`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+| Topic | Difficulty | Basis | Campus | Evidence |
+|---|---|---|---|---|
+| Strings; Prefix Sum; Substring Enumeration | Medium | estimate | IIT Bhubaneswar | [R068](https://codeforces.com/blog/entry/145050) |
+| Queues; Event Simulation; Priority Rules | Hard | estimate | IIT Bhubaneswar | [R068](https://codeforces.com/blog/entry/145050) |
+| Hashing; Sorting; Coordinate Grouping; Nearest Neighbors | Medium | estimate | IIT Bhubaneswar | [R068](https://codeforces.com/blog/entry/145050) |
+
+- [R068](https://codeforces.com/blog/entry/145050), IIT Bhubaneswar. Three OA tasks. Title identifies the 2025 assessment; body also uses 2025 as the internship role year. Year evidence: `source_title_year_with_role_year_ambiguity`.
+- [R087](https://drive.google.com/file/d/11WimZTqOvK51pqCAN7Jsdl9Bop2QXRua/view#page=46), IIT Kharagpur. No specific OA topics disclosed. Overall source rating: Easy / Medium–Hard / Hard (relative descriptions). p46: three OA tasks, topics absent. Year evidence: `inferred_collection_previous_year`.
 
 ## 2026
 

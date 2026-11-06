@@ -2,7 +2,7 @@
 
 ## Scope
 
-This dataset records DSA **coding** topics in screening online assessments for the requested companies, taken through IIT, NIT, IIIT, or BITS campus recruitment during **2023–2026**, through November 6, 2026. A computer-based OA supervised in a campus lab is included. A paper coding test whose online delivery is not established is held separately.
+This dataset records DSA **coding** topics in screening online assessments for the requested companies, taken through IIT, NIT, IIIT, or BITS campus recruitment during **2023–2026**, through November 7, 2026. A computer-based OA supervised in a campus lab is included. A paper coding test whose online delivery is not established is held separately.
 
 The campus may be explicitly unnamed if a candidate states that the drive was at an IIT or NIT. A subreddit name alone does not establish the author's institute. A college listed only as an exam venue does not establish campus recruitment. BIT Mesra, DTU, NSUT, and other institutions outside the requested groups are excluded from the main tables.
 
@@ -13,6 +13,8 @@ Quantitative aptitude, MCQs, SQL, frontend tasks, ML theory, debugging repositor
 Public candidate accounts, institute placement-office accounts, student-body interviews, and community OA reports provide the evidence. Commercial preparation pages and mirrors can identify leads but are not used to invent campus-specific historical patterns. Anonymous community reports remain unverified accounts of an OA; a readable source is not independent employer confirmation.
 
 The recorded broad search sweep uses eight queries per company: four calendar-year searches and four institute-group searches. Targeted follow-ups examine dates, rounds, campus attribution, public attachments, and official difficulty references. Search-result metadata is a discovery queue, not proof of every claim in a page title.
+
+That initial sweep did not fulfill the requested campus-by-campus depth. A subsequent 88-campus roster and 352 exact campus/year discovery queries are logged separately. These do not establish that every company was individually researched at every campus, or that every returned source was reviewed. See the campus audit for the unfinished scope.
 
 The public archive was additionally scanned by company tags, with up to four result pages per tag. Its navigation/sidebar links include unrelated posts and duplicate entries. The index therefore must not be counted as a verified question bank. Separate access audits distinguish public pages, public excerpts, title-only records, and fetch failures. Public pages with a short body can contain useful ordinary public attachments.
 

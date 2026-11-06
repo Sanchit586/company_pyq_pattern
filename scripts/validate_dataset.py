@@ -71,6 +71,16 @@ def main():
     require(all(r['complete'] is False for r in coverage), 'Exhaustive coverage is not established')
     counts = Counter((r['company'], r['oa_year']) for r in main_rows)
     require(all(r['topic_observations'] == counts[r['company'], r['oa_year']] for r in coverage), 'Stale coverage counts')
+    roster_path = ROOT / 'research/campuses.json'
+    if roster_path.exists():
+        roster = read_json(roster_path)['campuses']
+        require(len({c['id'] for c in roster}) == len(roster), 'Duplicate campus in search roster')
+        for campus in roster:
+            log = read_json(ROOT / 'research/campus_searches' / (campus['id'] + '-oa.json'))
+            require({q['year'] for q in log['queries']} == set(YEARS), 'Missing campus/year query: ' + campus['name'])
+            require(not log['errors'], 'Failed campus search: ' + campus['name'])
+            require(all(set(r) == {'title', 'url'} for q in log['queries'] for r in q['results']),
+                    'Campus search must store metadata only')
     for company in companies:
         page = ROOT / 'companies' / (company['slug'] + '.md')
         require(page.exists(), 'Missing company page: ' + company['name'])

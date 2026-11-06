@@ -2,7 +2,7 @@
 
 Scope: campus OA coding at IITs, NITs, IIITs, and BITS; calendar years 2023–2026.
 
-Research date: 2026-11-06. Public reports are incomplete. Counts represent source observations, not unique questions.
+Research date: 2026-11-07. Public reports are incomplete. Counts represent source observations, not unique questions.
 
 Difficulty: **official** = checked LeetCode match; **estimate** = researcher estimate on that scale; **reported** = source author’s label. Ranges and unknowns remain unresolved.
 
@@ -34,6 +34,7 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 Coverage: `report_without_topics`. Completeness: **not established**.
 
 - [R014](https://www.geeksforgeeks.org/interview-experiences/goldman-sachs-interview-experience-for-summer-analyst-trainee-internship-2025-oncampus/), NIT (unnamed). No specific OA topics disclosed. July 23, 2025 interview timeline; OA had three DSA items without disclosed topics or difficulty. Sorting and linked lists appeared in subsequent interviews. Year evidence: `explicit_interview_date_same_process`.
+- [R086](https://drive.google.com/file/d/11WimZTqOvK51pqCAN7Jsdl9Bop2QXRua/view#page=70), IIT Kharagpur. No specific OA topics disclosed. Overall source rating: Medium. p70: OA DSA topics absent. Year evidence: `inferred_collection_previous_year`.
 
 ## 2026
 
