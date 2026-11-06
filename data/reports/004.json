@@ -1,0 +1,324 @@
+[
+  {
+    "id": "R044",
+    "company": "IBM",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIIT Pune",
+    "campus_group": "IIIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p2064/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Arrays; Two Pointers; Simulation",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "A direction flag avoids repeatedly reversing the remaining array."
+      },
+      {
+        "topic": "Strings; Hashing; Parity Counts",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Independent parity-index frequency tables identify equivalent strings."
+      }
+    ],
+    "notes": "Public attachment reviewed on all eight pages; 6-month internship plus FTE."
+  },
+  {
+    "id": "R045",
+    "company": "IBM",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIIT Pune",
+    "campus_group": "IIIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p2063/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Parsing; Hashing; Sorting",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Parse structured inputs, compare common keys, and sort the result."
+      },
+      {
+        "topic": "Geometry; Case Analysis",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Circle relationships reduce to distance and radius comparisons."
+      }
+    ],
+    "notes": "Public attachment reviewed on all five pages; 6-month internship plus FTE."
+  },
+  {
+    "id": "R046",
+    "company": "Wells Fargo",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "MNIT Jaipur",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1811/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Arrays; Number Theory; Integer Square Roots",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "A linear scan with exact square checks suffices."
+      },
+      {
+        "topic": "Geometry; Trigonometry; Case Analysis",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Circle intersection requires separate disjoint, containment, and partial-overlap cases."
+      }
+    ],
+    "notes": "Explicit OA date August 21, 2023; all four attachment pages reviewed."
+  },
+  {
+    "id": "R047",
+    "company": "Databricks",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "NIT Rourkela",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p2046/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Stack; Simulation",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Direct stack operations process the event sequence."
+      },
+      {
+        "topic": "Arrays; Simulation",
+        "difficulty": "Medium",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/watering-plants/",
+        "rationale": "The public attachment matches the official sequential refill task."
+      }
+    ],
+    "notes": "Two public attachment pages reviewed; 6-month internship."
+  },
+  {
+    "id": "R048",
+    "company": "Sprinklr",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIIT Allahabad",
+    "campus_group": "IIIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1482/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Greedy; Sorting; Ordered Multiset",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Large two-dimensional matching benefits from a sorted sweep and ordered candidate set."
+      },
+      {
+        "topic": "Geometry; Hashing; Slopes",
+        "difficulty": "Hard",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/max-points-on-a-line/",
+        "rationale": "The geometry task matches the official maximum-collinear-points objective; input bounds differ."
+      },
+      {
+        "topic": "Trees; DFS; Subtree Aggregation; Number Theory",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Count category frequencies in subtrees and test both sides of each edge."
+      }
+    ],
+    "notes": "Explicit OA date August 1, 2023. Six public attachment pages reviewed."
+  },
+  {
+    "id": "R049",
+    "company": "Sprinklr",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIT Madras",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1462/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Z Algorithm; Prefix/Suffix Counting",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Linear string matching plus range aggregation handles all prefix lengths."
+      },
+      {
+        "topic": "Bitmask Dynamic Programming; Number Theory",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Prime masks encode square-free products and avoid overlapping factors."
+      }
+    ],
+    "notes": "Four public attachment pages reviewed; custom variants rated by estimate."
+  },
+  {
+    "id": "R050",
+    "company": "Sprinklr",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIT Kanpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1425/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Bitmask Dynamic Programming; Number Theory",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Prime-factor subset states encode valid product combinations."
+      },
+      {
+        "topic": "Strings; Z Algorithm; Prefix/Suffix Counting",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "All prefix lengths require efficient string comparison and aggregation."
+      },
+      {
+        "topic": "Grids; Combinatorics; Invariants",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Equal path totals impose consistency on diagonals, followed by counting free choices."
+      }
+    ],
+    "notes": "Thirteen public attachment pages reviewed. OCR uses inconsistent cell labels in the grid task; classification relies on its path-consistency condition."
+  },
+  {
+    "id": "R051",
+    "company": "Arcesium",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "MNNIT Allahabad",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1761/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Trees; DFS; Tree Dynamic Programming",
+        "difficulty": "Hard",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "rationale": "The attachment matches the official unrestricted binary-tree path-sum objective."
+      },
+      {
+        "topic": "Number Theory; Digit Processing; Digital Root",
+        "difficulty": "Easy",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/add-digits/",
+        "rationale": "Repeated digit aggregation is the same task as the official reference."
+      }
+    ],
+    "notes": "Two public attachment pages reviewed; 2-month internship."
+  },
+  {
+    "id": "R052",
+    "company": "Eternal (Zomato)",
+    "oa_year": 2023,
+    "year_basis": "explicit_event_season",
+    "campus": "IIT (not named)",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/zomato-interview-experience-for-fte-on-campus-2023/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Data Streams; Parsing",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate explicitly reports this OA topic and level."
+      },
+      {
+        "topic": "Binary Search",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate explicitly reports this OA topic and level."
+      },
+      {
+        "topic": "Graphs; Dijkstra",
+        "difficulty": "Hard",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate explicitly reports this OA topic and level."
+      }
+    ],
+    "notes": "Actual placement season explicitly August–December 2023; page update in 2025 is not used as OA year."
+  },
+  {
+    "id": "R053",
+    "company": "Squarepoint Capital",
+    "oa_year": 2024,
+    "year_basis": "inferred_contemporary_event_date",
+    "campus": "IIT BHU",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://leetcode.com/discuss/post/6142016/squarepoint-capital-interview-experience-ki82/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "drive_type_uncertain",
+    "topics": [
+      {
+        "topic": "Arrays; Two Pointers",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate gives topic and difficulty without enough detail for an independent rating."
+      },
+      {
+        "topic": "Intervals; Overlap Handling",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate describes interval processing and labels both OA tasks medium."
+      }
+    ],
+    "notes": "December 2024 account places the first interview on October 22. Candidate calls this campus placement but later describes an off-campus pan-IIT process; kept outside strict campus table."
+  }
+]

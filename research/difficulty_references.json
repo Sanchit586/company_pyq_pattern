@@ -1,0 +1,146 @@
+[
+  {
+    "url": "https://leetcode.com/problems/next-permutation/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/reverse-string-ii/",
+    "difficulty": "Easy",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/find-pivot-index/",
+    "difficulty": "Easy",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/time-needed-to-inform-all-employees/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/word-break/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/split-array-largest-sum/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/watering-plants/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/max-points-on-a-line/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/add-digits/",
+    "difficulty": "Easy",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/partition-labels/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/freedom-trail/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/collect-coins-in-a-tree/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/delete-and-earn/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/reorder-list/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/count-of-integers/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence-ii/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/reverse-pairs/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/cat-and-mouse/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/path-with-maximum-probability/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-06",
+    "verification": "official_problem_page"
+  }
+]

@@ -1,0 +1,136 @@
+{
+  "company": "Arista Networks",
+  "accessed_at": "2026-11-06",
+  "queries": [
+    "\"Arista Networks\" IIT interview experience OA coding topics",
+    "\"Arista Networks\" NIT interview experience OA coding topics",
+    "\"Arista Networks\" IIIT interview experience OA coding topics",
+    "\"Arista Networks\" BITS interview experience OA coding topics"
+  ],
+  "results": [
+    {
+      "title": "Arista Networks Software Engineer Interview Experience — OA Plus a Virtual Round on Threads and Linked Lists | PracHub",
+      "url": "https://prachub.com/interview-experiences/arista-networks-software-engineer-interview-experience-oa-plus-a-virtual-round-on-threads-and-linked-lists"
+    },
+    {
+      "title": "Arista Networks | Software engineer interview| Off campus - Discuss - LeetCode",
+      "url": "https://leetcode.com/discuss/post/7506971/"
+    },
+    {
+      "title": "Arista Networks SDE Intern Interview Experience",
+      "url": "https://www.preplinc.com/experiences/interviews/details/my-interview-experience-at-arista-arista-networks-sde-intern-iit-dharwad-internship-2025-rgxT73zRCkgVEyj8EgdI/"
+    },
+    {
+      "title": "Arista Networks Experience | The Interview Room",
+      "url": "https://www.theinterviewroom.in/single/kshitij-narkhedes-experience-at-arista-networks-sde-2026-m1tDL3"
+    },
+    {
+      "title": "HiredVoices",
+      "url": "https://hiredvoices.com/main/experiences/arista-networks/sde"
+    },
+    {
+      "title": "Arista Networks Interview Experience - Software Engineering Intern | OAHelper",
+      "url": "https://www.oahelper.in/interview-experience/MTEz"
+    },
+    {
+      "title": "Arista Networks Software Intern Interview Experience - India",
+      "url": "https://www.jointaro.com/interviews/companies/arista-networks/experiences/software-intern-india-august-25-2025-no-offer-positive-f093ae62/"
+    },
+    {
+      "title": "Arista Networks Internship Interview Questions | Glassdoor",
+      "url": "https://static.glassdoor.co.in/Interview/Arista-Networks-Internship-Interview-Questions-EI_IE295128.0%2C15_KO16%2C26.htm"
+    },
+    {
+      "title": "Arista Networks Interview Questions & Experience | TheJobsMap",
+      "url": "https://www.thejobsmap.com/interview-questions/arista-networks"
+    },
+    {
+      "title": "Arista Networks Interview Experience - SDE Summer Intern | OAHelper",
+      "url": "https://www.oahelper.in/interview-experience/MjQ2Ng"
+    },
+    {
+      "title": "Arista Networks SDE intern Interview Questions | Glassdoor",
+      "url": "https://static.glassdoor.co.in/Interview/Arista-Networks-SDE-intern-Interview-Questions-EI_IE295128.0%2C15_KO16%2C26.htm"
+    },
+    {
+      "title": "Medium",
+      "url": "https://medium.com/%40shantanugaur26/arista-networks-internship-interview-experience-on-campus-2024-7cb54e3ea46f"
+    },
+    {
+      "title": "Company : Arista networks",
+      "url": "https://www.reddit.com/r/leetcode/comments/1p5bgvr/company_arista_networks/"
+    },
+    {
+      "title": "How hard is Arista Networks interview for 5 yoe developer?",
+      "url": "https://www.reddit.com/r/developersIndia/comments/1o1b6j2/how_hard_is_arista_networks_interview_for_5_yoe/"
+    },
+    {
+      "title": "Arista Networks (Cloud Networking) SWE Interview — More C++ Than LeetCode",
+      "url": "https://www.reddit.com/r/OfferEngineering/comments/1x6xdnn/arista_networks_cloud_networking_swe_interview/"
+    },
+    {
+      "title": "Arista Networks (Cloud Networking) SWE Interview — C++, Multithreading, and Bit Manipulation",
+      "url": "https://www.reddit.com/r/OfferEngineering/comments/1xguo0m/arista_networks_cloud_networking_swe_interview_c/"
+    },
+    {
+      "title": "Arista grad intern 2026",
+      "url": "https://www.reddit.com/r/leetcode/comments/1pwtqzx/arista_grad_intern_2026/"
+    },
+    {
+      "title": "Interview at Arista Networks (EOS Team) — What kind of questions should I expect?",
+      "url": "https://www.reddit.com/r/leetcode/comments/1o0oppm/interview_at_arista_networks_eos_team_what_kind/"
+    },
+    {
+      "title": "Short Summary of work done during PS-II: During my Practice School-II at Arista Networks, I worked on enhancing the software responsible for detecting, processing, and transmitting network interface information from wireless access points (APs) to the backend monitoring system. My primary objective was to build a robust mechanism to collect detailed interface attributes—such as name, type (wired/wireless/bridge), protocol support, and operational status—by combining data from system calls (like getifaddrs()) and a local capability configuration file. I designed logic to detect changes in the interface list dynamically and send updates only when changes occurred, thereby reducing unnecessary network traffic. Initially, this was implemented using Protobuf messages, but I later reverted to the existing binary packing format for compatibility with the server. Additionally, I contributed to packet capture functionality, enabling the AP to receive remote capture requests, stream packet data over selected interfaces, and transmit it back efficiently. I also wrote C-based unit tests using the CMocka framework to ensure correctness and reliability of core modules. This involved mocking global state, verifying protobuf structure population, and simulating interface list updates. My work demanded a strong understanding of low-level networking concepts, systems programming in C, and communication protocols. Overall, the project improved the observability and configurability of AP interfaces in production environments and strengthened my skills in embedded Linux, protocol design, and automated testing.",
+      "url": "https://www.bits-pilani.ac.in/wp-content/uploads/PS-II-Chronicles-Semester-II-2024-25-on-08-11-2025.pdf"
+    },
+    {
+      "title": "Need help: What kind of LLD/HLD questions are asked in Arista Networks interview (EOS Team, 2nd round)?",
+      "url": "https://www.reddit.com/r/leetcode/comments/1or2wil/need_help_what_kind_of_lldhld_questions_are_asked/"
+    },
+    {
+      "title": "Inquiry Regarding Arista Networks Hardware Engineer OA",
+      "url": "https://www.reddit.com/r/Arista/comments/1w022ed/inquiry_regarding_arista_networks_hardware/"
+    },
+    {
+      "title": "Arista Networks Interview Prep — What to Expect for Packet Forwarding Role?",
+      "url": "https://www.reddit.com/r/Arista/comments/1pdlbwf/arista_networks_interview_prep_what_to_expect_for/"
+    },
+    {
+      "title": "MADANAPALLE INSTITUTE OF TECHNOLOGY & SCIENCE",
+      "url": "https://mits.ac.in/assets/pdf/aids/Beyond%20the%20classroom%20Real-world%20Placement%20Strategies%20for%20Success.pdf"
+    },
+    {
+      "title": "Need help: What kind of LLD/HLD questions are asked in Arista Networks interview (EOS Team, 2nd round)?",
+      "url": "https://www.reddit.com/r/interviews/comments/1or2v8l/need_help_what_kind_of_lldhld_questions_are_asked/"
+    },
+    {
+      "title": "Interview at Arista Networks",
+      "url": "https://www.reddit.com/r/csMajors/comments/1iaxxl8"
+    },
+    {
+      "title": "Arista Networks Interview for New Grad",
+      "url": "https://www.reddit.com/r/csMajors/comments/1g9to59"
+    },
+    {
+      "title": "Manank Patel",
+      "url": "https://www.manank.in/Manank_CV.pdf"
+    },
+    {
+      "title": "IIT_JAMMU_BROCHURE_SEP4 copy",
+      "url": "https://iitjammu.ac.in/homepage/Publications/IIT_JAMMU_BROCHURE.pdf"
+    },
+    {
+      "title": "ANNUAL REPORT",
+      "url": "https://www.bits-goa.ac.in/files/ANNUAL-REPORT/Annual-Report-2025.pdf"
+    },
+    {
+      "title": "757",
+      "url": "https://iitk.ac.in/dora/spark/spark-issue-16/spark-issue-16.pdf"
+    },
+    {
+      "title": "Arista Networks",
+      "url": "https://en.wikipedia.org/wiki/Arista_Networks"
+    }
+  ]
+}

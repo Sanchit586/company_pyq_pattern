@@ -1,0 +1,444 @@
+[
+  {
+    "id": "R013",
+    "company": "Flipkart",
+    "oa_year": 2026,
+    "year_basis": "explicit_title",
+    "campus": "IIT Bhubaneswar",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_title",
+    "role": "GRiD SDE Intern",
+    "source_url": "https://codeforces.com/blog/entry/155657",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Number Theory; Arithmetic Progressions",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "The author explicitly labels this item easy."
+      },
+      {
+        "topic": "Arrays; Binary Tree Level Order",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "The input is already level order; the author labels it easy."
+      },
+      {
+        "topic": "Matrices; Simulation",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "The author labels the directional grid simulation medium."
+      }
+    ],
+    "notes": "Three coding slots. A sample arithmetic error is discussed in comments. This report is community evidence, not company confirmation."
+  },
+  {
+    "id": "R014",
+    "company": "Goldman Sachs",
+    "oa_year": 2025,
+    "year_basis": "explicit_interview_date_same_process",
+    "campus": "NIT (unnamed)",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_body",
+    "role": "Summer Analyst Trainee Intern",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/goldman-sachs-interview-experience-for-summer-analyst-trainee-internship-2025-oncampus/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "notes": "July 23, 2025 interview timeline; OA had three DSA items without disclosed topics or difficulty. Sorting and linked lists appeared in subsequent interviews."
+  },
+  {
+    "id": "R015",
+    "company": "Accenture",
+    "oa_year": 2026,
+    "year_basis": "explicit_day_month_and_post_date",
+    "campus": "NIT Jalandhar",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_body",
+    "role": "Campus internship",
+    "source_url": "https://www.reddit.com/r/accenture_india/comments/1xaotc1/accenture_oncampus_placement_experience_nit/",
+    "source_type": "candidate_report",
+    "published_date": "2026-10-20",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "notes": "October 12 OA included one DSA slot, one SQL task, and one frontend task. DSA topic and difficulty absent."
+  },
+  {
+    "id": "R016",
+    "company": "Accenture",
+    "oa_year": 2026,
+    "year_basis": "inferred_current_thread_date",
+    "campus": "IIIT Jabalpur (thread context)",
+    "campus_group": "IIIT",
+    "campus_basis": "subreddit_context_only",
+    "role": "Campus hiring",
+    "source_url": "https://www.reddit.com/r/iiitjabalpur/comments/1x0m4mb/accenture_oa_tomorrow_need_some_insights/",
+    "source_type": "candidate_comment",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "campus_uncertain",
+    "topics": [],
+    "reported_oa_difficulty": [
+      "Easy"
+    ],
+    "notes": "Comments describe easy Python coding but provide no concrete DSA topic. Subreddit membership does not verify an individual commenter's campus."
+  },
+  {
+    "id": "R017",
+    "company": "DE Shaw",
+    "oa_year": 2026,
+    "year_basis": "inferred_current_thread_date",
+    "campus": "IIT Ropar (thread context)",
+    "campus_group": "IIT",
+    "campus_basis": "subreddit_context_only",
+    "role": "Campus hiring",
+    "source_url": "https://www.reddit.com/r/IITroparr/comments/1vi5y0a/de_shaw_oa_experience/",
+    "source_type": "candidate_comment",
+    "published_date": "2026-08-07",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "campus_uncertain",
+    "topics": [
+      {
+        "topic": "Intervals; Difference Array; Sweep Line",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Bounded endpoints allow a difference array with a scan."
+      },
+      {
+        "topic": "Arrays; Dynamic Programming; Greedy",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Adjacent inequality under increment-only edits requires tracking local choices."
+      },
+      {
+        "topic": "Arrays; State Transformation",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "The recalled operation order and feasibility conditions need clarification."
+      }
+    ],
+    "notes": "Three timed coding slots; retain thread context as a lead rather than confirmed campus attribution."
+  },
+  {
+    "id": "R018",
+    "company": "DE Shaw",
+    "oa_year": 2026,
+    "year_basis": "inferred_contemporary_narrative",
+    "campus": "IIT (unnamed)",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_body",
+    "role": "New graduate",
+    "source_url": "https://leetcode.com/discuss/post/8415827/",
+    "source_type": "candidate_report",
+    "published_date": "2026-07-23",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "reported_oa_difficulty": [
+      "Medium",
+      "Hard"
+    ],
+    "notes": "Author says old-IIT campus placement and one medium plus two hard OA items. Binary search and arrays in the post belong to interviews."
+  },
+  {
+    "id": "R019",
+    "company": "DE Shaw",
+    "oa_year": null,
+    "year_candidates": [
+      2023,
+      2024
+    ],
+    "year_basis": "internship_year_only",
+    "campus": "IIT Kanpur",
+    "campus_group": "IIT",
+    "campus_basis": "campus_placement_office",
+    "role": "Software summer intern (2024)",
+    "source_url": "https://spo.iitk.ac.in/insights/2024-intern-akshat-singh-tiwari-de-shaw",
+    "source_type": "campus_placement_office_candidate_report",
+    "published_date": "2024-07-11",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Dynamic Programming; Mathematics",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Three OA items are grouped under these topics without individual ratings."
+      }
+    ],
+    "notes": "Interview graphs, heaps, and binary lifting are excluded. The page date is not the assessment date."
+  },
+  {
+    "id": "R020",
+    "company": "JP Morgan",
+    "oa_year": 2023,
+    "year_basis": "explicit_oa_month_year",
+    "campus": "IIT (unnamed)",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_body",
+    "role": "Strategy and Growth Engineering Program",
+    "source_url": "https://leetcode.com/discuss/post/4232348/JPMC-Online-Assessment-2023/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Prefix Sum; Digit Processing; Precomputation",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Many bounded range queries require preprocessing digit predicates and prefix counts."
+      },
+      {
+        "topic": "Strings; Two Pointers; Permutations",
+        "difficulty": "Medium",
+        "difficulty_basis": "official_leetcode",
+        "rationale": "Linear-time next-permutation logic on characters. Equivalent canonical objective; official level verified.",
+        "difficulty_reference": "https://leetcode.com/problems/next-permutation/"
+      }
+    ],
+    "notes": "October 2023, two coding slots. Candidate explicitly compares the second algorithm with a LeetCode problem; no official difficulty asserted yet."
+  },
+  {
+    "id": "R021",
+    "company": "Arcesium",
+    "oa_year": 2023,
+    "year_basis": "explicit_visit_month_year",
+    "campus": "NIT (unnamed)",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_body",
+    "role": "SDE Intern (summer 2024)",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/arcesium-interview-experience-for-sde-intern/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Arrays; Prefix Sum",
+        "difficulty": "Easy",
+        "difficulty_basis": "official_leetcode",
+        "rationale": "Running sums identify an equal-sum split index. Equivalent canonical objective; official level verified.",
+        "difficulty_reference": "https://leetcode.com/problems/find-pivot-index/"
+      },
+      {
+        "topic": "Trees; DFS; BFS",
+        "difficulty": "Medium",
+        "difficulty_basis": "official_leetcode",
+        "rationale": "Weighted propagation along a management tree requires traversal. Equivalent canonical objective; official level verified.",
+        "difficulty_reference": "https://leetcode.com/problems/time-needed-to-inform-all-employees/"
+      }
+    ],
+    "notes": "July 2023 OA. Subsequent DP, heap, and sliding-window interview tasks excluded."
+  },
+  {
+    "id": "R022",
+    "company": "Arcesium",
+    "oa_year": 2023,
+    "year_basis": "title_year_without_explicit_day",
+    "campus": "NIT Calicut",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_title",
+    "role": "Intern",
+    "source_url": "https://leetcode.com/discuss/post/3867275/Arcesium-2023-Intern-OA-Questions-or-NIT-Calicut/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Two Pointers; Simulation",
+        "difficulty": "Easy",
+        "difficulty_basis": "official_leetcode",
+        "reported_difficulty": "Medium",
+        "rationale": "Fixed-size block reversal is straightforward simulation; the candidate's whole-round medium rating is retained separately. Equivalent canonical objective; official level verified.",
+        "difficulty_reference": "https://leetcode.com/problems/reverse-string-ii/"
+      },
+      {
+        "topic": "Graphs; Bipartite Testing; Cycle Detection",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "reported_difficulty": "Medium",
+        "rationale": "The report gives conflicting directed/undirected interpretations, so an exact rating would be unreliable."
+      }
+    ],
+    "notes": "Title identifies 2023, with no exact assessment date. Author's graph interpretations are not treated as a verified solution."
+  },
+  {
+    "id": "R023",
+    "company": "Rubrik",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_and_contemporary_post",
+    "campus": "IIIT Delhi",
+    "campus_group": "IIIT",
+    "campus_basis": "explicit_title",
+    "role": "FTE",
+    "source_url": "https://thejoboverflow.com/p/p1301/",
+    "source_type": "community_oa_report",
+    "published_date": "2023-07-16",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Intervals; Sweep Line; Coordinate Compression",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Classifying every removable interval at large coordinate bounds needs coverage analysis."
+      },
+      {
+        "topic": "Combinatorics; Symmetry Counting; Modular Arithmetic",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Counting configurations modulo rotational and reflectional equivalence is advanced combinatorics."
+      }
+    ],
+    "notes": "Public report contains two tasks. Topic labels are analyst classifications, not company-provided tags."
+  },
+  {
+    "id": "R024",
+    "company": "Sprinklr",
+    "oa_year": null,
+    "year_basis": "no_oa_year_only_page_update",
+    "campus": "IIT (unnamed)",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_body",
+    "role": "Product Engineer",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/sprinklr-interview-experience-for-product-engineer-on-campus/",
+    "source_type": "candidate_report",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Greedy",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate pairs this topic with easy."
+      },
+      {
+        "topic": "Graphs; DFS",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate pairs this topic with medium."
+      },
+      {
+        "topic": "Digit Dynamic Programming",
+        "difficulty": "Hard",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate pairs this topic with hard."
+      }
+    ],
+    "notes": "The 2025 last-updated stamp does not establish OA calendar year."
+  },
+  {
+    "id": "R025",
+    "company": "Sprinklr",
+    "oa_year": 2023,
+    "year_basis": "explicit_title",
+    "campus": "IIT (unnamed)",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_body",
+    "role": "Product Engineer",
+    "source_url": "https://leetcode.com/discuss/post/4353427/Sprinklr-or-Product-Engineer-Gurugram-or-December-2023-or-Oncampus-placement-Offer/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "reported_oa_difficulty": [
+      "Easy",
+      "Medium",
+      "Hard"
+    ],
+    "notes": "OA has three difficulty descriptions but no topics. String edit, pattern detection, and grid-infection tasks are interview-only."
+  },
+  {
+    "id": "R026",
+    "company": "Databricks",
+    "oa_year": 2023,
+    "year_basis": "explicit_oa_date",
+    "campus": "IIT Roorkee",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_title",
+    "role": "Campus hiring",
+    "source_url": "https://thejoboverflow.com/p/p2260/",
+    "source_type": "community_oa_report",
+    "published_date": "2023-10-16",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Arrays; Longest Increasing Subsequence; Dynamic Programming",
+        "difficulty": "Unknown",
+        "difficulty_range": [
+          "Easy",
+          "Medium"
+        ],
+        "difficulty_basis": "reported_oa_range",
+        "rationale": "Only a whole-assessment easy-to-medium range and a modified LIS topic are disclosed."
+      },
+      {
+        "topic": "Implementation",
+        "difficulty": "Unknown",
+        "difficulty_range": [
+          "Easy",
+          "Medium"
+        ],
+        "difficulty_basis": "reported_oa_range",
+        "rationale": "Report characterizes the remaining shuffled pool as implementation-oriented."
+      }
+    ],
+    "notes": "Four coding slots in 70 minutes; content differs by candidate. Full remaining statements are in an attachment and not classified from titles."
+  },
+  {
+    "id": "R027",
+    "company": "Cisco",
+    "oa_year": 2025,
+    "year_basis": "explicit_oa_date",
+    "campus": "NIT Surat (candidate affiliation)",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_body_open_competition",
+    "role": "Intern + FTE via Code with Cisco",
+    "source_url": "https://medium.com/@yashitz07/cisco-intern-fte-interview-experience-selected-c9e4a9130059",
+    "source_type": "candidate_report",
+    "published_date": "2025-12-30",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "open_competition",
+    "topics": [],
+    "notes": "June 24, 2025 nationwide competition; a target-institute student is identified, but this does not establish an on-campus drive."
+  },
+  {
+    "id": "R028",
+    "company": "Tech Mahindra",
+    "oa_year": 2026,
+    "year_basis": "explicit_comment_day_month_and_post_date",
+    "campus": "NIT Rourkela (thread context)",
+    "campus_group": "NIT",
+    "campus_basis": "subreddit_context_only",
+    "role": "Technorise intern",
+    "source_url": "https://www.reddit.com/r/NITRourkela/comments/1x46dwl/tech_mahindra_technorise_intern/",
+    "source_type": "candidate_comment",
+    "published_date": "2026-10-14",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "campus_uncertain",
+    "topics": [],
+    "reported_oa_difficulty": [
+      "Medium"
+    ],
+    "notes": "Comment reports two DSA items plus one ML task with moderate difficulty; no DSA topics disclosed."
+  }
+]

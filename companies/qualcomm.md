@@ -1,0 +1,39 @@
+# Qualcomm
+
+Scope: campus OA coding at IITs, NITs, IIITs, and BITS; calendar years 2023–2026.
+
+Research date: 2026-11-06. Public reports are incomplete. Counts represent source observations, not unique questions.
+
+Difficulty: **official** = checked LeetCode match; **estimate** = researcher estimate on that scale; **reported** = source author’s label. Ranges and unknowns remain unresolved.
+
+## 2023
+
+Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+
+No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+
+## 2024
+
+Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+
+No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+
+## 2025
+
+Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+
+No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+
+## 2026
+
+Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+
+No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+
+## Evidence outside the main dated coding tables
+
+### [R010](https://www.geeksforgeeks.org/interview-experiences/qualcomm-interview-experience-for-swe-on-campus-2023/)
+
+Year: 2023; campus: IIT Hyderabad; status: `supported`; assessment: `mcq_only`.
+
+November 17, 2023 HirePro OA: three MCQ sections. DSA interview tasks must not be counted as OA coding items.

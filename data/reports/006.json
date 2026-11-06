@@ -1,0 +1,275 @@
+[
+  {
+    "id": "R058",
+    "company": "Adobe",
+    "oa_year": 2024,
+    "year_basis": "explicit_event_date",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://medium.com/@swgiitkgp/foresight-2025-internship-at-adobe-avik-halder-d573995ee2c9",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "notes": "Explicit OA date July 17, 2024. Two basic DSA tasks; exact OA topics are not disclosed. Linked-list reversal belongs to the later interview, not the OA.",
+    "overall_difficulty": "Easy–Medium",
+    "overall_difficulty_basis": "reported"
+  },
+  {
+    "id": "R059",
+    "company": "Graviton Research Capital",
+    "oa_year": null,
+    "year_basis": "oa_year_not_stated",
+    "campus": "IIT Kanpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://spo.iitk.ac.in/insights/2024-intern-yuvraj-kharayat-graviton",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Dynamic Programming",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Source reports an overall Codeforces rating range, which is not an official LeetCode conversion."
+      },
+      {
+        "topic": "Graphs",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Only a topic and overall Codeforces range are disclosed."
+      }
+    ],
+    "notes": "Three OA tasks, 90 minutes, reported overall Codeforces 1400–1600. The article is dated July 2024; actual OA year is not stated."
+  },
+  {
+    "id": "R060",
+    "company": "Optiver",
+    "oa_year": null,
+    "year_basis": "oa_year_not_stated",
+    "campus": "IIT Kanpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://spo.iitk.ac.in/insights/2024-intern-rishi-poonia-optiver",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Implementation",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "Author reports two easy implementation tasks; no exact task detail."
+      }
+    ],
+    "notes": "Two easy implementation tasks and one hard task with undisclosed topic. Source publication July 2024 does not establish the actual OA year.",
+    "overall_difficulty": "2 Easy + 1 Hard",
+    "overall_difficulty_basis": "reported"
+  },
+  {
+    "id": "R061",
+    "company": "Squarepoint Capital",
+    "oa_year": null,
+    "year_basis": "oa_year_not_stated",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://medium.com/@swgiitkgp/foresight-2025-placement-at-squarepoint-capital-krish-agarwal-50b1f0fbf896",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Binary Search",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Author says easier side but gives no task detail or formal level."
+      },
+      {
+        "topic": "Strings; Hashing",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Author says easier side but gives no task detail or formal level."
+      }
+    ],
+    "notes": "2025 graduate account; actual OA calendar year not explicit. Interview system-programming exercises are excluded.",
+    "year_candidates": [
+      2024
+    ]
+  },
+  {
+    "id": "R062",
+    "company": "Mastercard",
+    "oa_year": null,
+    "year_basis": "oa_year_not_stated",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://medium.com/@swgiitkgp/foresight-2025-placement-at-mastercard-harsh-wasnik-1515b38a1264",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [],
+    "notes": "Two OA DSA tasks mentioned without topics or levels. Linked lists and DP are later interview topics and are excluded.",
+    "year_candidates": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "id": "R063",
+    "company": "Bank of America",
+    "oa_year": null,
+    "year_basis": "oa_year_not_stated",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://medium.com/@swgiitkgp/foresight-2025-placement-at-bank-of-america-kshitij-banerjee-d81f2bdf3763",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [],
+    "notes": "Placement season 2024–25, exact OA year not stated. Two remote screening coding tasks rated medium to hard, without specific OA topics. Later live interview topics excluded.",
+    "year_candidates": [
+      2024,
+      2025
+    ],
+    "overall_difficulty": "Medium–Hard",
+    "overall_difficulty_basis": "reported"
+  },
+  {
+    "id": "R064",
+    "company": "Nvidia",
+    "oa_year": 2023,
+    "year_basis": "inferred_previous_year_explicit",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://medium.com/@swgiitkgp/foresight-2024-placement-at-nvidia-dhruv-rathi-1d604bf06072",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "delivery_mode_uncertain",
+    "topics": [],
+    "notes": "September 2024 account explicitly places recruitment in the previous year and the interview on December 1. Written software screening contained DSA at LeetCode medium level, without topics. Online delivery of this written test is not explicitly confirmed.",
+    "overall_difficulty": "Medium",
+    "overall_difficulty_basis": "reported"
+  },
+  {
+    "id": "R065",
+    "company": "Morgan Stanley",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "NIT (not named)",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_tag",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1835/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Digit Dynamic Programming; Modular Arithmetic",
+        "difficulty": "Hard",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/count-of-integers/",
+        "rationale": "Author explicitly identifies the LeetCode item; its official level was checked."
+      },
+      {
+        "topic": "Dynamic Programming; Segment Tree; Range Maximum",
+        "difficulty": "Hard",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/longest-increasing-subsequence-ii/",
+        "rationale": "Author explicitly identifies the LeetCode item; its official level was checked."
+      },
+      {
+        "topic": "Merge Sort; Fenwick Tree; Pair Counting",
+        "difficulty": "Hard",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/reverse-pairs/",
+        "rationale": "Author explicitly identifies the LeetCode item; its official level was checked."
+      },
+      {
+        "topic": "Graphs; Game Theory; Retrograde Analysis",
+        "difficulty": "Hard",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/cat-and-mouse/",
+        "rationale": "Author explicitly identifies the LeetCode item; its official level was checked."
+      },
+      {
+        "topic": "Graphs; Dijkstra; Maximum Probability Path",
+        "difficulty": "Medium",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/path-with-maximum-probability/",
+        "rationale": "Author explicitly identifies the LeetCode item; its official level was checked."
+      }
+    ],
+    "notes": "August 24, 2023 OA. NIT/on-campus are archive tags; institute name is not provided. Five reported pool items are not asserted to be five tasks per candidate."
+  },
+  {
+    "id": "R066",
+    "company": "Meesho",
+    "oa_year": null,
+    "year_basis": "oa_year_not_stated",
+    "campus": "IIT Kanpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/meesho-interview-experience-for-sde-1-on-campus-1/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [],
+    "notes": "Three DSA tasks described as on the harder side of LeetCode, without topics. Last-updated January 2026 does not establish the OA year.",
+    "overall_difficulty": "Harder side (relative description)",
+    "overall_difficulty_basis": "reported"
+  },
+  {
+    "id": "R067",
+    "company": "Infosys",
+    "oa_year": 2025,
+    "year_basis": "inferred_contemporary_event_date",
+    "campus": "IIT Patna; NIT Patna; IIIT Bhagalpur (test venues)",
+    "campus_group": "Multiple",
+    "campus_basis": "explicit_test_venues",
+    "role": "Campus OA",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/infosys-oa-experience-for-specialist-programmer/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "venue_only",
+    "topics": [
+      {
+        "topic": "Arrays; Monotonic Stack; Pair Counting",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Large constraints and a visibility condition require structured pair processing."
+      },
+      {
+        "topic": "Arrays; Fenwick Tree; Sliding Window; Inversion Counting",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Maintain inversion changes efficiently across possible contiguous removals."
+      }
+    ],
+    "notes": "December 18 exam in a December 21, 2025 account. Institutions are test venues; candidate affiliation and campus-recruitment status are unconfirmed. Platform Easy/Medium labels are not treated as LeetCode levels. Two other tasks not recalled."
+  }
+]

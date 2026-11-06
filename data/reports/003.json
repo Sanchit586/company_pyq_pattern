@@ -1,0 +1,527 @@
+[
+  {
+    "id": "R029",
+    "company": "Google",
+    "oa_year": 2023,
+    "year_basis": "inferred_day_month_and_creation_metadata",
+    "campus": "MANIT Bhopal",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1294/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Dynamic Programming; Prefix Sum; Digit Processing",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Bounded value-domain counting supports a prefix-sum DP."
+      },
+      {
+        "topic": "Sequence Dynamic Programming",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Optimizing over interleavings requires joint sequence states; the expression's OCR is imperfect."
+      },
+      {
+        "topic": "Trees; DFS; Order Statistics; Medians",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Maintain path medians during a large rooted-tree traversal."
+      },
+      {
+        "topic": "Graphs; Dijkstra; Prime Factorization",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Variable-radius weighted grid transitions combine number theory and shortest paths."
+      }
+    ],
+    "notes": "July 15 in title and July 15, 2023 publication metadata. Four reported pool topics; not four questions per candidate. The tree aggregation is rooted at node 1 in this report.",
+    "published_date": "2023-07-15"
+  },
+  {
+    "id": "R030",
+    "company": "Goldman Sachs",
+    "oa_year": 2023,
+    "year_basis": "inferred_creation_metadata_conflicts_with_role_year",
+    "campus": "MNIT Jaipur",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1546/",
+    "source_type": "community_oa_report",
+    "access": "public_pdf_review",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Binary Trees; Traversal; Divisibility",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Small tree construction and immediate-child arithmetic checks."
+      },
+      {
+        "topic": "Matrices; Simulation; Rectangle Counting",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Point updates and rectangular counts over an alternating grid."
+      }
+    ],
+    "notes": "The public post predates the 2024 internship label: created August 8, 2023 with a 2023 tag. Calendar year 2023 is inferred. PDF pages 1-4 reviewed; title's 2024 is retained as role-year ambiguity.",
+    "supporting_urls": [
+      "https://drive.google.com/file/d/1QOVHqsIFaOeNXn6g1qJY6qo01NAZ7-Kg/preview"
+    ]
+  },
+  {
+    "id": "R031",
+    "company": "Goldman Sachs",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "MANIT Bhopal",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1342/",
+    "source_type": "community_oa_report",
+    "access": "public_pdf_review",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Greedy; Convex Allocation; Binary Search",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Large-resource squared-penalty allocation needs batched marginal-cost reasoning."
+      },
+      {
+        "topic": "Graphs; Connected Components; DFS; Disjoint Set Union",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Undirected friendship components determine minimum and maximum group sizes."
+      }
+    ],
+    "notes": "Two OA items identified in a seven-page public PDF. OCR and page review used; no questions copied into the dataset.",
+    "supporting_urls": [
+      "https://drive.google.com/file/d/10g3L-oBIW2lxzkeUFBXaz8bnpiFbMKeI/preview"
+    ]
+  },
+  {
+    "id": "R032",
+    "company": "Goldman Sachs",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIT (ISM) Dhanbad",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1341/",
+    "source_type": "community_oa_report",
+    "access": "public_pdf_review",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Graphs; All-Pairs Shortest Paths; Floyd-Warshall; BFS",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Many unit-weight routing requests can be answered after graph-distance preprocessing."
+      },
+      {
+        "topic": "Graphs; Adjacency Matrix; Degree Counting",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Scan adjacency rows to find all maximum-degree vertices."
+      }
+    ],
+    "notes": "Four-page public attachment reviewed. The graph topics are OA tasks, not later interview questions.",
+    "supporting_urls": [
+      "https://drive.google.com/file/d/1500Yxv7wEtauhX4yhDFWCEpbFiLZzik2/preview"
+    ]
+  },
+  {
+    "id": "R033",
+    "company": "Oracle",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIIT Bhubaneswar",
+    "campus_group": "IIIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1465/",
+    "source_type": "community_oa_report",
+    "access": "public_pdf_review",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Combinatorics; Modular Arithmetic",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Counting equal-frequency subsequences at large input sizes requires combinatorial preprocessing."
+      },
+      {
+        "topic": "Strings; Greedy; Monotonic Stack",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Unique-character lexicographic optimization requires last-occurrence or remaining-count tracking."
+      },
+      {
+        "topic": "Arrays; Dynamic Programming; Binary Search",
+        "difficulty": "Medium",
+        "difficulty_basis": "official_leetcode",
+        "rationale": "Standard increasing-subsequence length task.",
+        "difficulty_reference": "https://leetcode.com/problems/longest-increasing-subsequence/"
+      }
+    ],
+    "notes": "Eight-page public attachment reviewed. The three entries may be separate candidate variants; preserve as a reported pool.",
+    "supporting_urls": [
+      "https://drive.google.com/file/d/1tBUiDaPibVGQiXyw7gf9rherbU7kP_hQ/preview"
+    ]
+  },
+  {
+    "id": "R034",
+    "company": "DE Shaw",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "NIT Karnataka, Surathkal",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1572/",
+    "source_type": "community_oa_report",
+    "access": "public_pdf_review",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Arrays; Sliding Window; Periodic Sequences",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Reduce a repeated nonnegative array to whole cycles and a bounded residual search."
+      },
+      {
+        "topic": "Dynamic Programming; Prefix Sum; Range Queries",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Precompute string-construction counts and prefix them for many length intervals."
+      }
+    ],
+    "notes": "Five-page public PDF reviewed. Variant constraints include zeros; do not claim an exact LeetCode match for the repeated-array task.",
+    "supporting_urls": [
+      "https://drive.google.com/file/d/12-eq56iY4BB1JWl5naGxr6Li-1vCYiDJ/preview"
+    ]
+  },
+  {
+    "id": "R035",
+    "company": "DE Shaw",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "BITS Pilani",
+    "campus_group": "BITS",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1466/",
+    "source_type": "community_oa_report",
+    "access": "public_pdf_review",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Arrays; Sliding Window; Periodic Sequences",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Whole-cycle reduction followed by a residual subarray search."
+      },
+      {
+        "topic": "Binary Search on Answer; Greedy; Sorting",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Sort interval starts and test a proposed minimum spacing."
+      },
+      {
+        "topic": "Dynamic Programming; Knapsack; Combinatorics",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Count nested subsequence contributions with target-sum DP."
+      }
+    ],
+    "notes": "July 30, 2023 OA. All six public PDF pages reviewed. Three coding topics.",
+    "supporting_urls": [
+      "https://drive.google.com/file/d/1k0pdQa9Yv-qyPJaz0s1C7fJch-D4EEkY/preview"
+    ]
+  },
+  {
+    "id": "R036",
+    "company": "Uber",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIT (ISM) Dhanbad",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1332/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Combinatorics; Greedy; Worst-Case Reasoning",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "The public recollection has inconsistent notation, preventing a defensible single difficulty."
+      },
+      {
+        "topic": "Strings; Circular Dynamic Programming",
+        "difficulty": "Hard",
+        "difficulty_basis": "official_leetcode",
+        "rationale": "Repeated characters require optimizing choices of ring positions. Equivalent canonical objective; official level verified.",
+        "difficulty_reference": "https://leetcode.com/problems/freedom-trail/"
+      },
+      {
+        "topic": "Intervals; Greedy; Min Heap",
+        "difficulty": "Medium",
+        "difficulty_basis": "official_leetcode",
+        "rationale": "Schedule one event per day using earliest deadlines. Equivalent canonical objective; official level verified.",
+        "difficulty_reference": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/"
+      }
+    ],
+    "notes": "Three public OA tasks. An inconsistent product/sum description in the first task is not silently repaired."
+  },
+  {
+    "id": "R037",
+    "company": "DE Shaw",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIT Patna",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1327/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Grids; Backtracking; Longest Simple Path",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Cannot revisit cells while maximizing collection."
+      },
+      {
+        "topic": "Graphs; BFS; Path Reconstruction",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Answer minimum-hop transition queries and reconstruct routes."
+      }
+    ],
+    "notes": "Two disclosed tasks; the numbering suggests this may be an incomplete paper. Do not infer missing slots."
+  },
+  {
+    "id": "R038",
+    "company": "DE Shaw",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIT Gandhinagar",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1295/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Trees; Tree Dynamic Programming; Path Optimization",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "A constrained teleport combines disjoint rooted branches with a return path."
+      }
+    ],
+    "notes": "July 15, 2023. One fully described topic; image attachments may contain additional material."
+  },
+  {
+    "id": "R039",
+    "company": "DE Shaw",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIT Patna",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1277/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Sliding Window; Character Frequencies",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Enumerate an alphabet pair and slide a bounded-replacement window."
+      },
+      {
+        "topic": "Arrays; Dynamic Programming",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Track minimum and maximum scores with a spacing restriction."
+      }
+    ],
+    "notes": "Two public OA tasks from July 2023. Descriptions are sufficient for topic classification."
+  },
+  {
+    "id": "R040",
+    "company": "Salesforce",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "MNIT Jaipur",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1331/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Dynamic Programming; Hashing",
+        "difficulty": "Medium",
+        "difficulty_basis": "official_leetcode",
+        "rationale": "Dictionary segmentation matches the canonical LeetCode task.",
+        "difficulty_reference": "https://leetcode.com/problems/word-break/"
+      },
+      {
+        "topic": "Bit Manipulation; Subarray AND; Distinct-State Compression",
+        "difficulty": "Hard",
+        "difficulty_basis": "official_leetcode",
+        "rationale": "Closest subarray bitwise AND matches a canonical LeetCode task.",
+        "difficulty_reference": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/"
+      },
+      {
+        "topic": "Matrices; Bounding Rectangle",
+        "difficulty": "Medium",
+        "difficulty_basis": "official_leetcode",
+        "rationale": "Track extreme occupied rows and columns in a full grid scan. Equivalent canonical objective; official level verified.",
+        "difficulty_reference": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/"
+      }
+    ],
+    "notes": "Three tasks appear in the public text, although the source header names two. Extra bounding-rectangle material is retained with its source; precise pool membership is not independently confirmed."
+  },
+  {
+    "id": "R041",
+    "company": "Salesforce",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "NIT Agartala",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1240/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Binary Search on Answer; Greedy Partitioning",
+        "difficulty": "Hard",
+        "difficulty_basis": "official_leetcode",
+        "rationale": "Equivalent contiguous workload partitioning uses the canonical LeetCode difficulty.",
+        "difficulty_reference": "https://leetcode.com/problems/split-array-largest-sum/"
+      },
+      {
+        "topic": "Strings; Linear Scan; Maximum Gap",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Scan distances between qualifying positions."
+      },
+      {
+        "topic": "Number Theory; GCD; Modular Arithmetic",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Coprimality and modular-product reasoning replace subset enumeration."
+      }
+    ],
+    "notes": "June 26, 2023 report. Public text contains all three coding tasks."
+  },
+  {
+    "id": "R042",
+    "company": "Sprinklr",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIT Roorkee",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p2252/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Matrices; Sliding Window; Monotonic Deque",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Efficient two-dimensional window maxima require composed sliding-window structures."
+      },
+      {
+        "topic": "Binary Search on Answer; Counting Multiples",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Count generated multiples below a candidate value."
+      },
+      {
+        "topic": "Strings; Greedy; Interval Partitioning",
+        "difficulty": "Medium",
+        "difficulty_basis": "official_leetcode",
+        "rationale": "Source explicitly points to a canonical greedy partition problem. Equivalent canonical objective; official level verified.",
+        "difficulty_reference": "https://leetcode.com/problems/partition-labels/"
+      }
+    ],
+    "notes": "October 13, 2023 report. Three OA topics; exact constraints are incomplete for the matrix task."
+  },
+  {
+    "id": "R043",
+    "company": "DE Shaw",
+    "oa_year": 2026,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIT Bhubaneswar",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://codeforces.com/blog/entry/155575",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Stack",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Adjacent cancellation validates the recursive string construction."
+      },
+      {
+        "topic": "Strings; Dynamic Programming; Binary Representation",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Count matches to a short binary target while handling leading zeros."
+      },
+      {
+        "topic": "Trees; DFS; Modular Path Counting",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Count valid weighted paths through every internal vertex; naive repeated path reconstruction is cubic."
+      }
+    ],
+    "notes": "Three separately timed OA coding items. A comment corrects the proposed third-item complexity; classifications do not endorse the author's algorithm."
+  }
+]

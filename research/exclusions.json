@@ -1,0 +1,104 @@
+[
+  {
+    "company": "Google",
+    "url": "https://thejoboverflow.com/p/p414/",
+    "reason": "Off-campus graduate account; outside requested campus drive scope.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Amazon",
+    "url": "https://thejoboverflow.com/p/p2163/",
+    "reason": "HackOn/off-campus event; not evidence of a qualifying campus OA.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Goldman Sachs",
+    "url": "https://thejoboverflow.com/p/p1489/",
+    "reason": "SGSITS Indore is outside the requested institute groups.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Uber",
+    "url": "https://thejoboverflow.com/p/p1316/",
+    "reason": "NSUT is outside the requested institute groups.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "DE Shaw",
+    "url": "https://thejoboverflow.com/p/p1147/",
+    "reason": "Off-campus account; institute affiliation mentioned in body does not establish a campus drive.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Sprinklr",
+    "url": "https://thejoboverflow.com/p/p1416/",
+    "reason": "BIT Mesra is not BITS; outside the requested institute groups.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Sprinklr",
+    "url": "https://thejoboverflow.com/p/p1333/",
+    "reason": "DTU is outside the requested institute groups.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Samsung (R&D)",
+    "url": "https://www.geeksforgeeks.org/interview-experiences/samsung-rd-bangalore-coding-round-experience-nit-jalandhar/",
+    "reason": "Actual event date September 14, 2020; article updated in 2025 does not make it a 2025 OA.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Nvidia",
+    "url": "https://spo.iitk.ac.in/insights/2024-placement-aditya-pratap-singh-nvidia",
+    "reason": "Formal-verification objective test; no DSA coding OA task disclosed. Programming questions in interviews excluded.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Morgan Stanley",
+    "url": "https://spo.iitk.ac.in/insights/2024-intern-akshat-mehta-morgan-stanley",
+    "reason": "OA coding mentioned but no specific DSA topic or actual OA year; preparation recommendations are not task evidence.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Mastercard",
+    "url": "https://spo.iitk.ac.in/insights/2024-placement-arushi-garg-master-card",
+    "reason": "OA coding mentioned but neither task topic nor actual OA year disclosed.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Graviton Research Capital",
+    "url": "https://medium.com/@swgiitkgp/foresight-2025-internship-at-graviton-aditya-panda-7505586344f0",
+    "reason": "Quantitative researcher assessment consists of probability/combinatorics written reasoning, not DSA coding.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Graviton Research Capital",
+    "url": "https://medium.com/@swgiitkgp/foresight-2025-internship-at-graviton-arudeep-kumar-f14b4c9b4eb0",
+    "reason": "OA existence disclosed, but specific DSA topics in the text are preparation advice or interview content, not OA evidence.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": "Adobe",
+    "url": "https://www.caciitg.com/ga/ga-interviews.pdf",
+    "reason": "IIT Guwahati club collection, PDF pages 5 and 11: one internship account mentions two easy OA items with no topics; another explicitly has no DSA coding. Role-year headings do not establish assessment calendar years.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": null,
+    "url": "https://github.com/mrsac7/placement-resources",
+    "reason": "Broad campus compilation; repository update timestamp does not establish the OA year or campus of an individual entry.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": null,
+    "url": "https://github.com/rameshgitter/OA-Questions",
+    "reason": "Candidate compilation; viewed repository index does not establish the required campus/year provenance for individual tasks.",
+    "reviewed_at": "2026-11-06"
+  },
+  {
+    "company": null,
+    "url": "https://github.com/anirudhakulkarni/Placements-2024",
+    "reason": "IIT Delhi preparation guide; general preparation recommendations are not company-specific OA task evidence.",
+    "reviewed_at": "2026-11-06"
+  }
+]

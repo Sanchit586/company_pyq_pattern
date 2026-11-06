@@ -1,0 +1,147 @@
+[
+  {
+    "id": "R054",
+    "company": "Sprinklr",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "NIT Karnataka, Surathkal",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1787/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Graphs; DFS/BFS; Dependency Reachability",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Visit the union of prerequisite nodes with a shared visited set."
+      },
+      {
+        "topic": "Trees; DFS; Subtree Sums",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "An edge cut is evaluated from a subtree total."
+      },
+      {
+        "topic": "Strings; Greedy; Local Coverage",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Adjacent placements require careful sharing and feasibility cases."
+      }
+    ],
+    "notes": "All three public attachment pages reviewed; FTE."
+  },
+  {
+    "id": "R055",
+    "company": "Sprinklr",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIIT Hyderabad",
+    "campus_group": "IIIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1553/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Trees; DFS; Subtree Aggregation; Number Theory",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Subtree category counts determine validity on both sides of a cut."
+      },
+      {
+        "topic": "Strings; Interval Dynamic Programming; Periodicity",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Nested encodings and all substring partitions require interval states."
+      },
+      {
+        "topic": "Greedy; Sorting",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Order affordable profitable opportunities without spending on losses."
+      }
+    ],
+    "notes": "Explicit OA date August 9, 2023. All six public attachment pages reviewed."
+  },
+  {
+    "id": "R056",
+    "company": "DE Shaw",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIT Madras",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1349/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Greedy; Digit Counts; Backtracking",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Construct a lexicographic successor from a separate digit multiset; this is a variant, not an exact LeetCode match."
+      },
+      {
+        "topic": "Graphs; Dijkstra; Reverse Graph; Edge Queries",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Forward and reverse shortest paths support independent edge modifications."
+      },
+      {
+        "topic": "Dynamic Programming; Hashing; Sorting",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Aggregate value weights and apply a non-adjacent-value recurrence; modular output makes this a variant."
+      }
+    ],
+    "notes": "All seven public attachment pages reviewed; the first page was also checked visually."
+  },
+  {
+    "id": "R057",
+    "company": "Uber",
+    "oa_year": 2023,
+    "year_basis": "explicit_title_or_event_date",
+    "campus": "IIT Madras",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "Campus OA",
+    "source_url": "https://thejoboverflow.com/p/p1461/",
+    "source_type": "community_oa_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Bit Manipulation; Combinatorics",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Unique powers of two yield a direct count with bounded-integer care."
+      },
+      {
+        "topic": "Trees; Topological Leaf Pruning; Greedy",
+        "difficulty": "Hard",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/collect-coins-in-a-tree/",
+        "rationale": "The passenger collection formulation matches the official radius-two tree collection task."
+      },
+      {
+        "topic": "Combinatorics; Prefix Sums; Modular Arithmetic",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "The photographed recurrence is partly legible; topic is supported but a reliable level is withheld."
+      }
+    ],
+    "notes": "All ten public attachment pages reviewed, including a visual check of the recurrence page."
+  }
+]

@@ -1,0 +1,1118 @@
+{
+  "accessed_at": "2026-11-06",
+  "note": "Recorded search batches; additional targeted source and difficulty checks are documented by curated source URLs.",
+  "batches": [
+    {
+      "queries": [
+        "github IIT NIT placement online assessment questions 2025 2024 2023",
+        "Google IIT Bhubaneswar 2025 intern online assessment questions",
+        "Amazon interview experience 2023 2024 NIT online assessment questions",
+        "Microsoft NIT 2023 2024 2025 online assessment coding questions"
+      ],
+      "id": 2
+    },
+    {
+      "queries": [
+        "Qualcomm OA coding questions 2023 2024 2025 2026 IIT NIT IIIT BITS",
+        "Flipkart OA coding questions 2023 2024 2025 2026 IIT NIT IIIT BITS",
+        "Adobe OA coding questions 2023 2024 2025 2026 IIT NIT IIIT BITS",
+        "Oracle OA coding questions 2023 2024 2025 2026 IIT NIT IIIT BITS"
+      ],
+      "id": 3
+    },
+    {
+      "queries": [
+        "\"Nvidia\" (\"IIT\" OR \"NIT\" OR \"IIIT\" OR \"BITS\") (\"2023\" OR \"2024\" OR \"2025\" OR \"2026\") (\"OA\" OR \"online assessment\") coding questions",
+        "\"Accenture\" (\"IIT\" OR \"NIT\" OR \"IIIT\" OR \"BITS\") (\"2023\" OR \"2024\" OR \"2025\" OR \"2026\") (\"OA\" OR \"online assessment\") coding questions",
+        "\"Uber\" (\"IIT\" OR \"NIT\" OR \"IIIT\" OR \"BITS\") (\"2023\" OR \"2024\" OR \"2025\" OR \"2026\") (\"OA\" OR \"online assessment\") coding questions",
+        "\"Apple\" (\"IIT\" OR \"NIT\" OR \"IIIT\" OR \"BITS\") (\"2023\" OR \"2024\" OR \"2025\" OR \"2026\") (\"OA\" OR \"online assessment\") coding questions"
+      ],
+      "id": 4
+    },
+    {
+      "queries": [
+        "Nvidia interview experience NIT 2024 online coding test",
+        "Accenture interview experience NIT 2025 coding questions",
+        "Uber IIT 2024 online assessment questions",
+        "Apple IIT 2023 2024 coding test questions"
+      ],
+      "id": 5
+    },
+    {
+      "queries": [
+        "Uber IIT 2024 online assessment questions",
+        "Nvidia interview experience NIT 2024 coding test",
+        "Apple IIT 2023 online assessment coding questions",
+        "DE Shaw NIT 2024 online assessment questions"
+      ],
+      "id": 6
+    },
+    {
+      "queries": [
+        "Google 2023 on campus online assessment coding questions",
+        "Google 2024 on campus online assessment coding questions",
+        "Google 2025 on campus online assessment coding questions",
+        "Google 2026 on campus online assessment coding questions"
+      ],
+      "id": "google",
+      "company": "Google"
+    },
+    {
+      "queries": [
+        "Microsoft 2023 on campus online assessment coding questions",
+        "Microsoft 2024 on campus online assessment coding questions",
+        "Microsoft 2025 on campus online assessment coding questions",
+        "Microsoft 2026 on campus online assessment coding questions"
+      ],
+      "id": "microsoft",
+      "company": "Microsoft"
+    },
+    {
+      "queries": [
+        "Goldman Sachs 2023 on campus online assessment coding questions",
+        "Goldman Sachs 2024 on campus online assessment coding questions",
+        "Goldman Sachs 2025 on campus online assessment coding questions",
+        "Goldman Sachs 2026 on campus online assessment coding questions"
+      ],
+      "id": "goldman_sachs",
+      "company": "Goldman Sachs"
+    },
+    {
+      "queries": [
+        "Amazon 2023 on campus online assessment coding questions",
+        "Amazon 2024 on campus online assessment coding questions",
+        "Amazon 2025 on campus online assessment coding questions",
+        "Amazon 2026 on campus online assessment coding questions"
+      ],
+      "id": "amazon",
+      "company": "Amazon"
+    },
+    {
+      "queries": [
+        "Flipkart 2023 on campus online assessment coding questions",
+        "Flipkart 2024 on campus online assessment coding questions",
+        "Flipkart 2025 on campus online assessment coding questions",
+        "Flipkart 2026 on campus online assessment coding questions"
+      ],
+      "id": "flipkart",
+      "company": "Flipkart"
+    },
+    {
+      "queries": [
+        "Oracle 2023 on campus online assessment coding questions",
+        "Oracle 2024 on campus online assessment coding questions",
+        "Oracle 2025 on campus online assessment coding questions",
+        "Oracle 2026 on campus online assessment coding questions"
+      ],
+      "id": "oracle",
+      "company": "Oracle"
+    },
+    {
+      "queries": [
+        "Adobe 2023 on campus online assessment coding questions",
+        "Adobe 2024 on campus online assessment coding questions",
+        "Adobe 2025 on campus online assessment coding questions",
+        "Adobe 2026 on campus online assessment coding questions"
+      ],
+      "id": "adobe",
+      "company": "Adobe"
+    },
+    {
+      "queries": [
+        "Qualcomm 2023 on campus online assessment coding questions",
+        "Qualcomm 2024 on campus online assessment coding questions",
+        "Qualcomm 2025 on campus online assessment coding questions",
+        "Qualcomm 2026 on campus online assessment coding questions"
+      ],
+      "id": "qualcomm",
+      "company": "Qualcomm"
+    },
+    {
+      "queries": [
+        "Uber 2023 on campus online assessment coding questions",
+        "Uber 2024 on campus online assessment coding questions",
+        "Uber 2025 on campus online assessment coding questions",
+        "Uber 2026 on campus online assessment coding questions"
+      ],
+      "id": "uber",
+      "company": "Uber"
+    },
+    {
+      "queries": [
+        "Apple 2023 on campus online assessment coding questions",
+        "Apple 2024 on campus online assessment coding questions",
+        "Apple 2025 on campus online assessment coding questions",
+        "Apple 2026 on campus online assessment coding questions"
+      ],
+      "id": "apple",
+      "company": "Apple"
+    },
+    {
+      "queries": [
+        "Accenture 2023 on campus online assessment coding questions",
+        "Accenture 2024 on campus online assessment coding questions",
+        "Accenture 2025 on campus online assessment coding questions",
+        "Accenture 2026 on campus online assessment coding questions"
+      ],
+      "id": "accenture",
+      "company": "Accenture"
+    },
+    {
+      "queries": [
+        "Nvidia 2023 on campus online assessment coding questions",
+        "Nvidia 2024 on campus online assessment coding questions",
+        "Nvidia 2025 on campus online assessment coding questions",
+        "Nvidia 2026 on campus online assessment coding questions"
+      ],
+      "id": "nvidia",
+      "company": "Nvidia"
+    },
+    {
+      "queries": [
+        "Infosys 2023 on campus online assessment coding questions",
+        "Infosys 2024 on campus online assessment coding questions",
+        "Infosys 2025 on campus online assessment coding questions",
+        "Infosys 2026 on campus online assessment coding questions"
+      ],
+      "id": "infosys",
+      "company": "Infosys"
+    },
+    {
+      "queries": [
+        "IBM 2023 on campus online assessment coding questions",
+        "IBM 2024 on campus online assessment coding questions",
+        "IBM 2025 on campus online assessment coding questions",
+        "IBM 2026 on campus online assessment coding questions"
+      ],
+      "id": "ibm",
+      "company": "IBM"
+    },
+    {
+      "queries": [
+        "TCS 2023 on campus online assessment coding questions",
+        "TCS 2024 on campus online assessment coding questions",
+        "TCS 2025 on campus online assessment coding questions",
+        "TCS 2026 on campus online assessment coding questions"
+      ],
+      "id": "tcs",
+      "company": "TCS"
+    },
+    {
+      "queries": [
+        "DE Shaw 2023 on campus online assessment coding questions",
+        "DE Shaw 2024 on campus online assessment coding questions",
+        "DE Shaw 2025 on campus online assessment coding questions",
+        "DE Shaw 2026 on campus online assessment coding questions"
+      ],
+      "id": "de_shaw",
+      "company": "DE Shaw"
+    },
+    {
+      "queries": [
+        "American Express 2023 on campus online assessment coding questions",
+        "American Express 2024 on campus online assessment coding questions",
+        "American Express 2025 on campus online assessment coding questions",
+        "American Express 2026 on campus online assessment coding questions"
+      ],
+      "id": "american_express",
+      "company": "American Express"
+    },
+    {
+      "queries": [
+        "Cisco 2023 on campus online assessment coding questions",
+        "Cisco 2024 on campus online assessment coding questions",
+        "Cisco 2025 on campus online assessment coding questions",
+        "Cisco 2026 on campus online assessment coding questions"
+      ],
+      "id": "cisco",
+      "company": "Cisco"
+    },
+    {
+      "queries": [
+        "Wipro 2023 on campus online assessment coding questions",
+        "Wipro 2024 on campus online assessment coding questions",
+        "Wipro 2025 on campus online assessment coding questions",
+        "Wipro 2026 on campus online assessment coding questions"
+      ],
+      "id": "wipro",
+      "company": "Wipro"
+    },
+    {
+      "queries": [
+        "Morgan Stanley 2023 on campus online assessment coding questions",
+        "Morgan Stanley 2024 on campus online assessment coding questions",
+        "Morgan Stanley 2025 on campus online assessment coding questions",
+        "Morgan Stanley 2026 on campus online assessment coding questions"
+      ],
+      "id": "morgan_stanley",
+      "company": "Morgan Stanley"
+    },
+    {
+      "queries": [
+        "Intel 2023 on campus online assessment coding questions",
+        "Intel 2024 on campus online assessment coding questions",
+        "Intel 2025 on campus online assessment coding questions",
+        "Intel 2026 on campus online assessment coding questions"
+      ],
+      "id": "intel",
+      "company": "Intel"
+    },
+    {
+      "queries": [
+        "Walmart 2023 on campus online assessment coding questions",
+        "Walmart 2024 on campus online assessment coding questions",
+        "Walmart 2025 on campus online assessment coding questions",
+        "Walmart 2026 on campus online assessment coding questions"
+      ],
+      "id": "walmart",
+      "company": "Walmart"
+    },
+    {
+      "queries": [
+        "Wells Fargo 2023 on campus online assessment coding questions",
+        "Wells Fargo 2024 on campus online assessment coding questions",
+        "Wells Fargo 2025 on campus online assessment coding questions",
+        "Wells Fargo 2026 on campus online assessment coding questions"
+      ],
+      "id": "wells_fargo",
+      "company": "Wells Fargo"
+    },
+    {
+      "queries": [
+        "Samsung R&D 2023 on campus online assessment coding questions",
+        "Samsung R&D 2024 on campus online assessment coding questions",
+        "Samsung R&D 2025 on campus online assessment coding questions",
+        "Samsung R&D 2026 on campus online assessment coding questions"
+      ],
+      "id": "samsung",
+      "company": "Samsung R&D"
+    },
+    {
+      "queries": [
+        "Barclays 2023 on campus online assessment coding questions",
+        "Barclays 2024 on campus online assessment coding questions",
+        "Barclays 2025 on campus online assessment coding questions",
+        "Barclays 2026 on campus online assessment coding questions"
+      ],
+      "id": "barclays",
+      "company": "Barclays"
+    },
+    {
+      "queries": [
+        "HCL Technologies 2023 on campus online assessment coding questions",
+        "HCL Technologies 2024 on campus online assessment coding questions",
+        "HCL Technologies 2025 on campus online assessment coding questions",
+        "HCL Technologies 2026 on campus online assessment coding questions"
+      ],
+      "id": "hcl_technologies",
+      "company": "HCL Technologies"
+    },
+    {
+      "queries": [
+        "JP Morgan 2023 on campus online assessment coding questions",
+        "JP Morgan 2024 on campus online assessment coding questions",
+        "JP Morgan 2025 on campus online assessment coding questions",
+        "JP Morgan 2026 on campus online assessment coding questions"
+      ],
+      "id": "jp_morgan",
+      "company": "JP Morgan"
+    },
+    {
+      "queries": [
+        "Cognizant 2023 on campus online assessment coding questions",
+        "Cognizant 2024 on campus online assessment coding questions",
+        "Cognizant 2025 on campus online assessment coding questions",
+        "Cognizant 2026 on campus online assessment coding questions"
+      ],
+      "id": "cognizant",
+      "company": "Cognizant"
+    },
+    {
+      "queries": [
+        "Graviton Research Capital 2023 on campus online assessment coding questions",
+        "Graviton Research Capital 2024 on campus online assessment coding questions",
+        "Graviton Research Capital 2025 on campus online assessment coding questions",
+        "Graviton Research Capital 2026 on campus online assessment coding questions"
+      ],
+      "id": "graviton",
+      "company": "Graviton Research Capital"
+    },
+    {
+      "queries": [
+        "Meta Facebook 2023 on campus online assessment coding questions",
+        "Meta Facebook 2024 on campus online assessment coding questions",
+        "Meta Facebook 2025 on campus online assessment coding questions",
+        "Meta Facebook 2026 on campus online assessment coding questions"
+      ],
+      "id": "meta",
+      "company": "Meta Facebook"
+    },
+    {
+      "queries": [
+        "Jane Street 2023 on campus online assessment coding questions",
+        "Jane Street 2024 on campus online assessment coding questions",
+        "Jane Street 2025 on campus online assessment coding questions",
+        "Jane Street 2026 on campus online assessment coding questions"
+      ],
+      "id": "jane_street",
+      "company": "Jane Street"
+    },
+    {
+      "queries": [
+        "Databricks 2023 on campus online assessment coding questions",
+        "Databricks 2024 on campus online assessment coding questions",
+        "Databricks 2025 on campus online assessment coding questions",
+        "Databricks 2026 on campus online assessment coding questions"
+      ],
+      "id": "databricks",
+      "company": "Databricks"
+    },
+    {
+      "queries": [
+        "Squarepoint Capital 2023 on campus online assessment coding questions",
+        "Squarepoint Capital 2024 on campus online assessment coding questions",
+        "Squarepoint Capital 2025 on campus online assessment coding questions",
+        "Squarepoint Capital 2026 on campus online assessment coding questions"
+      ],
+      "id": "squarepoint",
+      "company": "Squarepoint Capital"
+    },
+    {
+      "queries": [
+        "Rubrik 2023 on campus online assessment coding questions",
+        "Rubrik 2024 on campus online assessment coding questions",
+        "Rubrik 2025 on campus online assessment coding questions",
+        "Rubrik 2026 on campus online assessment coding questions"
+      ],
+      "id": "rubrik",
+      "company": "Rubrik"
+    },
+    {
+      "queries": [
+        "Salesforce 2023 on campus online assessment coding questions",
+        "Salesforce 2024 on campus online assessment coding questions",
+        "Salesforce 2025 on campus online assessment coding questions",
+        "Salesforce 2026 on campus online assessment coding questions"
+      ],
+      "id": "salesforce",
+      "company": "Salesforce"
+    },
+    {
+      "queries": [
+        "IMC Trading 2023 on campus online assessment coding questions",
+        "IMC Trading 2024 on campus online assessment coding questions",
+        "IMC Trading 2025 on campus online assessment coding questions",
+        "IMC Trading 2026 on campus online assessment coding questions"
+      ],
+      "id": "imc",
+      "company": "IMC Trading"
+    },
+    {
+      "queries": [
+        "Arista Networks 2023 on campus online assessment coding questions",
+        "Arista Networks 2024 on campus online assessment coding questions",
+        "Arista Networks 2025 on campus online assessment coding questions",
+        "Arista Networks 2026 on campus online assessment coding questions"
+      ],
+      "id": "arista",
+      "company": "Arista Networks"
+    },
+    {
+      "queries": [
+        "Sprinklr 2023 on campus online assessment coding questions",
+        "Sprinklr 2024 on campus online assessment coding questions",
+        "Sprinklr 2025 on campus online assessment coding questions",
+        "Sprinklr 2026 on campus online assessment coding questions"
+      ],
+      "id": "sprinklr",
+      "company": "Sprinklr"
+    },
+    {
+      "queries": [
+        "Dell 2023 on campus online assessment coding questions",
+        "Dell 2024 on campus online assessment coding questions",
+        "Dell 2025 on campus online assessment coding questions",
+        "Dell 2026 on campus online assessment coding questions"
+      ],
+      "id": "dell",
+      "company": "Dell"
+    },
+    {
+      "queries": [
+        "Tech Mahindra 2023 on campus online assessment coding questions",
+        "Tech Mahindra 2024 on campus online assessment coding questions",
+        "Tech Mahindra 2025 on campus online assessment coding questions",
+        "Tech Mahindra 2026 on campus online assessment coding questions"
+      ],
+      "id": "tech_mahindra",
+      "company": "Tech Mahindra"
+    },
+    {
+      "queries": [
+        "Mastercard 2023 on campus online assessment coding questions",
+        "Mastercard 2024 on campus online assessment coding questions",
+        "Mastercard 2025 on campus online assessment coding questions",
+        "Mastercard 2026 on campus online assessment coding questions"
+      ],
+      "id": "mastercard",
+      "company": "Mastercard"
+    },
+    {
+      "queries": [
+        "Arcesium 2023 on campus online assessment coding questions",
+        "Arcesium 2024 on campus online assessment coding questions",
+        "Arcesium 2025 on campus online assessment coding questions",
+        "Arcesium 2026 on campus online assessment coding questions"
+      ],
+      "id": "arcesium",
+      "company": "Arcesium"
+    },
+    {
+      "queries": [
+        "BlackRock 2023 on campus online assessment coding questions",
+        "BlackRock 2024 on campus online assessment coding questions",
+        "BlackRock 2025 on campus online assessment coding questions",
+        "BlackRock 2026 on campus online assessment coding questions"
+      ],
+      "id": "blackrock",
+      "company": "BlackRock"
+    },
+    {
+      "queries": [
+        "Deutsche Bank 2023 on campus online assessment coding questions",
+        "Deutsche Bank 2024 on campus online assessment coding questions",
+        "Deutsche Bank 2025 on campus online assessment coding questions",
+        "Deutsche Bank 2026 on campus online assessment coding questions"
+      ],
+      "id": "deutsche_bank",
+      "company": "Deutsche Bank"
+    },
+    {
+      "queries": [
+        "Optiver 2023 on campus online assessment coding questions",
+        "Optiver 2024 on campus online assessment coding questions",
+        "Optiver 2025 on campus online assessment coding questions",
+        "Optiver 2026 on campus online assessment coding questions"
+      ],
+      "id": "optiver",
+      "company": "Optiver"
+    },
+    {
+      "queries": [
+        "Zomato Eternal 2023 on campus online assessment coding questions",
+        "Zomato Eternal 2024 on campus online assessment coding questions",
+        "Zomato Eternal 2025 on campus online assessment coding questions",
+        "Zomato Eternal 2026 on campus online assessment coding questions"
+      ],
+      "id": "eternal",
+      "company": "Zomato Eternal"
+    },
+    {
+      "queries": [
+        "Meesho 2023 on campus online assessment coding questions",
+        "Meesho 2024 on campus online assessment coding questions",
+        "Meesho 2025 on campus online assessment coding questions",
+        "Meesho 2026 on campus online assessment coding questions"
+      ],
+      "id": "meesho",
+      "company": "Meesho"
+    },
+    {
+      "queries": [
+        "Capital One 2023 on campus online assessment coding questions",
+        "Capital One 2024 on campus online assessment coding questions",
+        "Capital One 2025 on campus online assessment coding questions",
+        "Capital One 2026 on campus online assessment coding questions"
+      ],
+      "id": "capital_one",
+      "company": "Capital One"
+    },
+    {
+      "queries": [
+        "Tower Research 2023 on campus online assessment coding questions",
+        "Tower Research 2024 on campus online assessment coding questions",
+        "Tower Research 2025 on campus online assessment coding questions",
+        "Tower Research 2026 on campus online assessment coding questions"
+      ],
+      "id": "tower_research",
+      "company": "Tower Research"
+    },
+    {
+      "queries": [
+        "Citi 2023 on campus online assessment coding questions",
+        "Citi 2024 on campus online assessment coding questions",
+        "Citi 2025 on campus online assessment coding questions",
+        "Citi 2026 on campus online assessment coding questions"
+      ],
+      "id": "citi",
+      "company": "Citi"
+    },
+    {
+      "queries": [
+        "Bank of America 2023 on campus online assessment coding questions",
+        "Bank of America 2024 on campus online assessment coding questions",
+        "Bank of America 2025 on campus online assessment coding questions",
+        "Bank of America 2026 on campus online assessment coding questions"
+      ],
+      "id": "bank_of_america",
+      "company": "Bank of America"
+    },
+    {
+      "queries": [
+        "LTIMindtree 2023 on campus online assessment coding questions",
+        "LTIMindtree 2024 on campus online assessment coding questions",
+        "LTIMindtree 2025 on campus online assessment coding questions",
+        "LTIMindtree 2026 on campus online assessment coding questions"
+      ],
+      "id": "ltimindtree",
+      "company": "LTIMindtree"
+    },
+    {
+      "queries": [
+        "Google OA IIT 2023 coding",
+        "Microsoft OA NIT 2024 coding questions",
+        "Amazon OA IIIT 2025 coding",
+        "Goldman Sachs OA BITS 2026 coding"
+      ],
+      "id": "focused_first"
+    },
+    {
+      "queries": [
+        "\"Google\" IIT interview experience OA coding topics",
+        "\"Google\" NIT interview experience OA coding topics",
+        "\"Google\" IIIT interview experience OA coding topics",
+        "\"Google\" BITS interview experience OA coding topics"
+      ],
+      "id": "google_campus",
+      "company": "Google"
+    },
+    {
+      "queries": [
+        "\"Goldman Sachs\" IIT interview experience OA coding topics",
+        "\"Goldman Sachs\" NIT interview experience OA coding topics",
+        "\"Goldman Sachs\" IIIT interview experience OA coding topics",
+        "\"Goldman Sachs\" BITS interview experience OA coding topics"
+      ],
+      "id": "goldman_sachs_campus",
+      "company": "Goldman Sachs"
+    },
+    {
+      "queries": [
+        "\"Microsoft\" IIT interview experience OA coding topics",
+        "\"Microsoft\" NIT interview experience OA coding topics",
+        "\"Microsoft\" IIIT interview experience OA coding topics",
+        "\"Microsoft\" BITS interview experience OA coding topics"
+      ],
+      "id": "microsoft_campus",
+      "company": "Microsoft"
+    },
+    {
+      "queries": [
+        "\"Amazon\" IIT interview experience OA coding topics",
+        "\"Amazon\" NIT interview experience OA coding topics",
+        "\"Amazon\" IIIT interview experience OA coding topics",
+        "\"Amazon\" BITS interview experience OA coding topics"
+      ],
+      "id": "amazon_campus",
+      "company": "Amazon"
+    },
+    {
+      "queries": [
+        "\"Flipkart\" IIT interview experience OA coding topics",
+        "\"Flipkart\" NIT interview experience OA coding topics",
+        "\"Flipkart\" IIIT interview experience OA coding topics",
+        "\"Flipkart\" BITS interview experience OA coding topics"
+      ],
+      "id": "flipkart_campus",
+      "company": "Flipkart"
+    },
+    {
+      "queries": [
+        "\"Adobe\" IIT interview experience OA coding topics",
+        "\"Adobe\" NIT interview experience OA coding topics",
+        "\"Adobe\" IIIT interview experience OA coding topics",
+        "\"Adobe\" BITS interview experience OA coding topics"
+      ],
+      "id": "adobe_campus",
+      "company": "Adobe"
+    },
+    {
+      "queries": [
+        "\"Qualcomm\" IIT interview experience OA coding topics",
+        "\"Qualcomm\" NIT interview experience OA coding topics",
+        "\"Qualcomm\" IIIT interview experience OA coding topics",
+        "\"Qualcomm\" BITS interview experience OA coding topics"
+      ],
+      "id": "qualcomm_campus",
+      "company": "Qualcomm"
+    },
+    {
+      "queries": [
+        "\"Oracle\" IIT interview experience OA coding topics",
+        "\"Oracle\" NIT interview experience OA coding topics",
+        "\"Oracle\" IIIT interview experience OA coding topics",
+        "\"Oracle\" BITS interview experience OA coding topics"
+      ],
+      "id": "oracle_campus",
+      "company": "Oracle"
+    },
+    {
+      "queries": [
+        "\"Nvidia\" IIT interview experience OA coding topics",
+        "\"Nvidia\" NIT interview experience OA coding topics",
+        "\"Nvidia\" IIIT interview experience OA coding topics",
+        "\"Nvidia\" BITS interview experience OA coding topics"
+      ],
+      "id": "nvidia_campus",
+      "company": "Nvidia"
+    },
+    {
+      "queries": [
+        "\"Apple\" IIT interview experience OA coding topics",
+        "\"Apple\" NIT interview experience OA coding topics",
+        "\"Apple\" IIIT interview experience OA coding topics",
+        "\"Apple\" BITS interview experience OA coding topics"
+      ],
+      "id": "apple_campus",
+      "company": "Apple"
+    },
+    {
+      "queries": [
+        "\"Accenture\" IIT interview experience OA coding topics",
+        "\"Accenture\" NIT interview experience OA coding topics",
+        "\"Accenture\" IIIT interview experience OA coding topics",
+        "\"Accenture\" BITS interview experience OA coding topics"
+      ],
+      "id": "accenture_campus",
+      "company": "Accenture"
+    },
+    {
+      "queries": [
+        "\"Uber\" IIT interview experience OA coding topics",
+        "\"Uber\" NIT interview experience OA coding topics",
+        "\"Uber\" IIIT interview experience OA coding topics",
+        "\"Uber\" BITS interview experience OA coding topics"
+      ],
+      "id": "uber_campus",
+      "company": "Uber"
+    },
+    {
+      "queries": [
+        "\"DE Shaw\" IIT interview experience OA coding topics",
+        "\"DE Shaw\" NIT interview experience OA coding topics",
+        "\"DE Shaw\" IIIT interview experience OA coding topics",
+        "\"DE Shaw\" BITS interview experience OA coding topics"
+      ],
+      "id": "de_shaw_campus",
+      "company": "DE Shaw"
+    },
+    {
+      "queries": [
+        "\"IBM\" IIT interview experience OA coding topics",
+        "\"IBM\" NIT interview experience OA coding topics",
+        "\"IBM\" IIIT interview experience OA coding topics",
+        "\"IBM\" BITS interview experience OA coding topics"
+      ],
+      "id": "ibm_campus",
+      "company": "IBM"
+    },
+    {
+      "queries": [
+        "\"Infosys\" IIT interview experience OA coding topics",
+        "\"Infosys\" NIT interview experience OA coding topics",
+        "\"Infosys\" IIIT interview experience OA coding topics",
+        "\"Infosys\" BITS interview experience OA coding topics"
+      ],
+      "id": "infosys_campus",
+      "company": "Infosys"
+    },
+    {
+      "queries": [
+        "\"TCS\" IIT interview experience OA coding topics",
+        "\"TCS\" NIT interview experience OA coding topics",
+        "\"TCS\" IIIT interview experience OA coding topics",
+        "\"TCS\" BITS interview experience OA coding topics"
+      ],
+      "id": "tcs_campus",
+      "company": "TCS"
+    },
+    {
+      "queries": [
+        "\"Wipro\" IIT interview experience OA coding topics",
+        "\"Wipro\" NIT interview experience OA coding topics",
+        "\"Wipro\" IIIT interview experience OA coding topics",
+        "\"Wipro\" BITS interview experience OA coding topics"
+      ],
+      "id": "wipro_campus",
+      "company": "Wipro"
+    },
+    {
+      "queries": [
+        "\"American Express\" IIT interview experience OA coding topics",
+        "\"American Express\" NIT interview experience OA coding topics",
+        "\"American Express\" IIIT interview experience OA coding topics",
+        "\"American Express\" BITS interview experience OA coding topics"
+      ],
+      "id": "american_express_campus",
+      "company": "American Express"
+    },
+    {
+      "queries": [
+        "\"Cisco\" IIT interview experience OA coding topics",
+        "\"Cisco\" NIT interview experience OA coding topics",
+        "\"Cisco\" IIIT interview experience OA coding topics",
+        "\"Cisco\" BITS interview experience OA coding topics"
+      ],
+      "id": "cisco_campus",
+      "company": "Cisco"
+    },
+    {
+      "queries": [
+        "\"Morgan Stanley\" IIT interview experience OA coding topics",
+        "\"Morgan Stanley\" NIT interview experience OA coding topics",
+        "\"Morgan Stanley\" IIIT interview experience OA coding topics",
+        "\"Morgan Stanley\" BITS interview experience OA coding topics"
+      ],
+      "id": "morgan_stanley_campus",
+      "company": "Morgan Stanley"
+    },
+    {
+      "queries": [
+        "\"Walmart\" IIT interview experience OA coding topics",
+        "\"Walmart\" NIT interview experience OA coding topics",
+        "\"Walmart\" IIIT interview experience OA coding topics",
+        "\"Walmart\" BITS interview experience OA coding topics"
+      ],
+      "id": "walmart_campus",
+      "company": "Walmart"
+    },
+    {
+      "queries": [
+        "\"Samsung\" IIT interview experience OA coding topics",
+        "\"Samsung\" NIT interview experience OA coding topics",
+        "\"Samsung\" IIIT interview experience OA coding topics",
+        "\"Samsung\" BITS interview experience OA coding topics"
+      ],
+      "id": "samsung_campus",
+      "company": "Samsung"
+    },
+    {
+      "queries": [
+        "\"Wells Fargo\" IIT interview experience OA coding topics",
+        "\"Wells Fargo\" NIT interview experience OA coding topics",
+        "\"Wells Fargo\" IIIT interview experience OA coding topics",
+        "\"Wells Fargo\" BITS interview experience OA coding topics"
+      ],
+      "id": "wells_fargo_campus",
+      "company": "Wells Fargo"
+    },
+    {
+      "queries": [
+        "\"Intel\" IIT interview experience OA coding topics",
+        "\"Intel\" NIT interview experience OA coding topics",
+        "\"Intel\" IIIT interview experience OA coding topics",
+        "\"Intel\" BITS interview experience OA coding topics"
+      ],
+      "id": "intel_campus",
+      "company": "Intel"
+    },
+    {
+      "queries": [
+        "\"Barclays\" IIT interview experience OA coding topics",
+        "\"Barclays\" NIT interview experience OA coding topics",
+        "\"Barclays\" IIIT interview experience OA coding topics",
+        "\"Barclays\" BITS interview experience OA coding topics"
+      ],
+      "id": "barclays_campus",
+      "company": "Barclays"
+    },
+    {
+      "queries": [
+        "\"JP Morgan\" IIT interview experience OA coding topics",
+        "\"JP Morgan\" NIT interview experience OA coding topics",
+        "\"JP Morgan\" IIIT interview experience OA coding topics",
+        "\"JP Morgan\" BITS interview experience OA coding topics"
+      ],
+      "id": "jp_morgan_campus",
+      "company": "JP Morgan"
+    },
+    {
+      "queries": [
+        "\"HCL\" IIT interview experience OA coding topics",
+        "\"HCL\" NIT interview experience OA coding topics",
+        "\"HCL\" IIIT interview experience OA coding topics",
+        "\"HCL\" BITS interview experience OA coding topics"
+      ],
+      "id": "hcl_campus",
+      "company": "HCL"
+    },
+    {
+      "queries": [
+        "\"Cognizant\" IIT interview experience OA coding topics",
+        "\"Cognizant\" NIT interview experience OA coding topics",
+        "\"Cognizant\" IIIT interview experience OA coding topics",
+        "\"Cognizant\" BITS interview experience OA coding topics"
+      ],
+      "id": "cognizant_campus",
+      "company": "Cognizant"
+    },
+    {
+      "queries": [
+        "\"Graviton\" IIT interview experience OA coding topics",
+        "\"Graviton\" NIT interview experience OA coding topics",
+        "\"Graviton\" IIIT interview experience OA coding topics",
+        "\"Graviton\" BITS interview experience OA coding topics"
+      ],
+      "id": "graviton_campus",
+      "company": "Graviton"
+    },
+    {
+      "queries": [
+        "\"Jane Street\" IIT interview experience OA coding topics",
+        "\"Jane Street\" NIT interview experience OA coding topics",
+        "\"Jane Street\" IIIT interview experience OA coding topics",
+        "\"Jane Street\" BITS interview experience OA coding topics"
+      ],
+      "id": "jane_street_campus",
+      "company": "Jane Street"
+    },
+    {
+      "queries": [
+        "\"Meta\" IIT interview experience OA coding topics",
+        "\"Meta\" NIT interview experience OA coding topics",
+        "\"Meta\" IIIT interview experience OA coding topics",
+        "\"Meta\" BITS interview experience OA coding topics"
+      ],
+      "id": "meta_campus",
+      "company": "Meta"
+    },
+    {
+      "queries": [
+        "\"Databricks\" IIT interview experience OA coding topics",
+        "\"Databricks\" NIT interview experience OA coding topics",
+        "\"Databricks\" IIIT interview experience OA coding topics",
+        "\"Databricks\" BITS interview experience OA coding topics"
+      ],
+      "id": "databricks_campus",
+      "company": "Databricks"
+    },
+    {
+      "queries": [
+        "\"Squarepoint\" IIT interview experience OA coding topics",
+        "\"Squarepoint\" NIT interview experience OA coding topics",
+        "\"Squarepoint\" IIIT interview experience OA coding topics",
+        "\"Squarepoint\" BITS interview experience OA coding topics"
+      ],
+      "id": "squarepoint_campus",
+      "company": "Squarepoint"
+    },
+    {
+      "queries": [
+        "\"Rubrik\" IIT interview experience OA coding topics",
+        "\"Rubrik\" NIT interview experience OA coding topics",
+        "\"Rubrik\" IIIT interview experience OA coding topics",
+        "\"Rubrik\" BITS interview experience OA coding topics"
+      ],
+      "id": "rubrik_campus",
+      "company": "Rubrik"
+    },
+    {
+      "queries": [
+        "\"IMC Trading\" IIT interview experience OA coding topics",
+        "\"IMC Trading\" NIT interview experience OA coding topics",
+        "\"IMC Trading\" IIIT interview experience OA coding topics",
+        "\"IMC Trading\" BITS interview experience OA coding topics"
+      ],
+      "id": "imc_campus",
+      "company": "IMC Trading"
+    },
+    {
+      "queries": [
+        "\"Salesforce\" IIT interview experience OA coding topics",
+        "\"Salesforce\" NIT interview experience OA coding topics",
+        "\"Salesforce\" IIIT interview experience OA coding topics",
+        "\"Salesforce\" BITS interview experience OA coding topics"
+      ],
+      "id": "salesforce_campus",
+      "company": "Salesforce"
+    },
+    {
+      "queries": [
+        "\"Sprinklr\" IIT interview experience OA coding topics",
+        "\"Sprinklr\" NIT interview experience OA coding topics",
+        "\"Sprinklr\" IIIT interview experience OA coding topics",
+        "\"Sprinklr\" BITS interview experience OA coding topics"
+      ],
+      "id": "sprinklr_campus",
+      "company": "Sprinklr"
+    },
+    {
+      "queries": [
+        "\"Tech Mahindra\" IIT interview experience OA coding topics",
+        "\"Tech Mahindra\" NIT interview experience OA coding topics",
+        "\"Tech Mahindra\" IIIT interview experience OA coding topics",
+        "\"Tech Mahindra\" BITS interview experience OA coding topics"
+      ],
+      "id": "tech_mahindra_campus",
+      "company": "Tech Mahindra"
+    },
+    {
+      "queries": [
+        "\"Dell\" IIT interview experience OA coding topics",
+        "\"Dell\" NIT interview experience OA coding topics",
+        "\"Dell\" IIIT interview experience OA coding topics",
+        "\"Dell\" BITS interview experience OA coding topics"
+      ],
+      "id": "dell_campus",
+      "company": "Dell"
+    },
+    {
+      "queries": [
+        "\"Arista Networks\" IIT interview experience OA coding topics",
+        "\"Arista Networks\" NIT interview experience OA coding topics",
+        "\"Arista Networks\" IIIT interview experience OA coding topics",
+        "\"Arista Networks\" BITS interview experience OA coding topics"
+      ],
+      "id": "arista_campus",
+      "company": "Arista Networks"
+    },
+    {
+      "queries": [
+        "\"BlackRock\" IIT interview experience OA coding topics",
+        "\"BlackRock\" NIT interview experience OA coding topics",
+        "\"BlackRock\" IIIT interview experience OA coding topics",
+        "\"BlackRock\" BITS interview experience OA coding topics"
+      ],
+      "id": "blackrock_campus",
+      "company": "BlackRock"
+    },
+    {
+      "queries": [
+        "\"Mastercard\" IIT interview experience OA coding topics",
+        "\"Mastercard\" NIT interview experience OA coding topics",
+        "\"Mastercard\" IIIT interview experience OA coding topics",
+        "\"Mastercard\" BITS interview experience OA coding topics"
+      ],
+      "id": "mastercard_campus",
+      "company": "Mastercard"
+    },
+    {
+      "queries": [
+        "\"Deutsche Bank\" IIT interview experience OA coding topics",
+        "\"Deutsche Bank\" NIT interview experience OA coding topics",
+        "\"Deutsche Bank\" IIIT interview experience OA coding topics",
+        "\"Deutsche Bank\" BITS interview experience OA coding topics"
+      ],
+      "id": "deutsche_bank_campus",
+      "company": "Deutsche Bank"
+    },
+    {
+      "queries": [
+        "\"Arcesium\" IIT interview experience OA coding topics",
+        "\"Arcesium\" NIT interview experience OA coding topics",
+        "\"Arcesium\" IIIT interview experience OA coding topics",
+        "\"Arcesium\" BITS interview experience OA coding topics"
+      ],
+      "id": "arcesium_campus",
+      "company": "Arcesium"
+    },
+    {
+      "queries": [
+        "\"Optiver\" IIT interview experience OA coding topics",
+        "\"Optiver\" NIT interview experience OA coding topics",
+        "\"Optiver\" IIIT interview experience OA coding topics",
+        "\"Optiver\" BITS interview experience OA coding topics"
+      ],
+      "id": "optiver_campus",
+      "company": "Optiver"
+    },
+    {
+      "queries": [
+        "\"Zomato\" IIT interview experience OA coding topics",
+        "\"Zomato\" NIT interview experience OA coding topics",
+        "\"Zomato\" IIIT interview experience OA coding topics",
+        "\"Zomato\" BITS interview experience OA coding topics"
+      ],
+      "id": "eternal_campus",
+      "company": "Zomato"
+    },
+    {
+      "queries": [
+        "\"Capital One\" IIT interview experience OA coding topics",
+        "\"Capital One\" NIT interview experience OA coding topics",
+        "\"Capital One\" IIIT interview experience OA coding topics",
+        "\"Capital One\" BITS interview experience OA coding topics"
+      ],
+      "id": "capital_one_campus",
+      "company": "Capital One"
+    },
+    {
+      "queries": [
+        "\"Meesho\" IIT interview experience OA coding topics",
+        "\"Meesho\" NIT interview experience OA coding topics",
+        "\"Meesho\" IIIT interview experience OA coding topics",
+        "\"Meesho\" BITS interview experience OA coding topics"
+      ],
+      "id": "meesho_campus",
+      "company": "Meesho"
+    },
+    {
+      "queries": [
+        "\"Citi\" IIT interview experience OA coding topics",
+        "\"Citi\" NIT interview experience OA coding topics",
+        "\"Citi\" IIIT interview experience OA coding topics",
+        "\"Citi\" BITS interview experience OA coding topics"
+      ],
+      "id": "citi_campus",
+      "company": "Citi"
+    },
+    {
+      "queries": [
+        "\"Tower Research\" IIT interview experience OA coding topics",
+        "\"Tower Research\" NIT interview experience OA coding topics",
+        "\"Tower Research\" IIIT interview experience OA coding topics",
+        "\"Tower Research\" BITS interview experience OA coding topics"
+      ],
+      "id": "tower_research_campus",
+      "company": "Tower Research"
+    },
+    {
+      "queries": [
+        "\"LTIMindtree\" IIT interview experience OA coding topics",
+        "\"LTIMindtree\" NIT interview experience OA coding topics",
+        "\"LTIMindtree\" IIIT interview experience OA coding topics",
+        "\"LTIMindtree\" BITS interview experience OA coding topics"
+      ],
+      "id": "ltimindtree_campus",
+      "company": "LTIMindtree"
+    },
+    {
+      "queries": [
+        "\"Bank of America\" IIT interview experience OA coding topics",
+        "\"Bank of America\" NIT interview experience OA coding topics",
+        "\"Bank of America\" IIIT interview experience OA coding topics",
+        "\"Bank of America\" BITS interview experience OA coding topics"
+      ],
+      "id": "bank_of_america_campus",
+      "company": "Bank of America"
+    },
+    {
+      "queries": [
+        "site:codeforces.com/blog Google Microsoft Amazon IIT OA 2023 2024 2025 2026",
+        "site:codeforces.com/blog \"IIT Bhubaneswar\" \"Assessment\"",
+        "\"NIT\" \"online assessment\" \"2024\" \"Adobe\"",
+        "\"NIT\" \"online assessment\" \"2025\" \"Walmart\""
+      ],
+      "id": "focused_more"
+    },
+    {
+      "queries": [
+        "site:thejoboverflow.com Google OA IIT 2023 2024 2025 2026",
+        "site:thejoboverflow.com Microsoft OA NIT 2023 2024 2025 2026",
+        "site:thejoboverflow.com Amazon OA IIT 2023 2024 2025 2026",
+        "site:thejoboverflow.com Goldman Sachs OA IIT 2023 2024 2025 2026"
+      ],
+      "id": "tjo_first"
+    }
+  ]
+}

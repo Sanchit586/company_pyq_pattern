@@ -1,0 +1,2154 @@
+[
+  {
+    "company": "Google",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 4,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 1,
+    "report_ids": [
+      "R029"
+    ]
+  },
+  {
+    "company": "Google",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Google",
+    "oa_year": 2025,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 2,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R001"
+    ]
+  },
+  {
+    "company": "Google",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Microsoft",
+    "oa_year": 2023,
+    "status": "source_lead_gap",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 5,
+    "report_ids": []
+  },
+  {
+    "company": "Microsoft",
+    "oa_year": 2024,
+    "status": "report_without_topics",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R003"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "oa_year": 2025,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 2,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R004"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Amazon",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Amazon",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Amazon",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Amazon",
+    "oa_year": 2026,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 1,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R006"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 6,
+    "curated_coding_reports": 3,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R030",
+      "R031",
+      "R032"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Goldman Sachs",
+    "oa_year": 2025,
+    "status": "report_without_topics",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R014"
+    ]
+  },
+  {
+    "company": "Goldman Sachs",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Qualcomm",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Qualcomm",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Qualcomm",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Qualcomm",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Flipkart",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Flipkart",
+    "oa_year": 2024,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 1,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R012"
+    ]
+  },
+  {
+    "company": "Flipkart",
+    "oa_year": 2025,
+    "status": "source_lead_gap",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 1,
+    "report_ids": []
+  },
+  {
+    "company": "Flipkart",
+    "oa_year": 2026,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 3,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R013"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "oa_year": 2023,
+    "status": "source_lead_gap",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 1,
+    "report_ids": []
+  },
+  {
+    "company": "Adobe",
+    "oa_year": 2024,
+    "status": "report_without_topics",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R058"
+    ]
+  },
+  {
+    "company": "Adobe",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Adobe",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Oracle",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 3,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 2,
+    "report_ids": [
+      "R033"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "oa_year": 2024,
+    "status": "report_without_topics",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R011"
+    ]
+  },
+  {
+    "company": "Oracle",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Oracle",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Nvidia",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Nvidia",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Nvidia",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Nvidia",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Accenture",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Accenture",
+    "oa_year": 2024,
+    "status": "source_lead_gap",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 1,
+    "report_ids": []
+  },
+  {
+    "company": "Accenture",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Accenture",
+    "oa_year": 2026,
+    "status": "report_without_topics",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R015"
+    ]
+  },
+  {
+    "company": "Uber",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 6,
+    "curated_coding_reports": 2,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R036",
+      "R057"
+    ]
+  },
+  {
+    "company": "Uber",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Uber",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Uber",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Apple",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Apple",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Apple",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Apple",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "DE Shaw",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 13,
+    "curated_coding_reports": 6,
+    "unreviewed_or_access_limited_campus_leads": 1,
+    "report_ids": [
+      "R034",
+      "R035",
+      "R037",
+      "R038",
+      "R039",
+      "R056"
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "DE Shaw",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "DE Shaw",
+    "oa_year": 2026,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 3,
+    "curated_coding_reports": 2,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R018",
+      "R043"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Infosys",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Infosys",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Infosys",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "TCS",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "TCS",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "TCS",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "TCS",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "IBM",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 4,
+    "curated_coding_reports": 2,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R044",
+      "R045"
+    ]
+  },
+  {
+    "company": "IBM",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "IBM",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "IBM",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Wipro",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Wipro",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Wipro",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Wipro",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Cisco",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Cisco",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Cisco",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Cisco",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Morgan Stanley",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 5,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R065"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Morgan Stanley",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Morgan Stanley",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "American Express",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "American Express",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "American Express",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "American Express",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Wells Fargo",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 2,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R046"
+    ]
+  },
+  {
+    "company": "Wells Fargo",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Wells Fargo",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Wells Fargo",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Walmart",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Walmart",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Walmart",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Walmart",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Samsung (R&D)",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Samsung (R&D)",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Samsung (R&D)",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Samsung (R&D)",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Intel",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Intel",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Intel",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Intel",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Cognizant",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Cognizant",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Cognizant",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Cognizant",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "JP Morgan",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 2,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R020"
+    ]
+  },
+  {
+    "company": "JP Morgan",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "JP Morgan",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "JP Morgan",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Barclays",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Barclays",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Barclays",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Barclays",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "HCL Technologies",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "HCL Technologies",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "HCL Technologies",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "HCL Technologies",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Databricks",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 4,
+    "curated_coding_reports": 2,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R026",
+      "R047"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Databricks",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Databricks",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Meta (Facebook)",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Meta (Facebook)",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Meta (Facebook)",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Meta (Facebook)",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Jane Street",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Jane Street",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Jane Street",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Jane Street",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Graviton Research Capital",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Graviton Research Capital",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Graviton Research Capital",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Graviton Research Capital",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Squarepoint Capital",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Squarepoint Capital",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Squarepoint Capital",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Squarepoint Capital",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "IMC Trading",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "IMC Trading",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "IMC Trading",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "IMC Trading",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Rubrik",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 2,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R023"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Rubrik",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Rubrik",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Salesforce",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 6,
+    "curated_coding_reports": 2,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R040",
+      "R041"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Salesforce",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Salesforce",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Dell",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Dell",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Dell",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Dell",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Tech Mahindra",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Tech Mahindra",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Tech Mahindra",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Tech Mahindra",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Sprinklr",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 17,
+    "curated_coding_reports": 7,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R025",
+      "R042",
+      "R048",
+      "R049",
+      "R050",
+      "R054",
+      "R055"
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Sprinklr",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Sprinklr",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Arista Networks",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Arista Networks",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Arista Networks",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Arista Networks",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Arcesium",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 6,
+    "curated_coding_reports": 3,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R021",
+      "R022",
+      "R051"
+    ]
+  },
+  {
+    "company": "Arcesium",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Arcesium",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Arcesium",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Mastercard",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Mastercard",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Mastercard",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Mastercard",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Deutsche Bank",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Deutsche Bank",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Deutsche Bank",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Deutsche Bank",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "BlackRock",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "BlackRock",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "BlackRock",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "BlackRock",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Capital One",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Capital One",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Capital One",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Capital One",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Meesho",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Meesho",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Meesho",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Meesho",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Eternal (Zomato)",
+    "oa_year": 2023,
+    "status": "topics_found",
+    "complete": false,
+    "topic_observations": 3,
+    "curated_coding_reports": 1,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": [
+      "R052"
+    ]
+  },
+  {
+    "company": "Eternal (Zomato)",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Eternal (Zomato)",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Eternal (Zomato)",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Optiver",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Optiver",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Optiver",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Optiver",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Tower Research",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Tower Research",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Tower Research",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Tower Research",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Bank of America",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Bank of America",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Bank of America",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Bank of America",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Citi",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Citi",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Citi",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "Citi",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "LTIMindtree",
+    "oa_year": 2023,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "LTIMindtree",
+    "oa_year": 2024,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "LTIMindtree",
+    "oa_year": 2025,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  },
+  {
+    "company": "LTIMindtree",
+    "oa_year": 2026,
+    "status": "no_qualifying_public_evidence_found",
+    "complete": false,
+    "topic_observations": 0,
+    "curated_coding_reports": 0,
+    "unreviewed_or_access_limited_campus_leads": 0,
+    "report_ids": []
+  }
+]

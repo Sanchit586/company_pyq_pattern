@@ -1,0 +1,335 @@
+[
+  {
+    "id": 1,
+    "name": "Google",
+    "slug": "google",
+    "aliases": []
+  },
+  {
+    "id": 2,
+    "name": "Microsoft",
+    "slug": "microsoft",
+    "aliases": []
+  },
+  {
+    "id": 3,
+    "name": "Amazon",
+    "slug": "amazon",
+    "aliases": []
+  },
+  {
+    "id": 4,
+    "name": "Goldman Sachs",
+    "slug": "goldman-sachs",
+    "aliases": []
+  },
+  {
+    "id": 5,
+    "name": "Qualcomm",
+    "slug": "qualcomm",
+    "aliases": []
+  },
+  {
+    "id": 6,
+    "name": "Flipkart",
+    "slug": "flipkart",
+    "aliases": []
+  },
+  {
+    "id": 7,
+    "name": "Adobe",
+    "slug": "adobe",
+    "aliases": []
+  },
+  {
+    "id": 8,
+    "name": "Oracle",
+    "slug": "oracle",
+    "aliases": []
+  },
+  {
+    "id": 9,
+    "name": "Nvidia",
+    "slug": "nvidia",
+    "aliases": []
+  },
+  {
+    "id": 10,
+    "name": "Accenture",
+    "slug": "accenture",
+    "aliases": []
+  },
+  {
+    "id": 11,
+    "name": "Uber",
+    "slug": "uber",
+    "aliases": []
+  },
+  {
+    "id": 12,
+    "name": "Apple",
+    "slug": "apple",
+    "aliases": []
+  },
+  {
+    "id": 13,
+    "name": "DE Shaw",
+    "slug": "de-shaw",
+    "aliases": [
+      "D. E. Shaw",
+      "D.E. Shaw"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Infosys",
+    "slug": "infosys",
+    "aliases": []
+  },
+  {
+    "id": 15,
+    "name": "TCS",
+    "slug": "tcs",
+    "aliases": []
+  },
+  {
+    "id": 16,
+    "name": "IBM",
+    "slug": "ibm",
+    "aliases": []
+  },
+  {
+    "id": 17,
+    "name": "Wipro",
+    "slug": "wipro",
+    "aliases": []
+  },
+  {
+    "id": 18,
+    "name": "Cisco",
+    "slug": "cisco",
+    "aliases": []
+  },
+  {
+    "id": 19,
+    "name": "Morgan Stanley",
+    "slug": "morgan-stanley",
+    "aliases": []
+  },
+  {
+    "id": 20,
+    "name": "American Express",
+    "slug": "american-express",
+    "aliases": []
+  },
+  {
+    "id": 21,
+    "name": "Wells Fargo",
+    "slug": "wells-fargo",
+    "aliases": []
+  },
+  {
+    "id": 22,
+    "name": "Walmart",
+    "slug": "walmart",
+    "aliases": []
+  },
+  {
+    "id": 23,
+    "name": "Samsung (R&D)",
+    "slug": "samsung",
+    "aliases": [
+      "Samsung Research",
+      "SRIB",
+      "SRI Bangalore",
+      "SRI Noida"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Intel",
+    "slug": "intel",
+    "aliases": []
+  },
+  {
+    "id": 25,
+    "name": "Cognizant",
+    "slug": "cognizant",
+    "aliases": []
+  },
+  {
+    "id": 26,
+    "name": "JP Morgan",
+    "slug": "jp-morgan",
+    "aliases": [
+      "JPMorgan Chase",
+      "JPMC"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Barclays",
+    "slug": "barclays",
+    "aliases": []
+  },
+  {
+    "id": 28,
+    "name": "HCL Technologies",
+    "slug": "hcl-technologies",
+    "aliases": [
+      "HCLTech"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Databricks",
+    "slug": "databricks",
+    "aliases": []
+  },
+  {
+    "id": 30,
+    "name": "Meta (Facebook)",
+    "slug": "meta",
+    "aliases": [
+      "Meta",
+      "Facebook"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Jane Street",
+    "slug": "jane-street",
+    "aliases": []
+  },
+  {
+    "id": 32,
+    "name": "Graviton Research Capital",
+    "slug": "graviton-research-capital",
+    "aliases": []
+  },
+  {
+    "id": 33,
+    "name": "Squarepoint Capital",
+    "slug": "squarepoint-capital",
+    "aliases": []
+  },
+  {
+    "id": 34,
+    "name": "IMC Trading",
+    "slug": "imc-trading",
+    "aliases": []
+  },
+  {
+    "id": 35,
+    "name": "Rubrik",
+    "slug": "rubrik",
+    "aliases": []
+  },
+  {
+    "id": 36,
+    "name": "Salesforce",
+    "slug": "salesforce",
+    "aliases": []
+  },
+  {
+    "id": 37,
+    "name": "Dell",
+    "slug": "dell",
+    "aliases": []
+  },
+  {
+    "id": 38,
+    "name": "Tech Mahindra",
+    "slug": "tech-mahindra",
+    "aliases": []
+  },
+  {
+    "id": 39,
+    "name": "Sprinklr",
+    "slug": "sprinklr",
+    "aliases": []
+  },
+  {
+    "id": 40,
+    "name": "Arista Networks",
+    "slug": "arista-networks",
+    "aliases": []
+  },
+  {
+    "id": 41,
+    "name": "Arcesium",
+    "slug": "arcesium",
+    "aliases": []
+  },
+  {
+    "id": 42,
+    "name": "Mastercard",
+    "slug": "mastercard",
+    "aliases": []
+  },
+  {
+    "id": 43,
+    "name": "Deutsche Bank",
+    "slug": "deutsche-bank",
+    "aliases": []
+  },
+  {
+    "id": 44,
+    "name": "BlackRock",
+    "slug": "blackrock",
+    "aliases": []
+  },
+  {
+    "id": 45,
+    "name": "Capital One",
+    "slug": "capital-one",
+    "aliases": [
+      "Capital On"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Meesho",
+    "slug": "meesho",
+    "aliases": []
+  },
+  {
+    "id": 47,
+    "name": "Eternal (Zomato)",
+    "slug": "eternal",
+    "aliases": [
+      "Zomato",
+      "Eternal"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Optiver",
+    "slug": "optiver",
+    "aliases": []
+  },
+  {
+    "id": 49,
+    "name": "Tower Research",
+    "slug": "tower-research",
+    "aliases": []
+  },
+  {
+    "id": 50,
+    "name": "Bank of America",
+    "slug": "bank-of-america",
+    "aliases": []
+  },
+  {
+    "id": 51,
+    "name": "Citi",
+    "slug": "citi",
+    "aliases": []
+  },
+  {
+    "id": 52,
+    "name": "LTIMindtree",
+    "slug": "ltimindtree",
+    "aliases": []
+  }
+]

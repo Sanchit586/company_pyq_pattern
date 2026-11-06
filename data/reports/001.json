@@ -1,0 +1,360 @@
+[
+  {
+    "id": "R001",
+    "company": "Google",
+    "oa_year": 2025,
+    "year_basis": "explicit_title",
+    "campus": "IIT Bhubaneswar",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_title",
+    "role": "SDE Intern",
+    "source_url": "https://codeforces.com/blog/entry/145084",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Dynamic Programming",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Linear recurrence for disjoint adjacent swaps; identical characters require care."
+      },
+      {
+        "topic": "Number Theory; Prime Factorization; Disjoint Set Union; Combinatorics",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Must connect values through shared prime factors before counting partitions."
+      }
+    ],
+    "notes": "Original report and comments contain corrections and ambiguity; no official LeetCode difficulty claimed."
+  },
+  {
+    "id": "R002",
+    "company": "Google",
+    "oa_year": null,
+    "year_candidates": [
+      2023
+    ],
+    "year_basis": "inferred_prior_summer_not_explicit",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_body",
+    "role": "Software Engineering Intern (summer 2024)",
+    "source_url": "https://medium.com/@swgiitkgp/foresight-2024-internship-at-google-shelly-aggarwal-4679ee5d1366",
+    "source_type": "campus_student_body_candidate_report",
+    "published_date": "2024-06-15",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Trees; Path Aggregation; Medians",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Aggregating medians over all odd simple paths is a nontrivial tree counting task."
+      },
+      {
+        "topic": "Arrays; Sequence Optimization",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "The recalled description omits the sequence definition and constraints."
+      },
+      {
+        "topic": "Graphs; Grid BFS; Number Theory",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Only a partial recollection from the test pool is available."
+      }
+    ],
+    "notes": "OA day/month is July 15, but calendar year is absent. June 2024 publication precedes July 2024, so do not label it a 2024 OA. Other recollections are incomplete."
+  },
+  {
+    "id": "R003",
+    "company": "Microsoft",
+    "oa_year": 2024,
+    "year_basis": "inferred_timeline",
+    "campus": "NIT Jalandhar",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_title_and_body",
+    "role": "SDE Intern (summer 2025)",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/microsoft-interview-experience-sde-intern-on-campus-nit-jalandhar/",
+    "source_type": "candidate_report",
+    "published_date": null,
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "reported_oa_difficulty": [
+      "Easy",
+      "Medium"
+    ],
+    "notes": "July 12 OA, reported before October 2024 update, for the following summer. Report supplies no specific OA DSA topics; later interview arrays/trees are excluded."
+  },
+  {
+    "id": "R004",
+    "company": "Microsoft",
+    "oa_year": 2025,
+    "year_basis": "inferred_contemporary_narrative",
+    "campus": "NIT Durgapur",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_body",
+    "role": "SWE Intern (summer 2026)",
+    "source_url": "https://medium.com/@ahinaganguly2108/microsoft-swe-internship-interview-experience-on-campus-6e03379e13f5",
+    "source_type": "candidate_report",
+    "published_date": "2025-11-14",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Sorting; Strings",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate explicitly rates the first OA item easy."
+      },
+      {
+        "topic": "Sliding Window",
+        "difficulty": "Unknown",
+        "difficulty_range": [
+          "Medium",
+          "Hard"
+        ],
+        "difficulty_basis": "reported_range",
+        "rationale": "Candidate gives a medium-to-hard rating, not a single label."
+      }
+    ],
+    "notes": "75-minute HackerRank assessment; questions varied by candidate. OA calendar year follows current campus season, not the internship start year."
+  },
+  {
+    "id": "R005",
+    "company": "Microsoft",
+    "oa_year": null,
+    "year_basis": "no_event_year_only_page_update",
+    "campus": "IIT Roorkee",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_body",
+    "role": "Campus placement",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/microsoft-on-campus-placement-and-interview-questions/",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Arithmetic; Integer Digits",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Simple arithmetic with digit-count and signed-integer edge cases."
+      },
+      {
+        "topic": "Dynamic Programming; Combinatorics",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "A two-state recurrence counts binary sequences under a local restriction."
+      },
+      {
+        "topic": "Linked Lists; Two Pointers; Reversal; Merging",
+        "difficulty": "Medium",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/reorder-list/",
+        "rationale": "The OA ordering matches the canonical linked-list rearrangement."
+      }
+    ],
+    "notes": "All three OA items reviewed. June 2024 last-updated date is not evidence of the OA year."
+  },
+  {
+    "id": "R006",
+    "company": "Amazon",
+    "oa_year": 2026,
+    "year_basis": "inferred_contemporary_narrative",
+    "campus": "IIT (unnamed)",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_body",
+    "role": "SDE I Intern",
+    "source_url": "https://www.reddit.com/r/LeetcodeDesi/comments/1vf9866/amazon_sde_i_internship_experience_oa_interviews/",
+    "source_type": "candidate_report",
+    "published_date": "2026-08-04",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Arrays; Greedy; Prefix Maximum",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Maintain the largest earlier value and accumulate necessary increments."
+      }
+    ],
+    "notes": "Author identifies an IIT campus route. Calendar year inferred from current-season account. AI repository debugging and behavioral sections are outside DSA scope."
+  },
+  {
+    "id": "R007",
+    "company": "Amazon",
+    "oa_year": 2023,
+    "year_basis": "explicit_title",
+    "campus": null,
+    "campus_group": null,
+    "campus_basis": "campus_name_not_disclosed",
+    "role": "SDE",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/amazon-interview-experience-for-sde-on-campus-2023/",
+    "source_type": "candidate_report",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "campus_uncertain",
+    "topics": [
+      {
+        "topic": "Arrays; Prefix Sum",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "A linear scan with total and running sums suffices."
+      }
+    ],
+    "notes": "Second OA item is not recalled. Interview-only stack/tree items excluded."
+  },
+  {
+    "id": "R008",
+    "company": "Goldman Sachs",
+    "oa_year": 2026,
+    "year_basis": "inferred_comment_date_current_drive",
+    "campus": "IIT Roorkee",
+    "campus_group": "IIT",
+    "campus_basis": "thread_context_not_confirmed_by_comment_author",
+    "role": "Engineering Summer Analyst Intern",
+    "source_url": "https://www.reddit.com/r/LeetcodeDesi/comments/1vdbk9i/gs_oa_questions/",
+    "source_type": "candidate_comment",
+    "published_date": "2026-08-02",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "campus_uncertain",
+    "topics": [
+      {
+        "topic": "Arithmetic; Modular Arithmetic",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "Comment identifies an easy arithmetic item."
+      },
+      {
+        "topic": "Arrays; Hashing; Time-Ordered Aggregation",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Comment identifies a medium item tracking increases and decreases per name."
+      }
+    ],
+    "notes": "Commenter may be discussing a different campus. Hard item is too poorly recalled to classify."
+  },
+  {
+    "id": "R009",
+    "company": "Goldman Sachs",
+    "oa_year": 2026,
+    "year_basis": "explicit_relative_day_and_publication",
+    "campus": null,
+    "campus_group": null,
+    "campus_basis": "campus_name_not_disclosed",
+    "role": "SDE Intern",
+    "source_url": "https://medium.com/@shivanginigupta573/goldman-sachs-sde-intern-oa-experience-on-campus-3d1a95421bff",
+    "source_type": "candidate_report",
+    "published_date": "2026-07-21",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "campus_uncertain",
+    "topics": [
+      {
+        "topic": "Intervals",
+        "difficulty": "Unknown",
+        "difficulty_range": [
+          "Easy",
+          "Medium"
+        ],
+        "difficulty_basis": "reported_oa_range",
+        "rationale": "Only an assessment-wide range is given."
+      },
+      {
+        "topic": "Hashing; Sorting",
+        "difficulty": "Unknown",
+        "difficulty_range": [
+          "Easy",
+          "Medium"
+        ],
+        "difficulty_basis": "reported_oa_range",
+        "rationale": "Only an assessment-wide range is given."
+      },
+      {
+        "topic": "Arrays; Stock-Sequence Processing",
+        "difficulty": "Unknown",
+        "difficulty_range": [
+          "Easy",
+          "Medium"
+        ],
+        "difficulty_basis": "reported_oa_range",
+        "rationale": "Only an assessment-wide range is given."
+      }
+    ],
+    "notes": "Campus route stated; institution absent. MCQ topics excluded."
+  },
+  {
+    "id": "R010",
+    "company": "Qualcomm",
+    "oa_year": 2023,
+    "year_basis": "explicit_oa_date",
+    "campus": "IIT Hyderabad",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_body",
+    "role": "Software Engineer",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/qualcomm-interview-experience-for-swe-on-campus-2023/",
+    "source_type": "candidate_report",
+    "access": "search_excerpt",
+    "assessment_kind": "mcq_only",
+    "scope": "supported",
+    "topics": [],
+    "notes": "November 17, 2023 HirePro OA: three MCQ sections. DSA interview tasks must not be counted as OA coding items."
+  },
+  {
+    "id": "R011",
+    "company": "Oracle",
+    "oa_year": 2024,
+    "year_basis": "explicit_oa_date",
+    "campus": "NIT (unnamed)",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_body",
+    "role": "Software Developer FTE",
+    "source_url": "https://leetcode.com/discuss/post/5695380/Oracle-or-SDE-or-On-Campus-or-Waitlist-or-Fresher/",
+    "source_type": "candidate_report",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "reported_oa_difficulty": [
+      "Hard"
+    ],
+    "notes": "August 17, 2024 OA has one hard DSA item and 35 MCQs; no OA topic disclosed. Graph topics belong to interviews."
+  },
+  {
+    "id": "R012",
+    "company": "Flipkart",
+    "oa_year": 2024,
+    "year_basis": "explicit_interview_date_same_process",
+    "campus": "IIT (ISM) Dhanbad",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_body",
+    "role": "SDE-1 FTE",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/flipkart-interview-experience-for-sde-1-on-campus-fte/",
+    "source_type": "candidate_report",
+    "access": "search_excerpt",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Grids; Backtracking",
+        "difficulty": "Hard",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate calls the maze-style coding-round item hard."
+      }
+    ],
+    "reported_oa_difficulty": [
+      "Medium",
+      "Hard"
+    ],
+    "notes": "December 1, 2024 interview timeline; OA date not separately supplied. Two medium items lack topics."
+  }
+]
