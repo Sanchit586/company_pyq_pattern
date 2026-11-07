@@ -86,7 +86,35 @@ def main():
         require(page.exists(), 'Missing company page: ' + company['name'])
         content = page.read_text(encoding='utf-8')
         require(all(f'## {year}\n' in content for year in YEARS), f'{page.name}: missing year section')
-    for page in [ROOT / 'README.md', ROOT / 'COVERAGE.md', *sorted((ROOT / 'companies').glob('*.md'))]:
+    matrix_path = ROOT / 'research/combination_search/summary.json'
+    if matrix_path.exists():
+        from record_combination_search import attempts, summary as matrix_summary
+        actual = matrix_summary()
+        saved = read_json(matrix_path)
+        for key in ('expected_combinations', 'searched_combinations', 'failed_combinations',
+                    'remaining_combinations', 'all_combination_searches_executed'):
+            require(saved[key] == actual[key], 'Stale matrix audit: ' + key)
+        require(saved['expected_combinations'] == 52 * 88 * 4, 'Incorrect matrix dimensions')
+        for batch in attempts():
+            require(len(batch['queries']) == 4 and {q['year'] for q in batch['queries']} == set(YEARS),
+                    'Matrix batch must contain exactly four calendar-year queries')
+            require(all(q['status'] in {'searched', 'failed'} and q['q'] for q in batch['queries']),
+                    'Missing actual query or invalid execution status')
+            require(all('"' + str(q['year']) + '"' in q['q'] for q in batch['queries']),
+                    'Year label does not match the recorded calendar-year query')
+            require(all(set(s) == {'title', 'url'} for s in batch.get('sources', [])),
+                    'Matrix ledger must retain source metadata only')
+        require(saved['paper_coverage_complete'] is False and saved['source_review_complete'] is False,
+                'Search execution must not imply complete OA collection or source review')
+        require(read_json(ROOT / 'data/summary.json')['executed_company_campus_year_queries'] ==
+                saved['searched_combinations'], 'Stale dataset matrix count')
+        cells = read_json(ROOT / 'research/combination_search/coverage.json')
+        require(len(cells) == 208 and sum(c['searched_campuses'] for c in cells) == saved['searched_combinations'],
+                'Matrix company/year cells do not reconcile to executed query total')
+        require(all(0 <= c['searched_campuses'] <= c['expected_campus_searches'] == 88 for c in cells),
+                'Matrix campus counts exceed the roster')
+    extra_pages = [ROOT / 'MATRIX_SEARCHES.md'] if matrix_path.exists() else []
+    for page in [ROOT / 'README.md', ROOT / 'COVERAGE.md', *extra_pages, *sorted((ROOT / 'companies').glob('*.md'))]:
         for target in re.findall(r'\]\(([^)]+)\)', page.read_text(encoding='utf-8')):
             if not target.startswith(('https://', '#')):
                 require((page.parent / target.split('#')[0]).exists(), f'{page.name}: broken local link {target}')

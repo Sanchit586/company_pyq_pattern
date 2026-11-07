@@ -147,6 +147,14 @@ def main():
         summary['campus_roster_size'] = campus_progress['roster_campuses']
         summary['executed_campus_year_discovery_queries'] = campus_progress['executed_campus_year_queries']
         summary['individual_company_campus_year_search_complete'] = False
+    matrix_summary = ROOT / 'research/combination_search/summary.json'
+    if matrix_summary.exists():
+        matrix = read_json(matrix_summary)
+        summary['expected_company_campus_year_queries'] = matrix['expected_combinations']
+        summary['executed_company_campus_year_queries'] = matrix['searched_combinations']
+        summary['failed_company_campus_year_queries'] = matrix['failed_combinations']
+        summary['individual_company_campus_year_search_complete'] = matrix['all_combination_searches_executed']
+        summary['matrix_source_review_complete'] = matrix['source_review_complete']
     write_json(ROOT / 'data/summary.json', summary)
     print(json.dumps(summary, indent=2))
 

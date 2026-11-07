@@ -1,0 +1,17 @@
+[
+  {
+    "id": "R124", "company": "Infosys", "oa_year": 2025,
+    "year_basis": "inferred_process_month_year", "campus": "NIT Allahabad", "campus_group": "NIT",
+    "campus_basis": "explicit_candidate_account_MNNIT", "role": "Specialist Programmer",
+    "source_url": "https://www.go2x.live/interview-experiences/infosys-specialist-programmer-3",
+    "source_type": "anonymous_candidate_account", "access": "public", "assessment_kind": "coding", "scope": "supported",
+    "reported_oa_difficulty": "Hard overall",
+    "topics": [
+      {"topic": "Matrices; Graphs; Connected-Component Labeling; Hashing", "difficulty": "Hard", "difficulty_basis": "estimated", "rationale": "The source describes component labeling and evaluating a candidate grid flip; combining component sizes across boundaries matches a Hard grid-connectivity pattern."},
+      {"topic": "Trees; DFS; Path Sums", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "The source describes DFS tracking downward path sums against a target, a standard Medium tree traversal pattern."},
+      {"topic": "Dynamic Programming; Bitmasking; Travelling Salesman", "difficulty": "Hard", "difficulty_basis": "estimated", "rationale": "The source explicitly gives subset-state endpoint DP, requiring exponential-state graph optimization."},
+      {"topic": "Strings; Sliding Window; Frequency Map", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "The source describes a longest-substring objective with a bound on distinct characters and a frequency-map window."}
+    ],
+    "notes": "Anonymous campus account identifies MNNIT Allahabad and a December 2025 hiring process. OA year is inferred from that process month, not an independently dated test. The initial 180-minute online coding round lists four tasks; later face-to-face tasks and generic preparation advice are excluded."
+  }
+]

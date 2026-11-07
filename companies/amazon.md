@@ -66,3 +66,25 @@ Candidate recalls OA data structures and a shuffled pool, without sufficient for
 | Topic | Difficulty | Basis |
 |---|---|---|
 | Arrays; Deques | Unknown | unknown |
+
+### [R107](https://www.geeksforgeeks.org/interview-experiences/amazon-interview-experience-for-sde-2-months-internshipon-campus/)
+
+Year: unconfirmed; campus: NIT Jamshedpur; status: `year_uncertain`; assessment: `coding`.
+
+October 3 OA and October 25 interview are stated without a year. A 2025 last-updated date is not OA-year evidence; this account may predate the requested window. Debugging and subsequent live graph tasks are excluded.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Strings; Dynamic Programming; Longest Common Subsequence | Medium | estimate |
+| Matrices; Grid Dynamic Programming; Maximin Path | Medium | estimate |
+
+### [R119](https://www.reddit.com/r/Btechtards/comments/1uelpi6/amazon_oa_interview_experience/)
+
+Year: unconfirmed; campus: IIT BHU Varanasi; status: `year_uncertain`; assessment: `coding`.
+
+June 2026 post shows a 2025-26 recruitment period but no explicit OA year. Author confirms IIT BHU on-campus process and gives August timing without year; retained separately. Live matrix-search and tree-symmetry tasks are excluded.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Arrays; Sliding Window; Hashing; Distinct-Element Counting | Hard | [official](https://leetcode.com/problems/subarrays-with-k-different-integers/) |
+| Dynamic Programming; Longest Increasing Subsequence; Bitonic Subsequence | Medium | estimate |

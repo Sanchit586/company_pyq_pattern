@@ -24,9 +24,13 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## 2025
 
-Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+Coverage: `topics_found`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+| Topic | Difficulty | Basis | Campus | Evidence |
+|---|---|---|---|---|
+| Graphs; Traversal; Data Structures; Implementation | Unknown | unknown | IIT Kharagpur | [R133](https://medium.com/@krishcharniya/the-12-hour-cdc-interview-journey-f7df3abd255c) |
+
+- [R133](https://medium.com/@krishcharniya/the-12-hour-cdc-interview-journey-f7df3abd255c), IIT Kharagpur. OA year inferred from mid-July season preceding January 2026 publication; role is SWE, not quant. Year evidence: `inferred_preceding_July_CDC_season`.
 
 ## 2026
 

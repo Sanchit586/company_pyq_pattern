@@ -26,9 +26,9 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## 2026
 
-Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+Coverage: `report_without_topics`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+- [R117](https://www.codinzhub.com/question/message-delivery-status-nvidia-online-assessment-mnnit-allahabad), NIT Allahabad. No specific OA topics disclosed. Public header explicitly states on-campus OA date October 17, 2026 and a one-DSA-task plus 30-MCQ format. The actual coding formulation is members-only; its short teaser and generic placeholder do not establish a topic. A platform Medium label is visible, but no topic-level observation is invented. Year evidence: `explicit_platform_OA_date`.
 
 ## Evidence outside the main dated coding tables
 

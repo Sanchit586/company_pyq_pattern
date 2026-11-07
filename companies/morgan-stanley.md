@@ -40,4 +40,12 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## Evidence outside the main dated coding tables
 
-None curated.
+### [R104](https://priyyaa.medium.com/morgan-stanley-online-assessment-and-interview-experience-2ba9b471bee2)
+
+Year: unconfirmed; campus: NIT Tiruchirappalli; status: `year_uncertain`; assessment: `coding`.
+
+Published October 2025 with no explicit OA calendar year. One aggregate observation represents a three-task pool. The linked LeetCode problems and levels belong to the subsequent live interview.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Arrays; Two Pointers; Graphs | Unknown | unknown |

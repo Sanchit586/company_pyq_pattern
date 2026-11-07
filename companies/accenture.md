@@ -14,9 +14,14 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## 2024
 
-Coverage: `source_lead_gap`. Completeness: **not established**.
+Coverage: `topics_found`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+| Topic | Difficulty | Basis | Campus | Evidence |
+|---|---|---|---|---|
+| Strings; String Manipulation | Easy | reported | NIT Jamshedpur | [R105](https://www.geeksforgeeks.org/interview-experiences/accenture-interview-experience-for-advance-application-engineer-analyst-full-time/) |
+| Monotonic Stack; Next Greater Element Pattern | Unknown | unknown | NIT Jamshedpur | [R105](https://www.geeksforgeeks.org/interview-experiences/accenture-interview-experience-for-advance-application-engineer-analyst-full-time/) |
+
+- [R105](https://www.geeksforgeeks.org/interview-experiences/accenture-interview-experience-for-advance-application-engineer-analyst-full-time/), NIT Jamshedpur. Overall source rating: Easy to Medium. Explicit campus visit in September 2024 and coding assessment on September 26. Two tasks in 45 minutes. MCQ pseudocode and interview queue implementation are excluded. Year evidence: `explicit_candidate_date`.
 
 Additional campus leads (metadata only; topics not inferred from titles):
 
@@ -33,6 +38,7 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 Coverage: `report_without_topics`. Completeness: **not established**.
 
 - [R015](https://www.reddit.com/r/accenture_india/comments/1xaotc1/accenture_oncampus_placement_experience_nit/), NIT Jalandhar. No specific OA topics disclosed. October 12 OA included one DSA slot, one SQL task, and one frontend task. DSA topic and difficulty absent. Year evidence: `explicit_day_month_and_post_date`.
+- [R123](https://www.codinzhub.com/question/dsa-question-accenture-online-assessment-iit-hyderabad), IIT Hyderabad. No specific OA topics disclosed. Public header explicitly states on-campus OA October 10, 2026 with one DSA, one SQL and one web task. DSA formulation is members-only; repeated generic array placeholder is not real topic evidence. SQL/web tasks are outside scope. Year evidence: `explicit_platform_OA_date`.
 
 ## Evidence outside the main dated coding tables
 

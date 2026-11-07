@@ -1,0 +1,33 @@
+[
+  {
+    "id": "R127",
+    "company": "JP Morgan",
+    "oa_year": 2026,
+    "year_basis": "inferred_contemporaneous_process_timeline",
+    "campus": "Unnamed NIT",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_institution_group_in_candidate_writeup",
+    "role": "Summer Intern / Code for Good",
+    "source_url": "https://interviewexperiences.in/experience/jp-morgan-chase/jpmc-on-campus-internship-experience-2028-batch",
+    "source_type": "anonymous_candidate_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Greedy; Bit Manipulation; Powers-of-Two Selection",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Available power-of-two capacities permit a descending greedy selection; the platform also labels the task Medium."
+      },
+      {
+        "topic": "Strings; Greedy; Adjacent-Pair Grouping",
+        "difficulty": "Medium",
+        "difficulty_basis": "official_leetcode",
+        "difficulty_reference": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/",
+        "rationale": "The stated binary-string partition objective matches the checked canonical reference, rated Medium."
+      }
+    ],
+    "notes": "Public anonymous writeup explicitly says on-campus NIT, without naming a campus. March 25–26 OA year inferred from the April 2026 posting and same-cycle timeline, not from the 2028 graduation label. The original LeetCode discussion was not located; the community report remains unverified recruitment testimony."
+  }
+]

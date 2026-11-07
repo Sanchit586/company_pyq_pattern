@@ -14,7 +14,7 @@ Coverage: `topics_found`. Completeness: **not established**.
 |---|---|---|---|---|
 | Matrices; Sliding Window; Monotonic Deque | Hard | estimate | IIT Roorkee | [R042](https://thejoboverflow.com/p/p2252/) |
 | Binary Search on Answer; Counting Multiples | Medium | estimate | IIT Roorkee | [R042](https://thejoboverflow.com/p/p2252/) |
-| Strings; Greedy; Interval Partitioning | Medium | [official](https://leetcode.com/problems/partition-labels/) | IIT Roorkee | [R042](https://thejoboverflow.com/p/p2252/) |
+| Strings; Greedy; Last-Occurrence Tracking | Medium | estimate | IIT Roorkee | [R042](https://thejoboverflow.com/p/p2252/) |
 | Greedy; Sorting; Ordered Multiset | Hard | estimate | IIIT Allahabad | [R048](https://thejoboverflow.com/p/p1482/) |
 | Geometry; Hashing; Slopes | Hard | [official](https://leetcode.com/problems/max-points-on-a-line/) | IIIT Allahabad | [R048](https://thejoboverflow.com/p/p1482/) |
 | Trees; DFS; Subtree Aggregation; Number Theory | Medium | estimate | IIIT Allahabad | [R048](https://thejoboverflow.com/p/p1482/) |
@@ -69,3 +69,14 @@ The 2025 last-updated stamp does not establish OA calendar year.
 | Greedy | Easy | reported |
 | Graphs; DFS | Medium | reported |
 | Digit Dynamic Programming | Hard | reported |
+
+### [R152](https://medium.com/nybles/sprinklr-internship-interview-experience-1a89b8df9505)
+
+Year: unconfirmed; campus: IIIT Allahabad; status: `year_uncertain`; assessment: `coding`.
+
+Student society account published June 2023 about an internship for the 2024 batch. Exact OA year is unstated and may be 2022, so no dated row is inferred. Third task has no usable topic; later interview tasks excluded.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Dynamic Programming; State Counting | Medium | reported |
+| Strings; Trie; Prefix Aggregation; Dynamic Updates | Medium | reported |

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "R153",
+    "company": "Salesforce",
+    "oa_year": null,
+    "year_basis": "OA_year_not_explicit",
+    "campus": "NIT Allahabad",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://cc-club.in/blog/2026/salesforce-interview-experience/",
+    "source_type": "campus_coding_club_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Greedy; Arrays; Two Pointers; Binary Search",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Club article supplies an aggregate topic pool and generally Medium OA, not a per-question level."
+      }
+    ],
+    "notes": "Official campus coding-club account names MNNIT and an author's summer 2025 internship but gives no OA date. One aggregate observation covers the topic pool, not four distinct questions.",
+    "reported_oa_difficulty": "Generally LeetCode Medium"
+  },
+  {
+    "id": "R154",
+    "company": "Meesho",
+    "oa_year": null,
+    "year_basis": "recruitment_label_not_calendar_OA_year",
+    "campus": "IIIT Delhi (thread context; respondent unconfirmed)",
+    "campus_group": "IIIT",
+    "campus_basis": "thread_context_only",
+    "role": "Campus coding assessment",
+    "source_url": "https://www.reddit.com/r/IIIT__Delhi/comments/1oai1uq",
+    "source_type": "public_community_report",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "campus_uncertain",
+    "topics": [
+      {
+        "topic": "Dynamic Programming; Knapsack; Three-Dimensional State",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Public reply recalls only a multidimensional knapsack variation, without constraints or level."
+      }
+    ],
+    "notes": "October 2025 discussion asks about a 2026 recruitment label; deleted respondent says the assessment was long ago and gives no date or campus confirmation. Retained outside main tables. SQL and ML MCQs excluded.",
+    "year_candidates": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "id": "R155",
+    "company": "Squarepoint Capital",
+    "oa_year": 2024,
+    "year_basis": "inferred_from_dated_subsequent_interview",
+    "campus": "IIT BHU Varanasi",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://www.oahelper.in/interview-experience/MTk3Mw",
+    "source_type": "community_interview_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Arrays; Two Pointers",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Stage 1 explicitly calls both tasks Medium and identifies a two-pointer approach."
+      },
+      {
+        "topic": "Intervals; Overlap Removal; Price Tracking",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "The separate stock-price maintenance task and overall pair level are explicit."
+      }
+    ],
+    "notes": "OA year inferred from the subsequent 22 October 2024 interview in the same placement process; exact OA date is explicitly unspecified. November 2025 posting is not OA date. Priority-queue and digit-DP tasks belong to live Round 2 and are excluded."
+  }
+]

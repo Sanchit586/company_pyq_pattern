@@ -1,0 +1,29 @@
+[
+  {
+    "id": "R097",
+    "company": "Google",
+    "oa_year": null,
+    "year_candidates": [
+      2023
+    ],
+    "year_basis": "summer_2024_internship_oa_year_not_explicit",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_student_body_and_cdc_route",
+    "role": "SWE Intern",
+    "source_url": "https://medium.com/@swgiitkgp/foresight-2024-internship-at-google-rishi-raj-36695b91ef40",
+    "source_type": "campus_student_body_candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Dynamic Programming; Graphs; Trees",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Pool-level topics only; Codeforces ranges are not converted to LeetCode levels."
+      }
+    ],
+    "notes": "Two initial OA tasks in 60 minutes sampled from a pool. Published June 2024 during internship; actual OA year absent. Later 45-minute rounds are described inconsistently and are not used for the initial OA rating."
+  }
+]

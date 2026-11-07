@@ -142,5 +142,23 @@
     "difficulty": "Medium",
     "verified_at": "2026-11-06",
     "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-07",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+    "difficulty": "Hard",
+    "verified_at": "2026-11-07",
+    "verification": "official_problem_page"
+  },
+  {
+    "url": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/",
+    "difficulty": "Medium",
+    "verified_at": "2026-11-07",
+    "verification": "official_problem_page"
   }
 ]

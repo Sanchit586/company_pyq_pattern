@@ -1,0 +1,24 @@
+[
+  {
+    "id": "R106",
+    "company": "Flipkart",
+    "oa_year": 2023,
+    "year_basis": "explicit_source_header_and_post_date",
+    "campus": "IIIT Bhopal",
+    "campus_group": "IIIT",
+    "campus_basis": "explicit_source_header",
+    "role": "6 Months Intern + FTE",
+    "source_url": "https://thejoboverflow.com/p/p1708/",
+    "supporting_urls": ["https://drive.google.com/file/d/1tIrq9F3U7YHMDBxS1i9SPTCNXQcDexju/view"],
+    "source_type": "community_oa_report",
+    "access": "public_attachment",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {"topic": "Strings; Fixed-Size Sliding Window; Character Counting", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "The attachment describes a fixed-window vowel-count maximum, with case-insensitive input. The equivalent lowercase LeetCode pattern is Medium."},
+      {"topic": "Arrays; Sorting; Missing Ranges", "difficulty": "Easy", "difficulty_basis": "estimated", "rationale": "Sorting the values and scanning gaps within two bounds suffices; no advanced data structure is required."},
+      {"topic": "Graphs; Dijkstra; Shortest Path with State", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "An at-most-once edge-category constraint is handled using a two-state shortest-path graph, or forward and backward shortest distances."}
+    ],
+    "notes": "August 16, 2023 report. All 12 pages of the public image-only attachment were read with transient in-memory OCR. Repeated screenshots represent three tasks, not twelve. Question statements and screenshots are not retained."
+  }
+]

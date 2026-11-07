@@ -4,7 +4,7 @@ Topics and difficulty only, for the 52 requested companies and calendar years **
 
 **This is a partial, source-backed public dataset. It is not an exhaustive collection of every campus OA.** Public evidence does not support filling every company/year cell, and 2026 is still in progress. Empty cells must not be interpreted as absence of an OA.
 
-The initial pass was insufficient for the requested campus-by-campus scope. The [campus search audit](CAMPUS_SEARCHES.md) now distinguishes executed discovery searches from actual source review. The full company/campus/year matrix remains unfinished.
+The initial pass was insufficient for the requested campus-by-campus scope. The [company × campus × year audit](MATRIX_SEARCHES.md) records completed searches for all **18,304 combinations**, with saved actual queries and returned source metadata. Its execution counts are separate from the evidence coverage in the topic tables. The earlier [campus discovery audit](CAMPUS_SEARCHES.md) covers a broader 352-query sweep.
 
 Start with the **[52-company coverage table](COVERAGE.md)**. Each company links to four year sections, topic/difficulty tables, source links, and evidence limitations.
 
@@ -14,6 +14,7 @@ Start with the **[52-company coverage table](COVERAGE.md)**. Each company links 
 |---|---|
 | [COVERAGE.md](COVERAGE.md) | Browse all 208 company/year cells |
 | [CAMPUS_SEARCHES.md](CAMPUS_SEARCHES.md) | Inspect the 88-campus search roster and the limits of the discovery sweep |
+| [MATRIX_SEARCHES.md](MATRIX_SEARCHES.md) | Actual execution counts for the 18,304 company/campus/year searches |
 | [data/topics.json](data/topics.json) | Qualifying dated campus OA topic observations |
 | [data/unverified_topics.json](data/unverified_topics.json) | Useful topics with unresolved year, campus, or drive scope |
 | [data/reports](data/reports) | Curated source records, including reports that disclose no specific OA topics |
@@ -39,8 +40,9 @@ The `difficulty` field is always Easy, Medium, Hard, or Unknown. An unresolved r
 Python 3.10+ is sufficient for the offline build and checks:
 
 ```sh
-python scripts/build_dataset.py
+python scripts/build_matrix_search_audit.py
 python scripts/build_campus_search_log.py
+python scripts/build_dataset.py
 python scripts/validate_dataset.py
 ```
 

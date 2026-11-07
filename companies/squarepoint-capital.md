@@ -14,9 +14,14 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## 2024
 
-Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+Coverage: `topics_found`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+| Topic | Difficulty | Basis | Campus | Evidence |
+|---|---|---|---|---|
+| Arrays; Two Pointers | Medium | reported | IIT BHU Varanasi | [R155](https://www.oahelper.in/interview-experience/MTk3Mw) |
+| Intervals; Overlap Removal; Price Tracking | Medium | reported | IIT BHU Varanasi | [R155](https://www.oahelper.in/interview-experience/MTk3Mw) |
+
+- [R155](https://www.oahelper.in/interview-experience/MTk3Mw), IIT BHU Varanasi. OA year inferred from the subsequent 22 October 2024 interview in the same placement process; exact OA date is explicitly unspecified. November 2025 posting is not OA date. Priority-queue and digit-DP tasks belong to live Round 2 and are excluded. Year evidence: `inferred_from_dated_subsequent_interview`.
 
 ## 2025
 

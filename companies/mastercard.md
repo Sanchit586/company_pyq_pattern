@@ -26,9 +26,13 @@ Coverage: `report_without_topics`. Completeness: **not established**.
 
 ## 2026
 
-Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+Coverage: `topics_found`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+| Topic | Difficulty | Basis | Campus | Evidence |
+|---|---|---|---|---|
+| Strings; Edit Distance | Medium | reported | IIT Kharagpur | [R151](https://www.codinzhub.com/question/levenshtein-distance-mastercard-online-assessment-iit-kharagpur) |
+
+- [R151](https://www.codinzhub.com/question/levenshtein-distance-mastercard-online-assessment-iit-kharagpur), IIT Kharagpur. Public page explicitly gives on-campus OA 24 October 2026, two coding tasks. Only one named topic is usable. Generic repeated array preview ignored; full formulation remains unavailable. Year evidence: `explicit_OA_date_in_public_page`.
 
 ## Evidence outside the main dated coding tables
 

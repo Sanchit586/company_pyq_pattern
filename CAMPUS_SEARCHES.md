@@ -4,7 +4,7 @@ The first research pass did not search every campus separately. This audit was a
 
 **Q means an exact campus/alias + calendar year + online-assessment phrase was searched. It does not mean the campus paper pool or all 52 companies were reviewed.**
 
-The roster has 88 campuses and 352 campus/year discovery searches. A full company/campus/year matrix has 18,304 combinations; that individual search matrix is **not completed**.
+The roster has 88 campuses and 352 campus/year discovery searches. A full company/campus/year matrix has 18,304 combinations. Its actual execution is recorded separately in the [company/campus/year audit](MATRIX_SEARCHES.md).
 
 Sources returned by discovery can be unrelated, old, off-campus, or descriptions of later interviews. Only reviewed and qualifying reports contribute to the topic dataset.
 

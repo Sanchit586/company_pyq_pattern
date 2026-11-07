@@ -1,0 +1,1458 @@
+[
+  {
+    "company": "Google",
+    "company_slug": "google",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Google",
+    "company_slug": "google",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Google",
+    "company_slug": "google",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Google",
+    "company_slug": "google",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Microsoft",
+    "company_slug": "microsoft",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Microsoft",
+    "company_slug": "microsoft",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Microsoft",
+    "company_slug": "microsoft",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Microsoft",
+    "company_slug": "microsoft",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Amazon",
+    "company_slug": "amazon",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Amazon",
+    "company_slug": "amazon",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Amazon",
+    "company_slug": "amazon",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Amazon",
+    "company_slug": "amazon",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Goldman Sachs",
+    "company_slug": "goldman-sachs",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Goldman Sachs",
+    "company_slug": "goldman-sachs",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Goldman Sachs",
+    "company_slug": "goldman-sachs",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Goldman Sachs",
+    "company_slug": "goldman-sachs",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Qualcomm",
+    "company_slug": "qualcomm",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Qualcomm",
+    "company_slug": "qualcomm",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Qualcomm",
+    "company_slug": "qualcomm",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Qualcomm",
+    "company_slug": "qualcomm",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Flipkart",
+    "company_slug": "flipkart",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Flipkart",
+    "company_slug": "flipkart",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Flipkart",
+    "company_slug": "flipkart",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Flipkart",
+    "company_slug": "flipkart",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Adobe",
+    "company_slug": "adobe",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Adobe",
+    "company_slug": "adobe",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Adobe",
+    "company_slug": "adobe",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Adobe",
+    "company_slug": "adobe",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Oracle",
+    "company_slug": "oracle",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Oracle",
+    "company_slug": "oracle",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Oracle",
+    "company_slug": "oracle",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Oracle",
+    "company_slug": "oracle",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Nvidia",
+    "company_slug": "nvidia",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Nvidia",
+    "company_slug": "nvidia",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Nvidia",
+    "company_slug": "nvidia",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Nvidia",
+    "company_slug": "nvidia",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Accenture",
+    "company_slug": "accenture",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Accenture",
+    "company_slug": "accenture",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Accenture",
+    "company_slug": "accenture",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Accenture",
+    "company_slug": "accenture",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Uber",
+    "company_slug": "uber",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Uber",
+    "company_slug": "uber",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Uber",
+    "company_slug": "uber",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Uber",
+    "company_slug": "uber",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Apple",
+    "company_slug": "apple",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Apple",
+    "company_slug": "apple",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Apple",
+    "company_slug": "apple",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Apple",
+    "company_slug": "apple",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "DE Shaw",
+    "company_slug": "de-shaw",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "DE Shaw",
+    "company_slug": "de-shaw",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "DE Shaw",
+    "company_slug": "de-shaw",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "DE Shaw",
+    "company_slug": "de-shaw",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Infosys",
+    "company_slug": "infosys",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Infosys",
+    "company_slug": "infosys",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Infosys",
+    "company_slug": "infosys",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Infosys",
+    "company_slug": "infosys",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "TCS",
+    "company_slug": "tcs",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "TCS",
+    "company_slug": "tcs",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "TCS",
+    "company_slug": "tcs",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "TCS",
+    "company_slug": "tcs",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "IBM",
+    "company_slug": "ibm",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "IBM",
+    "company_slug": "ibm",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "IBM",
+    "company_slug": "ibm",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "IBM",
+    "company_slug": "ibm",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Wipro",
+    "company_slug": "wipro",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Wipro",
+    "company_slug": "wipro",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Wipro",
+    "company_slug": "wipro",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Wipro",
+    "company_slug": "wipro",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Cisco",
+    "company_slug": "cisco",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Cisco",
+    "company_slug": "cisco",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Cisco",
+    "company_slug": "cisco",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Cisco",
+    "company_slug": "cisco",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Morgan Stanley",
+    "company_slug": "morgan-stanley",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Morgan Stanley",
+    "company_slug": "morgan-stanley",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Morgan Stanley",
+    "company_slug": "morgan-stanley",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Morgan Stanley",
+    "company_slug": "morgan-stanley",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "American Express",
+    "company_slug": "american-express",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "American Express",
+    "company_slug": "american-express",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "American Express",
+    "company_slug": "american-express",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "American Express",
+    "company_slug": "american-express",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Wells Fargo",
+    "company_slug": "wells-fargo",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Wells Fargo",
+    "company_slug": "wells-fargo",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Wells Fargo",
+    "company_slug": "wells-fargo",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Wells Fargo",
+    "company_slug": "wells-fargo",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Walmart",
+    "company_slug": "walmart",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Walmart",
+    "company_slug": "walmart",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Walmart",
+    "company_slug": "walmart",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Walmart",
+    "company_slug": "walmart",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Samsung (R&D)",
+    "company_slug": "samsung",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Samsung (R&D)",
+    "company_slug": "samsung",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Samsung (R&D)",
+    "company_slug": "samsung",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Samsung (R&D)",
+    "company_slug": "samsung",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Intel",
+    "company_slug": "intel",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Intel",
+    "company_slug": "intel",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Intel",
+    "company_slug": "intel",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Intel",
+    "company_slug": "intel",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Cognizant",
+    "company_slug": "cognizant",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Cognizant",
+    "company_slug": "cognizant",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Cognizant",
+    "company_slug": "cognizant",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Cognizant",
+    "company_slug": "cognizant",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "JP Morgan",
+    "company_slug": "jp-morgan",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "JP Morgan",
+    "company_slug": "jp-morgan",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "JP Morgan",
+    "company_slug": "jp-morgan",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "JP Morgan",
+    "company_slug": "jp-morgan",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Barclays",
+    "company_slug": "barclays",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Barclays",
+    "company_slug": "barclays",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Barclays",
+    "company_slug": "barclays",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Barclays",
+    "company_slug": "barclays",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "HCL Technologies",
+    "company_slug": "hcl-technologies",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "HCL Technologies",
+    "company_slug": "hcl-technologies",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "HCL Technologies",
+    "company_slug": "hcl-technologies",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "HCL Technologies",
+    "company_slug": "hcl-technologies",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Databricks",
+    "company_slug": "databricks",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Databricks",
+    "company_slug": "databricks",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Databricks",
+    "company_slug": "databricks",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Databricks",
+    "company_slug": "databricks",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Meta (Facebook)",
+    "company_slug": "meta",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Meta (Facebook)",
+    "company_slug": "meta",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Meta (Facebook)",
+    "company_slug": "meta",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Meta (Facebook)",
+    "company_slug": "meta",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Jane Street",
+    "company_slug": "jane-street",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Jane Street",
+    "company_slug": "jane-street",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Jane Street",
+    "company_slug": "jane-street",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Jane Street",
+    "company_slug": "jane-street",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Graviton Research Capital",
+    "company_slug": "graviton-research-capital",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Graviton Research Capital",
+    "company_slug": "graviton-research-capital",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Graviton Research Capital",
+    "company_slug": "graviton-research-capital",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Graviton Research Capital",
+    "company_slug": "graviton-research-capital",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Squarepoint Capital",
+    "company_slug": "squarepoint-capital",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Squarepoint Capital",
+    "company_slug": "squarepoint-capital",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Squarepoint Capital",
+    "company_slug": "squarepoint-capital",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Squarepoint Capital",
+    "company_slug": "squarepoint-capital",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "IMC Trading",
+    "company_slug": "imc-trading",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "IMC Trading",
+    "company_slug": "imc-trading",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "IMC Trading",
+    "company_slug": "imc-trading",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "IMC Trading",
+    "company_slug": "imc-trading",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Salesforce",
+    "company_slug": "salesforce",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Salesforce",
+    "company_slug": "salesforce",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Salesforce",
+    "company_slug": "salesforce",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Salesforce",
+    "company_slug": "salesforce",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Dell",
+    "company_slug": "dell",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Dell",
+    "company_slug": "dell",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Dell",
+    "company_slug": "dell",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Dell",
+    "company_slug": "dell",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Tech Mahindra",
+    "company_slug": "tech-mahindra",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Tech Mahindra",
+    "company_slug": "tech-mahindra",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Tech Mahindra",
+    "company_slug": "tech-mahindra",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Tech Mahindra",
+    "company_slug": "tech-mahindra",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Sprinklr",
+    "company_slug": "sprinklr",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Sprinklr",
+    "company_slug": "sprinklr",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Sprinklr",
+    "company_slug": "sprinklr",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Sprinklr",
+    "company_slug": "sprinklr",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Arista Networks",
+    "company_slug": "arista-networks",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Arista Networks",
+    "company_slug": "arista-networks",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Arista Networks",
+    "company_slug": "arista-networks",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Arista Networks",
+    "company_slug": "arista-networks",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Arcesium",
+    "company_slug": "arcesium",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Arcesium",
+    "company_slug": "arcesium",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Arcesium",
+    "company_slug": "arcesium",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Arcesium",
+    "company_slug": "arcesium",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Mastercard",
+    "company_slug": "mastercard",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Mastercard",
+    "company_slug": "mastercard",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Mastercard",
+    "company_slug": "mastercard",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Mastercard",
+    "company_slug": "mastercard",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "BlackRock",
+    "company_slug": "blackrock",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "BlackRock",
+    "company_slug": "blackrock",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "BlackRock",
+    "company_slug": "blackrock",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "BlackRock",
+    "company_slug": "blackrock",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Capital One",
+    "company_slug": "capital-one",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Capital One",
+    "company_slug": "capital-one",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Capital One",
+    "company_slug": "capital-one",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Capital One",
+    "company_slug": "capital-one",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Meesho",
+    "company_slug": "meesho",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Meesho",
+    "company_slug": "meesho",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Meesho",
+    "company_slug": "meesho",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Meesho",
+    "company_slug": "meesho",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Eternal (Zomato)",
+    "company_slug": "eternal",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Eternal (Zomato)",
+    "company_slug": "eternal",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Eternal (Zomato)",
+    "company_slug": "eternal",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Eternal (Zomato)",
+    "company_slug": "eternal",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Optiver",
+    "company_slug": "optiver",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Optiver",
+    "company_slug": "optiver",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Optiver",
+    "company_slug": "optiver",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Optiver",
+    "company_slug": "optiver",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Tower Research",
+    "company_slug": "tower-research",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Tower Research",
+    "company_slug": "tower-research",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Tower Research",
+    "company_slug": "tower-research",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Tower Research",
+    "company_slug": "tower-research",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Bank of America",
+    "company_slug": "bank-of-america",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Bank of America",
+    "company_slug": "bank-of-america",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Bank of America",
+    "company_slug": "bank-of-america",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Bank of America",
+    "company_slug": "bank-of-america",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Citi",
+    "company_slug": "citi",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Citi",
+    "company_slug": "citi",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Citi",
+    "company_slug": "citi",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "Citi",
+    "company_slug": "citi",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "LTIMindtree",
+    "company_slug": "ltimindtree",
+    "year": 2023,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "LTIMindtree",
+    "company_slug": "ltimindtree",
+    "year": 2024,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "LTIMindtree",
+    "company_slug": "ltimindtree",
+    "year": 2025,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  },
+  {
+    "company": "LTIMindtree",
+    "company_slug": "ltimindtree",
+    "year": 2026,
+    "expected_campus_searches": 88,
+    "searched_campuses": 88
+  }
+]

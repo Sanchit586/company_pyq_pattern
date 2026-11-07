@@ -12,18 +12,27 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--id', required=True)
+    origin = parser.add_mutually_exclusive_group(required=True)
+    origin.add_argument('--id')
+    origin.add_argument('--drive-id', help='Ordinary public Google Drive PDF attachment identifier')
     parser.add_argument('--pages', help='Comma-separated one-based PDF page numbers')
     parser.add_argument('--index', action='store_true')
     parser.add_argument('--compact', action='store_true', help='Print requested-company OA leads only')
     parser.add_argument('--memory', action='store_true', help='Read a public download in memory without source files')
     args = parser.parse_args()
     sources = json.loads((ROOT / 'research/handbooks.json').read_text(encoding='utf-8'))
-    source = next(s for s in sources if s['id'] == args.id)
+    if args.drive_id:
+        if not re.fullmatch(r'[A-Za-z0-9_-]+', args.drive_id):
+            raise ValueError('Invalid public Drive identifier')
+        source = {'drive_id': args.drive_id,
+                  'source_url': 'https://drive.google.com/file/d/' + args.drive_id + '/view'}
+        args.memory = True
+    else:
+        source = next(s for s in sources if s['id'] == args.id)
     folder = ROOT / 'tmp/handbooks'
     if not args.memory:
         folder.mkdir(parents=True, exist_ok=True)
-    path = folder / (args.id + '.pdf')
+    path = folder / ((args.id or args.drive_id) + '.pdf')
     if args.memory or not path.exists():
         req = urllib.request.Request('https://drive.google.com/uc?export=download&id=' + source['drive_id'],
                                      headers={'User-Agent': 'Mozilla/5.0 (public source review)'})

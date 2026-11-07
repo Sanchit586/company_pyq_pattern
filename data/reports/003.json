@@ -479,11 +479,10 @@
         "rationale": "Count generated multiples below a candidate value."
       },
       {
-        "topic": "Strings; Greedy; Interval Partitioning",
+        "topic": "Strings; Greedy; Last-Occurrence Tracking",
         "difficulty": "Medium",
-        "difficulty_basis": "official_leetcode",
-        "rationale": "Source explicitly points to a canonical greedy partition problem. Equivalent canonical objective; official level verified.",
-        "difficulty_reference": "https://leetcode.com/problems/partition-labels/"
+        "difficulty_basis": "estimated",
+        "rationale": "Source identifies a task similar to the canonical partition-label greedy pattern, without a complete variant statement."
       }
     ],
     "notes": "October 13, 2023 report. Three OA topics; exact constraints are incomplete for the matrix task."

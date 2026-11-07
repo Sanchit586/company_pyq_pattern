@@ -40,4 +40,8 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## Evidence outside the main dated coding tables
 
-None curated.
+### [R115](https://www.oahelper.in/company-questions/ibmiiitd)
+
+Year: unconfirmed; campus: IIIT Delhi; status: `year_uncertain`; assessment: `coding`.
+
+Platform lists October 27, 2026 and two premium coding tasks. Date semantics are unconfirmed; no task topics or levels are inferred from titles.

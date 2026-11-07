@@ -1,0 +1,12 @@
+[
+  {
+    "id": "R117", "company": "Nvidia", "oa_year": 2026,
+    "year_basis": "explicit_platform_OA_date", "campus": "NIT Allahabad", "campus_group": "NIT",
+    "campus_basis": "explicit_community_platform_header_MNNIT", "role": "6 Months Intern",
+    "source_url": "https://www.codinzhub.com/question/message-delivery-status-nvidia-online-assessment-mnnit-allahabad",
+    "supporting_urls": ["https://codinzhub.com/question/mcqs-nvidia-online-assessment-mnnit-allahabad-2026-6m-intern"],
+    "source_type": "community_oa_report", "access": "public_excerpt", "assessment_kind": "coding", "scope": "supported",
+    "topics": [],
+    "notes": "Public header explicitly states on-campus OA date October 17, 2026 and a one-DSA-task plus 30-MCQ format. The actual coding formulation is members-only; its short teaser and generic placeholder do not establish a topic. A platform Medium label is visible, but no topic-level observation is invented."
+  }
+]

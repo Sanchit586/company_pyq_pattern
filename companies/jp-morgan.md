@@ -31,9 +31,14 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## 2026
 
-Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+Coverage: `topics_found`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+| Topic | Difficulty | Basis | Campus | Evidence |
+|---|---|---|---|---|
+| Greedy; Bit Manipulation; Powers-of-Two Selection | Medium | estimate | Unnamed NIT | [R127](https://interviewexperiences.in/experience/jp-morgan-chase/jpmc-on-campus-internship-experience-2028-batch) |
+| Strings; Greedy; Adjacent-Pair Grouping | Medium | [official](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Unnamed NIT | [R127](https://interviewexperiences.in/experience/jp-morgan-chase/jpmc-on-campus-internship-experience-2028-batch) |
+
+- [R127](https://interviewexperiences.in/experience/jp-morgan-chase/jpmc-on-campus-internship-experience-2028-batch), Unnamed NIT. Public anonymous writeup explicitly says on-campus NIT, without naming a campus. March 25–26 OA year inferred from the April 2026 posting and same-cycle timeline, not from the 2028 graduation label. The original LeetCode discussion was not located; the community report remains unverified recruitment testimony. Year evidence: `inferred_contemporaneous_process_timeline`.
 
 ## Evidence outside the main dated coding tables
 

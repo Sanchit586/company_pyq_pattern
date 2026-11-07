@@ -4,7 +4,7 @@
   "executed_campus_year_queries": 352,
   "unique_result_urls": 1923,
   "company_campus_year_combinations": 18304,
-  "individual_company_campus_year_search_complete": false,
+  "individual_company_campus_year_search_complete": true,
   "paper_coverage_complete": false,
   "note": "Search execution is not source review or exhaustive question coverage."
 }

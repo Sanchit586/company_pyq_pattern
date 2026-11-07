@@ -1,0 +1,15 @@
+[
+  {
+    "id": "R121", "company": "Infosys", "oa_year": 2025,
+    "year_basis": "explicit_candidate_date", "campus": "IIIT Ranchi", "campus_group": "IIIT",
+    "campus_basis": "explicit_candidate_profile", "role": "Specialist Programmer / HackWithInfy",
+    "source_url": "https://www.lets-code.co.in/interview-experience/infosys-specialist-programmer/68d3e42b712aff2566aecdc1/",
+    "source_type": "candidate_account", "access": "public", "assessment_kind": "coding", "scope": "drive_uncertain",
+    "topics": [
+      {"topic": "Dynamic Programming", "difficulty": "Hard", "difficulty_basis": "reported", "rationale": "Candidate identifies the first of two DP OA tasks and explicitly calls all three OA tasks Hard."},
+      {"topic": "Dynamic Programming", "difficulty": "Hard", "difficulty_basis": "reported", "rationale": "Candidate identifies a separate second DP OA task; no objective supplied for a more specific topic."},
+      {"topic": "Strings; String Manipulation", "difficulty": "Hard", "difficulty_basis": "reported", "rationale": "Candidate identifies the third OA task as string manipulation and explicitly labels all three tasks Hard."}
+    ],
+    "notes": "Explicit July 12, 2025 online competition and IIIT Ranchi student affiliation. Recruitment through that campus is not established for the open HackWithInfy route, so held separately. Later MAKAUT interview venue is not used as candidate campus."
+  }
+]

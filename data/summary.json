@@ -8,22 +8,26 @@
   ],
   "companies": 52,
   "company_year_cells": 208,
-  "curated_reports": 96,
-  "qualifying_coding_reports": 70,
-  "qualifying_topic_observations": 111,
-  "unverified_topic_observations": 38,
-  "companies_with_qualifying_topics": 21,
+  "curated_reports": 145,
+  "qualifying_coding_reports": 95,
+  "qualifying_topic_observations": 145,
+  "unverified_topic_observations": 76,
+  "companies_with_qualifying_topics": 26,
   "recorded_company_search_queries": 416,
   "unique_recorded_company_search_queries": 416,
   "archive_access_audits": 481,
   "coverage_status_counts": {
-    "topics_found": 29,
-    "report_without_topics": 16,
-    "no_qualifying_public_evidence_found": 160,
-    "source_lead_gap": 3
+    "topics_found": 38,
+    "report_without_topics": 20,
+    "no_qualifying_public_evidence_found": 148,
+    "source_lead_gap": 2
   },
   "complete": false,
   "campus_roster_size": 88,
   "executed_campus_year_discovery_queries": 352,
-  "individual_company_campus_year_search_complete": false
+  "individual_company_campus_year_search_complete": true,
+  "expected_company_campus_year_queries": 18304,
+  "executed_company_campus_year_queries": 18304,
+  "failed_company_campus_year_queries": 0,
+  "matrix_source_review_complete": false
 }

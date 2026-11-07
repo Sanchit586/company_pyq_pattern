@@ -37,3 +37,13 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 Year: 2025; campus: NIT Surat (candidate affiliation); status: `open_competition`; assessment: `coding`.
 
 June 24, 2025 nationwide competition; a target-institute student is identified, but this does not establish an on-campus drive.
+
+### [R116](https://medium.com/@princetripathi093/cisco-interview-experience-6-month-fte-a63a2f6f5959)
+
+Year: unconfirmed; campus: NIT Raipur; status: `year_uncertain`; assessment: `coding`.
+
+Published November 2024, without explicit OA year. One aggregate topic observation represents two tasks; no order-based level mapping is assumed. Later file-handling and tree discussions are live interviews.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Binary Search; Graphs | Unknown | unknown |

@@ -42,4 +42,57 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## Evidence outside the main dated coding tables
 
-None curated.
+### [R137](https://medium.com/@hardiksachdeva52/salesforce-interview-experience-amts-fresher-on-campus-bbff0f2721de)
+
+Year: unconfirmed; campus: NIT Hamirpur; status: `year_uncertain`; assessment: `coding`.
+
+Author profile confirms NIT Hamirpur and title says on-campus. January 2026 publication does not establish OA calendar year. OA range Medium-Hard does not assign an individual level.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Bit Manipulation; Greedy | Medium | estimate |
+| Arrays; Simulation; Cycle Detection; Hashing | Medium | estimate |
+| Trees; Graphs | Unknown | unknown |
+
+### [R138](https://www.geeksforgeeks.org/interview-experiences/salesforce-interview-experience-for-sde-internship-on-campus/)
+
+Year: unconfirmed; campus: IIT Dhanbad; status: `year_uncertain`; assessment: `coding`.
+
+IIT (ISM) Dhanbad and September timing explicit; only page-update year available, so OA year remains unknown. Later interactive interview problems excluded.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Strings; Periodicity; Prefix Function | Easy | reported |
+| Graphs; Depth-First Search; Path Enumeration; Sorting; Parsing | Unknown | unknown |
+| Strings; Simulation; Text Formatting | Easy | reported |
+
+### [R139](https://www.geeksforgeeks.org/interview-experiences/salesforce-interview-experience-on-campus-for-fte-2/)
+
+Year: unconfirmed; campus: BITS Pilani; status: `year_uncertain`; assessment: `coding`.
+
+Explicit campus online round; updated July 2025 is not OA date. MCQ Easy-Medium description is not applied to coding tasks. Levels are estimates from the cited analogues.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Arrays; Sorting; Two Pointers; Triplet Counting | Medium | estimate |
+| Backtracking; Dynamic Programming; Bitmasking; Equal-Sum Partitioning | Medium | estimate |
+
+### [R144](https://www.codinzhub.com/question/maximizing-salesforce-opportunities-iit-roorkee-salesforce-online-assessment)
+
+Year: unconfirmed; campus: IIT Roorkee; status: `year_uncertain`; assessment: `coding`.
+
+Campus OA attribution appears in source title, but OA year is absent. Public formulation supports grouped budget DP; update date belongs to unrelated recommendations.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Dynamic Programming; Grouped Knapsack; Prefix and Suffix Sums | Hard | estimate |
+
+### [R153](https://cc-club.in/blog/2026/salesforce-interview-experience/)
+
+Year: unconfirmed; campus: NIT Allahabad; status: `year_uncertain`; assessment: `coding`.
+
+Official campus coding-club account names MNNIT and an author's summer 2025 internship but gives no OA date. One aggregate observation covers the topic pool, not four distinct questions.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Greedy; Arrays; Two Pointers; Binary Search | Unknown | unknown |

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "R105",
+    "company": "Accenture",
+    "oa_year": 2024,
+    "year_basis": "explicit_candidate_date",
+    "campus": "NIT Jamshedpur",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_candidate_account",
+    "role": "Advanced Application Engineer Analyst",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/accenture-interview-experience-for-advance-application-engineer-analyst-full-time/",
+    "source_type": "candidate_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {"topic": "Strings; String Manipulation", "difficulty": "Easy", "difficulty_basis": "reported", "rationale": "Candidate explicitly describes the first coding task as easy string manipulation; no official LeetCode identity is supplied."},
+      {"topic": "Monotonic Stack; Next Greater Element Pattern", "difficulty": "Unknown", "difficulty_basis": "unknown", "rationale": "Candidate identifies a next-greater-element-like stack task but does not state the exact variant or individual level."}
+    ],
+    "reported_oa_difficulty": "Easy to Medium",
+    "notes": "Explicit campus visit in September 2024 and coding assessment on September 26. Two tasks in 45 minutes. MCQ pseudocode and interview queue implementation are excluded."
+  }
+]

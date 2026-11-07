@@ -1,0 +1,11 @@
+[
+  {
+    "id": "R109", "company": "Qualcomm", "oa_year": 2026,
+    "year_basis": "explicit_candidate_date", "campus": "BITS Goa", "campus_group": "BITS",
+    "campus_basis": "explicit_candidate_account", "role": "Software Engineer",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/qualcomm-interview-experience-for-software-engineer-role-on-campus-placements/",
+    "source_type": "candidate_account", "access": "public", "assessment_kind": "paper_coding", "scope": "delivery_uncertain",
+    "topics": [{"topic": "Strings; Two Pointers; In-Place Word Reversal", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "The in-place word-order reversal constraint requires careful mutation and linear scanning; comparable to a Medium string task."}],
+    "notes": "Explicit August 3, 2026 campus process. Coding is in a written technical test after a live interview, not established as an online assessment. Kept outside OA tables. Other DSA topics are live interview questions."
+  }
+]

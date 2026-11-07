@@ -1,0 +1,111 @@
+[
+  {
+    "id": "R144",
+    "company": "Salesforce",
+    "oa_year": null,
+    "year_basis": "OA_year_not_explicit",
+    "campus": "IIT Roorkee",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://www.codinzhub.com/question/maximizing-salesforce-opportunities-iit-roorkee-salesforce-online-assessment",
+    "source_type": "public_community_report",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Dynamic Programming; Grouped Knapsack; Prefix and Suffix Sums",
+        "difficulty": "Hard",
+        "difficulty_basis": "estimated",
+        "rationale": "Precompute per-row choices and combine row budgets; the platform's Hard/Med tags conflict."
+      }
+    ],
+    "notes": "Campus OA attribution appears in source title, but OA year is absent. Public formulation supports grouped budget DP; update date belongs to unrelated recommendations."
+  },
+  {
+    "id": "R145",
+    "company": "Meesho",
+    "oa_year": 2026,
+    "year_basis": "explicit_blog_title_with_internal_timeline_conflicts",
+    "campus": "NIT Tiruchirappalli",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://devsunite.com/blog/my-meesho-sde-1-on-campus-interview-experience-at-nit-trichy-2026",
+    "source_type": "unverified_blog_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "source_uncertain",
+    "topics": [
+      {
+        "topic": "Arrays; Sliding Window; Fixed-Size Subarray Sum",
+        "difficulty": "Easy",
+        "difficulty_basis": "estimated",
+        "rationale": "Fixed-length window sums have a direct linear sliding-window implementation."
+      },
+      {
+        "topic": "Graphs; Depth-First Search; Connected Components",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Standard component traversal over an adjacency representation."
+      }
+    ],
+    "notes": "Blog explicitly claims NIT Trichy 2026 OA, but its pre-placement-talk timing contradicts itself and September publication mentions October preparation. Retained outside main tables pending independent corroboration."
+  },
+  {
+    "id": "R147",
+    "company": "Capital One",
+    "oa_year": 2026,
+    "year_basis": "explicit_OA_date_in_public_page",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://www.codinzhub.com/question/maximum-points-earned-capital-one-online-assessment-iit-kharagpur",
+    "source_type": "public_community_report",
+    "access": "public_preview",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "notes": "Explicit on-campus OA 2 November 2026. Public teaser lacks task detail; repeated generic array preview ignored. No topics inferred from the title or placeholder."
+  },
+  {
+    "id": "R148",
+    "company": "Capital One",
+    "oa_year": 2026,
+    "year_basis": "explicit_OA_date_in_public_page",
+    "campus": "IIT BHU Varanasi",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://codinzhub.com/question/reach-the-target-capital-one-online-assessment-iit-bhu-varanasi",
+    "source_type": "public_community_report",
+    "access": "public_preview",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "notes": "Explicit on-campus OA 4 November 2026 with three coding tasks. Teaser supplies no usable topic; generic array preview ignored."
+  },
+  {
+    "id": "R149",
+    "company": "Capital One",
+    "oa_year": null,
+    "year_basis": "OA_year_not_explicit",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://codinzhub.com/question/capital-one-software-development-interview-experience-selected-iit-kharagpur",
+    "source_type": "public_community_report",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [],
+    "notes": "Title says 2025 while posting/update are October 2026, with no explicit OA calendar date. Two OAs described, but only overall DSA levels and system-design content, no task topics.",
+    "year_candidates": [
+      2025,
+      2026
+    ]
+  }
+]

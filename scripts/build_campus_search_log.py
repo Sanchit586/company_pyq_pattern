@@ -12,11 +12,16 @@ def read(path):
 def main():
     campuses = read(ROOT / 'research/campuses.json')['campuses']
     companies = read(ROOT / 'data/companies.json')
+    matrix = None
+    if (ROOT / 'research/combination_search/raw').exists():
+        from record_combination_search import summary as matrix_summary
+        matrix = matrix_summary()
     lines = ['# Campus search audit', '',
              'The first research pass did not search every campus separately. This audit was added on November 7, 2026 to make that gap visible.', '',
              '**Q means an exact campus/alias + calendar year + online-assessment phrase was searched. It does not mean the campus paper pool or all 52 companies were reviewed.**', '',
              'The roster has 88 campuses and 352 campus/year discovery searches. A full company/campus/year matrix has '
-             + f'{len(campuses) * len(companies) * 4:,} combinations; that individual search matrix is **not completed**.', '',
+             + f'{len(campuses) * len(companies) * 4:,} combinations. Its actual execution is recorded separately in the '
+             '[company/campus/year audit](MATRIX_SEARCHES.md).', '',
              'Sources returned by discovery can be unrelated, old, off-campus, or descriptions of later interviews. Only reviewed and qualifying reports contribute to the topic dataset.', '',
              '| Campus | Group | 2023 | 2024 | 2025 | 2026 | Search metadata |',
              '|---|---|---|---|---|---|---|']
@@ -35,7 +40,7 @@ def main():
     summary = {'as_of': '2026-11-07', 'roster_campuses': len(campuses),
                'executed_campus_year_queries': queries, 'unique_result_urls': len(sources),
                'company_campus_year_combinations': len(campuses) * len(companies) * 4,
-               'individual_company_campus_year_search_complete': False,
+               'individual_company_campus_year_search_complete': bool(matrix and matrix['all_combination_searches_executed']),
                'paper_coverage_complete': False,
                'note': 'Search execution is not source review or exhaustive question coverage.'}
     (ROOT / 'research/campus_search_summary.json').write_text(json.dumps(summary, indent=2) + '\n', encoding='utf-8')

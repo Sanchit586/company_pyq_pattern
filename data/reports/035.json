@@ -1,0 +1,109 @@
+[
+  {
+    "id": "R137",
+    "company": "Salesforce",
+    "oa_year": null,
+    "year_basis": "OA_year_not_explicit",
+    "campus": "NIT Hamirpur",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://medium.com/@hardiksachdeva52/salesforce-interview-experience-amts-fresher-on-campus-bbff0f2721de",
+    "source_type": "candidate_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Bit Manipulation; Greedy",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Bit-pattern reasoning supports a greedy integer-reduction approach."
+      },
+      {
+        "topic": "Arrays; Simulation; Cycle Detection; Hashing",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Repeated-state detection skips a large iteration count."
+      },
+      {
+        "topic": "Trees; Graphs",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "No objective or constraints beyond a tree-based key-node description."
+      }
+    ],
+    "notes": "Author profile confirms NIT Hamirpur and title says on-campus. January 2026 publication does not establish OA calendar year. OA range Medium-Hard does not assign an individual level.",
+    "year_candidates": [
+      2025,
+      2026
+    ],
+    "reported_oa_difficulty": "Medium-Hard"
+  },
+  {
+    "id": "R138",
+    "company": "Salesforce",
+    "oa_year": null,
+    "year_basis": "OA_year_not_explicit",
+    "campus": "IIT Dhanbad",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/salesforce-interview-experience-for-sde-internship-on-campus/",
+    "source_type": "public_community_report",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Strings; Periodicity; Prefix Function",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate calls the rotation-period task easy; its expected linear-time condition is retained."
+      },
+      {
+        "topic": "Graphs; Depth-First Search; Path Enumeration; Sorting; Parsing",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "All-path enumeration and ordering are explicit, but graph and cycle constraints are absent."
+      },
+      {
+        "topic": "Strings; Simulation; Text Formatting",
+        "difficulty": "Easy",
+        "difficulty_basis": "reported",
+        "rationale": "Candidate explicitly calls the left-alignment implementation easy."
+      }
+    ],
+    "notes": "IIT (ISM) Dhanbad and September timing explicit; only page-update year available, so OA year remains unknown. Later interactive interview problems excluded."
+  },
+  {
+    "id": "R139",
+    "company": "Salesforce",
+    "oa_year": null,
+    "year_basis": "OA_year_not_explicit",
+    "campus": "BITS Pilani",
+    "campus_group": "BITS",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/salesforce-interview-experience-on-campus-for-fte-2/",
+    "source_type": "public_community_report",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Arrays; Sorting; Two Pointers; Triplet Counting",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Sorted pair scanning with a fixed first element is the cited pattern."
+      },
+      {
+        "topic": "Backtracking; Dynamic Programming; Bitmasking; Equal-Sum Partitioning",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Subset assignment with pruning or mask states matches the linked pattern; no exact variant constraints."
+      }
+    ],
+    "notes": "Explicit campus online round; updated July 2025 is not OA date. MCQ Easy-Medium description is not applied to coding tasks. Levels are estimates from the cited analogues."
+  }
+]

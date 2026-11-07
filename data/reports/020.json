@@ -1,0 +1,26 @@
+[
+  {
+    "id": "R107", "company": "Amazon", "oa_year": null,
+    "year_basis": "calendar_year_not_stated", "campus": "NIT Jamshedpur", "campus_group": "NIT",
+    "campus_basis": "explicit_candidate_account", "role": "2 Months Intern",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/amazon-interview-experience-for-sde-2-months-internshipon-campus/",
+    "source_type": "candidate_account", "access": "public", "assessment_kind": "coding", "scope": "year_uncertain",
+    "topics": [
+      {"topic": "Strings; Dynamic Programming; Longest Common Subsequence", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "The source identifies the standard longest-common-subsequence task, consistent with a Medium DP classification."},
+      {"topic": "Matrices; Grid Dynamic Programming; Maximin Path", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "A down/right grid traversal admits a DP recurrence carrying the best minimum value along a path."}
+    ],
+    "notes": "October 3 OA and October 25 interview are stated without a year. A 2025 last-updated date is not OA-year evidence; this account may predate the requested window. Debugging and subsequent live graph tasks are excluded."
+  },
+  {
+    "id": "R108", "company": "Oracle", "oa_year": null,
+    "year_basis": "calendar_year_not_stated", "campus": "NIT Agartala", "campus_group": "NIT",
+    "campus_basis": "explicit_candidate_account", "role": "GBU Campus Hiring",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/oracle-interview-experience-set-56-campus/",
+    "source_type": "candidate_account", "access": "public", "assessment_kind": "coding", "scope": "year_uncertain",
+    "topics": [
+      {"topic": "Lists; Input Parsing; Conditional Output", "difficulty": "Easy", "difficulty_basis": "reported", "rationale": "The author calls the first list-processing OA task easy and highlights unspecified-size input parsing."},
+      {"topic": "Matrices; Grid Distances; Optimization", "difficulty": "Unknown", "difficulty_basis": "unknown", "rationale": "A grid meeting-position objective is supplied but constraints and details needed to choose the expected algorithm are absent."}
+    ],
+    "notes": "Two-task, one-hour online coding round is explicit. No assessment year is stated; the 2024 page-update date is not used. The report may predate the requested window. MCQs and later interview tasks are excluded."
+  }
+]

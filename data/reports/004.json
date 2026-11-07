@@ -155,7 +155,10 @@
         "rationale": "Count category frequencies in subtrees and test both sides of each edge."
       }
     ],
-    "notes": "Explicit OA date August 1, 2023. Six public attachment pages reviewed."
+    "notes": "Explicit OA date August 1, 2023. Six public attachment pages reviewed.",
+    "supporting_urls": [
+      "https://drive.google.com/file/d/1QgBJoKomUAs_otX6Lm-KSOW0X_Z9ywuk/view"
+    ]
   },
   {
     "id": "R049",
@@ -221,7 +224,10 @@
         "rationale": "Equal path totals impose consistency on diagonals, followed by counting free choices."
       }
     ],
-    "notes": "Thirteen public attachment pages reviewed. OCR uses inconsistent cell labels in the grid task; classification relies on its path-consistency condition."
+    "notes": "Thirteen public attachment pages reviewed. OCR uses inconsistent cell labels in the grid task; classification relies on its path-consistency condition.",
+    "supporting_urls": [
+      "https://drive.google.com/file/d/1IVMgh-EG0MuYKt75cSfM3_b36cxY4nzR/view"
+    ]
   },
   {
     "id": "R051",
@@ -253,7 +259,10 @@
         "rationale": "Repeated digit aggregation is the same task as the official reference."
       }
     ],
-    "notes": "Two public attachment pages reviewed; 2-month internship."
+    "notes": "Two public attachment pages reviewed; 2-month internship.",
+    "supporting_urls": [
+      "https://drive.google.com/file/d/1LK2CLOP-im_2_qqrsnD5ZPXXpors6Q48/view"
+    ]
   },
   {
     "id": "R052",

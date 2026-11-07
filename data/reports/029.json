@@ -1,0 +1,12 @@
+[
+  {
+    "id": "R125", "company": "Microsoft", "oa_year": 2026,
+    "year_basis": "explicit_platform_OA_date", "campus": "IIT BHU Varanasi", "campus_group": "IIT",
+    "campus_basis": "explicit_community_platform_header", "role": "Data Science Intern",
+    "source_url": "https://www.codinzhub.com/question/dsa-minimum-operations-to-equalize-prices-microsoft-online-assessment-iit-bhu",
+    "supporting_urls": ["https://www.codinzhub.com/question/python-data-science-top-employee-across-branches-microsoft-online-assessment-data-science-role-iit-bhu"],
+    "source_type": "community_oa_report", "access": "public_excerpt", "assessment_kind": "coding", "scope": "supported",
+    "topics": [],
+    "notes": "Companion public page explicitly gives October 15, 2026 campus OA with one DSA task and one pandas task in 60 minutes, linking the DSA record. Its formulation is members-only; generic placeholder and title do not establish a topic. The pandas-library exercise is outside DSA scope."
+  }
+]

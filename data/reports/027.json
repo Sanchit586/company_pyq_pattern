@@ -1,0 +1,20 @@
+[
+  {
+    "id": "R122", "company": "Uber", "oa_year": null,
+    "year_basis": "page_update_only", "campus": "IIT Roorkee", "campus_group": "IIT",
+    "campus_basis": "community_platform_title", "role": "Campus OA",
+    "source_url": "https://www.codinzhub.com/question/route-consolidation-uber-online-assessment-iit-roorkee",
+    "source_type": "community_oa_report", "access": "public", "assessment_kind": "coding", "scope": "year_uncertain",
+    "topics": [{"topic": "Arrays; Two Pointers; Prefix Sums; Greedy", "difficulty": "Medium", "difficulty_basis": "estimated", "reported_difficulty": "Conflicting Hard / Med labels", "rationale": "Positive segment lengths permit a linear two-pointer scan matching cumulative sums. Platform labels conflict, so a separate researcher estimate is used."}],
+    "notes": "Public full formulation; campus attribution is the platform's claim. July 2026 is a page update, not an explicit OA year. Some worked transformations appear inconsistent; classification uses the stated positive-input objective."
+  },
+  {
+    "id": "R123", "company": "Accenture", "oa_year": 2026,
+    "year_basis": "explicit_platform_OA_date", "campus": "IIT Hyderabad", "campus_group": "IIT",
+    "campus_basis": "explicit_community_platform_header", "role": "Elite Technology Engineer",
+    "source_url": "https://www.codinzhub.com/question/dsa-question-accenture-online-assessment-iit-hyderabad",
+    "source_type": "community_oa_report", "access": "public_excerpt", "assessment_kind": "coding", "scope": "supported",
+    "topics": [],
+    "notes": "Public header explicitly states on-campus OA October 10, 2026 with one DSA, one SQL and one web task. DSA formulation is members-only; repeated generic array placeholder is not real topic evidence. SQL/web tasks are outside scope."
+  }
+]

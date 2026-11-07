@@ -1,0 +1,73 @@
+[
+  {
+    "id": "R150",
+    "company": "Tech Mahindra",
+    "oa_year": 2026,
+    "year_basis": "explicit_OA_date_in_public_page",
+    "campus": "IIT Dhanbad",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://www.codinzhub.com/question/city-tour-maximise-profit-tech-mahindra-online-assessment-iit-ism-dhanbad",
+    "source_type": "public_community_report",
+    "access": "public_preview",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [],
+    "notes": "Public page explicitly dates on-campus OA to 14 October 2026 and reports three coding tasks. Truncated title/road teaser is insufficient for a topic; generic array placeholder ignored."
+  },
+  {
+    "id": "R151",
+    "company": "Mastercard",
+    "oa_year": 2026,
+    "year_basis": "explicit_OA_date_in_public_page",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://www.codinzhub.com/question/levenshtein-distance-mastercard-online-assessment-iit-kharagpur",
+    "source_type": "public_community_report",
+    "access": "public_preview",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Edit Distance",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Public title names edit distance and platform labels Medium; exact operations and variant are hidden, so no canonical LeetCode match is asserted."
+      }
+    ],
+    "notes": "Public page explicitly gives on-campus OA 24 October 2026, two coding tasks. Only one named topic is usable. Generic repeated array preview ignored; full formulation remains unavailable."
+  },
+  {
+    "id": "R152",
+    "company": "Sprinklr",
+    "oa_year": null,
+    "year_basis": "OA_year_not_explicit",
+    "campus": "IIIT Allahabad",
+    "campus_group": "IIIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://medium.com/nybles/sprinklr-internship-interview-experience-1a89b8df9505",
+    "source_type": "student_society_candidate_compilation",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Dynamic Programming; State Counting",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Source calls first task Medium and gives only a similarity link; exact canonical equivalence is unproved."
+      },
+      {
+        "topic": "Strings; Trie; Prefix Aggregation; Dynamic Updates",
+        "difficulty": "Medium",
+        "difficulty_basis": "reported",
+        "rationale": "Source labels second task Medium and describes prefix-frequency operations."
+      }
+    ],
+    "notes": "Student society account published June 2023 about an internship for the 2024 batch. Exact OA year is unstated and may be 2022, so no dated row is inferred. Third task has no usable topic; later interview tasks excluded."
+  }
+]

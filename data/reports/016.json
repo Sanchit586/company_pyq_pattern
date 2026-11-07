@@ -1,0 +1,50 @@
+[
+  {
+    "id": "R100",
+    "company": "Microsoft",
+    "oa_year": 2023,
+    "year_basis": "explicit_source_header",
+    "campus": "IIT Madras",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_source_header",
+    "role": "SWE Intern",
+    "source_url": "https://thejoboverflow.com/p/p1359/",
+    "source_type": "community_oa_report",
+    "access": "public_excerpt",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Sorting; Greedy; Binary Search on Answer",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Public excerpt states a three-group range minimization objective; sorted grouping and a monotone feasibility check fit this task."
+      }
+    ],
+    "notes": "July 2023 header. Only the first public excerpt is classified; full discussion is premium."
+  },
+  {
+    "id": "R101",
+    "company": "Microsoft",
+    "oa_year": 2023,
+    "year_basis": "explicit_source_header",
+    "campus": "NIT Rourkela",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_source_header",
+    "role": "SWE Intern",
+    "source_url": "https://thejoboverflow.com/p/p1422/",
+    "source_type": "community_oa_report",
+    "access": "public_excerpt",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Strings; Character-Set Selection; Combinatorics",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Public excerpt describes choosing a bounded alphabet to maximize buildable strings; constraints are incomplete."
+      }
+    ],
+    "notes": "July 27, 2023 header. No topic is inferred for the second task from its title alone."
+  }
+]

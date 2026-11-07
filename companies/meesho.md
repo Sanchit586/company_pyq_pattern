@@ -37,3 +37,24 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 Year: unconfirmed; campus: IIT Kanpur; status: `year_uncertain`; assessment: `coding`.
 
 Three DSA tasks described as on the harder side of LeetCode, without topics. Last-updated January 2026 does not establish the OA year.
+
+### [R145](https://devsunite.com/blog/my-meesho-sde-1-on-campus-interview-experience-at-nit-trichy-2026)
+
+Year: 2026; campus: NIT Tiruchirappalli; status: `source_uncertain`; assessment: `coding`.
+
+Blog explicitly claims NIT Trichy 2026 OA, but its pre-placement-talk timing contradicts itself and September publication mentions October preparation. Retained outside main tables pending independent corroboration.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Arrays; Sliding Window; Fixed-Size Subarray Sum | Easy | estimate |
+| Graphs; Depth-First Search; Connected Components | Medium | estimate |
+
+### [R154](https://www.reddit.com/r/IIIT__Delhi/comments/1oai1uq)
+
+Year: unconfirmed; campus: IIIT Delhi (thread context; respondent unconfirmed); status: `campus_uncertain`; assessment: `coding`.
+
+October 2025 discussion asks about a 2026 recruitment label; deleted respondent says the assessment was long ago and gives no date or campus confirmation. Retained outside main tables. SQL and ML MCQs excluded.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Dynamic Programming; Knapsack; Three-Dimensional State | Unknown | unknown |

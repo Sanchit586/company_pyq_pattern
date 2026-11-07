@@ -1,0 +1,53 @@
+[
+  {
+    "id": "R102",
+    "company": "Google",
+    "oa_year": 2023,
+    "year_basis": "explicit_season_timeline",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_candidate_account",
+    "role": "Software Engineering Intern",
+    "source_url": "https://medium.com/@lakshyasatpal372/my-internship-story-one-last-chance-cbcff3d35ff7",
+    "source_type": "candidate_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [{"topic": "Trees; Dynamic Programming on Trees", "difficulty": "Unknown", "difficulty_basis": "unknown", "rationale": "Candidate identifies the first Google OA task as tree DP but gives no objective or constraints for a defensible level."}],
+    "notes": "Published June 2026, but explicitly recounts the July 2023 campus internship season. Preparation topics and later interview tasks are excluded."
+  },
+  {
+    "id": "R103",
+    "company": "Oracle",
+    "oa_year": null,
+    "year_basis": "role_year_is_not_assessment_year",
+    "campus": "NIT Jalandhar",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_candidate_account",
+    "role": "6 Months Intern + FTE 2023",
+    "source_url": "https://voxuous.medium.com/interview-experience-oracle-6-months-intern-fte-2023-4f61a6f8b847",
+    "source_type": "candidate_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [{"topic": "Graphs; Flood Fill", "difficulty": "Hard", "difficulty_basis": "reported", "rationale": "Author calls this OA task hard and identifies a modified flood-fill approach; this is not an official LeetCode rating."}],
+    "notes": "July 2023 publication mentions hiring in the first week of August without a calendar year. The role's 2023 label does not establish OA year; a 2022 assessment is possible. Two other DSA tasks have no topic details. API coding is outside DSA scope."
+  },
+  {
+    "id": "R104",
+    "company": "Morgan Stanley",
+    "oa_year": null,
+    "year_basis": "publication_date_only",
+    "campus": "NIT Tiruchirappalli",
+    "campus_group": "NIT",
+    "campus_basis": "explicit_candidate_account",
+    "role": "Software Developer Summer Intern",
+    "source_url": "https://priyyaa.medium.com/morgan-stanley-online-assessment-and-interview-experience-2ba9b471bee2",
+    "source_type": "candidate_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [{"topic": "Arrays; Two Pointers; Graphs", "difficulty": "Unknown", "difficulty_basis": "unknown", "rationale": "Aggregate topics explicitly reported for three OA tasks; no task-by-task objective or level is supplied."}],
+    "notes": "Published October 2025 with no explicit OA calendar year. One aggregate observation represents a three-task pool. The linked LeetCode problems and levels belong to the subsequent live interview."
+  }
+]

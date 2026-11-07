@@ -26,9 +26,9 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## 2026
 
-Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+Coverage: `report_without_topics`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+- [R150](https://www.codinzhub.com/question/city-tour-maximise-profit-tech-mahindra-online-assessment-iit-ism-dhanbad), IIT Dhanbad. No specific OA topics disclosed. Public page explicitly dates on-campus OA to 14 October 2026 and reports three coding tasks. Truncated title/road teaser is insufficient for a topic; generic array placeholder ignored. Year evidence: `explicit_OA_date_in_public_page`.
 
 ## Evidence outside the main dated coding tables
 

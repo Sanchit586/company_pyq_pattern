@@ -43,4 +43,23 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## Evidence outside the main dated coding tables
 
-None curated.
+### [R103](https://voxuous.medium.com/interview-experience-oracle-6-months-intern-fte-2023-4f61a6f8b847)
+
+Year: unconfirmed; campus: NIT Jalandhar; status: `year_uncertain`; assessment: `coding`.
+
+July 2023 publication mentions hiring in the first week of August without a calendar year. The role's 2023 label does not establish OA year; a 2022 assessment is possible. Two other DSA tasks have no topic details. API coding is outside DSA scope.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Graphs; Flood Fill | Hard | reported |
+
+### [R108](https://www.geeksforgeeks.org/interview-experiences/oracle-interview-experience-set-56-campus/)
+
+Year: unconfirmed; campus: NIT Agartala; status: `year_uncertain`; assessment: `coding`.
+
+Two-task, one-hour online coding round is explicit. No assessment year is stated; the 2024 page-update date is not used. The report may predate the requested window. MCQs and later interview tasks are excluded.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Lists; Input Parsing; Conditional Output | Easy | reported |
+| Matrices; Grid Distances; Optimization | Unknown | unknown |

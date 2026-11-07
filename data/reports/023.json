@@ -1,0 +1,44 @@
+[
+  {
+    "id": "R113", "company": "DE Shaw", "oa_year": 2023,
+    "year_basis": "explicit_source_header", "campus": "IIIT Bhopal", "campus_group": "IIIT",
+    "campus_basis": "explicit_source_header", "role": "SDET FTE",
+    "source_url": "https://thejoboverflow.com/p/p2005/",
+    "supporting_urls": ["https://drive.google.com/file/d/1VfySezMVf8Wz_sncySsHzqA789i0P8w7/view"],
+    "source_type": "community_oa_report", "access": "public_attachment", "assessment_kind": "coding", "scope": "supported",
+    "topics": [
+      {"topic": "Arrays; Greedy; Digit-Substring Enumeration", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "The attachment repeats the bounded-digit lexicographic transformation objective also reported at VNIT Nagpur; greedy substring enumeration suffices."},
+      {"topic": "Trees; DFS; Subtree Aggregation; Greedy", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "A rooted traversal computes subtree totals, with a capacity-based ceiling contribution on each tree edge."}
+    ],
+    "notes": "Header explicitly gives August 15, 2023, despite September post date. Six attachment pages inspected with in-memory OCR and a visual check of the tree objective. Two tasks; the first overlaps R110 and is not claimed as a distinct unique question."
+  },
+  {
+    "id": "R114", "company": "Microsoft", "oa_year": null,
+    "year_basis": "platform_date_semantics_unconfirmed", "campus": "IIT BHU Varanasi", "campus_group": "IIT",
+    "campus_basis": "explicit_community_platform_header", "role": "Campus OA",
+    "source_url": "https://www.oahelper.in/company-questions/microsoft-iit-bhu",
+    "supporting_urls": ["https://www.oahelper.in/problems/MjQzNXww/count-connected-nodes-in-dsu"],
+    "source_type": "community_oa_report", "access": "public_excerpt", "assessment_kind": "coding", "scope": "year_uncertain",
+    "topics": [{"topic": "Graphs; DSU; Connected-Component Size", "difficulty": "Medium", "difficulty_basis": "reported", "rationale": "The public task page gives component-size queries and a platform Medium label; no official LeetCode identity is claimed."}],
+    "notes": "Platform lists November 5, 2025 beside an on-campus IIT BHU OA, but does not establish whether that date is assessment or upload date. Only the readable task is classified; the second is premium-only."
+  },
+  {
+    "id": "R115", "company": "IBM", "oa_year": null,
+    "year_basis": "platform_date_semantics_unconfirmed", "campus": "IIIT Delhi", "campus_group": "IIIT",
+    "campus_basis": "explicit_community_platform_header", "role": "Campus OA",
+    "source_url": "https://www.oahelper.in/company-questions/ibmiiitd",
+    "source_type": "community_oa_report", "access": "title_only", "assessment_kind": "coding", "scope": "year_uncertain",
+    "topics": [],
+    "notes": "Platform lists October 27, 2026 and two premium coding tasks. Date semantics are unconfirmed; no task topics or levels are inferred from titles."
+  },
+  {
+    "id": "R116", "company": "Cisco", "oa_year": null,
+    "year_basis": "publication_date_only", "campus": "NIT Raipur", "campus_group": "NIT",
+    "campus_basis": "explicit_candidate_account", "role": "6 Months Intern + FTE",
+    "source_url": "https://medium.com/@princetripathi093/cisco-interview-experience-6-month-fte-a63a2f6f5959",
+    "source_type": "candidate_account", "access": "public", "assessment_kind": "coding", "scope": "year_uncertain",
+    "reported_oa_difficulty": "One Medium and one Hard; mapping to topics not supplied",
+    "topics": [{"topic": "Binary Search; Graphs", "difficulty": "Unknown", "difficulty_basis": "unknown", "rationale": "The two OA topics and two levels are reported, but the source does not map the levels to individual topics."}],
+    "notes": "Published November 2024, without explicit OA year. One aggregate topic observation represents two tasks; no order-based level mapping is assumed. Later file-handling and tree discussions are live interviews."
+  }
+]

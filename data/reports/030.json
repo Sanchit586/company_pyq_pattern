@@ -1,0 +1,26 @@
+[
+  {
+    "id": "R126",
+    "company": "Goldman Sachs",
+    "oa_year": 2024,
+    "year_basis": "inferred_placement_season_timeline",
+    "campus": "IIT Delhi",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_candidate_account",
+    "role": "Quantitative Analyst FTE",
+    "source_url": "https://medium.com/@prishajain.jain/goldman-sachs-quant-analyst-interview-experience-full-time-33493a4558f6",
+    "source_type": "candidate_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Mathematics; Logical Problem Solving",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Author explicitly identifies the OA coding section as mathematical/logical problems; individual objectives, constraints and levels are not supplied."
+      }
+    ],
+    "notes": "One aggregate observation for the coding section, not a question count. OA year inferred from placement season after summer-2024 internship and before 2025 graduation, with December 1 interviews. January 2026 publication is not OA year. Probability, Markov chains and game theory refer to a separate quant section; binary-search coding is a live interview."
+  }
+]

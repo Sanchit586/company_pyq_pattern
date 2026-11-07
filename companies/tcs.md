@@ -14,9 +14,14 @@ No qualifying dated topic evidence has been curated. This does not establish tha
 
 ## 2024
 
-Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+Coverage: `topics_found`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+| Topic | Difficulty | Basis | Campus | Evidence |
+|---|---|---|---|---|
+| Mathematics; Arithmetic Simulation | Easy | reported | NIT Bhopal | [R112](https://www.geeksforgeeks.org/interview-experiences/tcs-interview-experience-for-digital-on-campus2024/) |
+| Arrays; Hashing; Pair Counting | Medium | reported | NIT Bhopal | [R112](https://www.geeksforgeeks.org/interview-experiences/tcs-interview-experience-for-digital-on-campus2024/) |
+
+- [R112](https://www.geeksforgeeks.org/interview-experiences/tcs-interview-experience-for-digital-on-campus2024/), NIT Bhopal. Title explicitly labels 2024. Body identifies the priority-institution MANIT Bhopal on-campus opportunity, with NQT delivered at a TCS test centre. Two advanced coding tasks in 90 minutes; update timestamp is not used as OA year. Year evidence: `explicit_candidate_title`.
 
 ## 2025
 

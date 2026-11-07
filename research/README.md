@@ -14,6 +14,7 @@ The research is incomplete. These files make the reviewed evidence and the remai
 - [difficulty_references.json](difficulty_references.json): official LeetCode pages whose difficulty labels were checked on November 6, 2026. Some checked comparisons were not used because the OA formulation was a variant.
 - [campuses.json](campuses.json), [campus_searches](campus_searches), and the [campus audit](../CAMPUS_SEARCHES.md): added on November 7 after the initial pass's insufficient campus depth was identified. The main sweep contains 352 exact campus/alias-and-year searches over 88 campuses. Other files retain exploratory queries. Search completion is not company-by-campus coverage or substantive review of every hit.
 - [handbooks.json](handbooks.json): public student-body handbooks found through the publisher's own link directory, with separate access and review statuses. The initial pass missed these sources.
+- [combination_search](combination_search) and [matrix audit](../MATRIX_SEARCHES.md): actual 52-company × 88-campus × four-year query execution, saved with statuses and shared result pools. Raw checkpoints are JSONL or losslessly compressed JSONL; no source question bodies. Source review decisions document selected classifications, exclusions and access gaps. A completed query is not a verified OA record.
 
 The two access audits overlap. Their union, rather than their sum, is used in [summary counts](../data/summary.json). Archive public pages can include attachments rather than text; a short body is not automatically an access restriction. `public_excerpt` and `title_only` are retained without inferring hidden task content.
 
@@ -23,7 +24,7 @@ All 208 company/year cells are partial. Major gaps include institutions not name
 
 Further additions should establish the exact assessment round, eligible institution or explicit institution group, calendar year, topic, and difficulty basis. Do not fill missing cells from a company's generic syllabus, an interview task, a joining year, or a page-update timestamp. There is no evidence-based stopping rule that can prove “nothing missed” across private campus OA pools.
 
-The November 7 correction adds an explicit unfinished company/campus/year search matrix rather than presenting the original company-level sweep as thorough. Many reviewed handbook accounts disclose only a task count or overall level; no topics are invented for them.
+The November 7 matrix pass records actual company/campus/year execution in its own audit. Its generated counts, rather than a planned matrix, establish search progress. Many reviewed accounts disclose only a task count or overall level; no topics are invented for them.
 
 ## Optional fetching tools
 

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "R110", "company": "DE Shaw", "oa_year": 2023,
+    "year_basis": "explicit_source_header", "campus": "NIT Nagpur", "campus_group": "NIT",
+    "campus_basis": "explicit_source_header_VNIT", "role": "SWE Intern",
+    "source_url": "https://thejoboverflow.com/p/p1369/", "source_type": "community_oa_report",
+    "access": "public", "assessment_kind": "coding", "scope": "supported",
+    "topics": [{"topic": "Arrays; Greedy; Digit-Substring Enumeration", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "Bounded digit lengths permit substring enumeration with a left-to-right greedy choice; the array size rules out exponential search."}],
+    "notes": "July 2023 header and original post date. One publicly formulated OA task is classified. Later comment timestamps are not used as event dates."
+  },
+  {
+    "id": "R111", "company": "DE Shaw", "oa_year": null,
+    "year_basis": "revision_date_only", "campus": "NIT Raipur", "campus_group": "NIT",
+    "campus_basis": "explicit_candidate_title", "role": "Campus OA",
+    "source_url": "https://codeforces.com/blog/entry/144939",
+    "supporting_urls": ["https://codeforces.com/topic/145573/en2"],
+    "source_type": "community_oa_report", "access": "public", "assessment_kind": "coding", "scope": "year_uncertain",
+    "topics": [
+      {"topic": "Arrays; Greedy; Adjacent Differences", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "Prefix updates admit a reverse greedy invariant and a linear difference-based calculation."},
+      {"topic": "Graphs; Connected Components; DSU; Combinatorics", "difficulty": "Unknown", "difficulty_basis": "unknown", "rationale": "The account describes monochromatic cycle creation but leaves graph constraints and structural assumptions incomplete."}
+    ],
+    "notes": "Public author revision metadata is July 22, 2025, but no explicit OA calendar year is stated. Revision date is not silently used as assessment year."
+  },
+  {
+    "id": "R112", "company": "TCS", "oa_year": 2024,
+    "year_basis": "explicit_candidate_title", "campus": "NIT Bhopal", "campus_group": "NIT",
+    "campus_basis": "explicit_candidate_account_MANIT", "role": "Digital",
+    "source_url": "https://www.geeksforgeeks.org/interview-experiences/tcs-interview-experience-for-digital-on-campus2024/",
+    "source_type": "candidate_account", "access": "public", "assessment_kind": "coding", "scope": "supported",
+    "topics": [
+      {"topic": "Mathematics; Arithmetic Simulation", "difficulty": "Easy", "difficulty_basis": "reported", "rationale": "Candidate explicitly rates the arithmetic-restriction factorial coding task Easy; this is an author label."},
+      {"topic": "Arrays; Hashing; Pair Counting", "difficulty": "Medium", "difficulty_basis": "reported", "rationale": "Candidate explicitly rates the pair-average membership coding task Medium; frequency or membership lookup supports pair counting."}
+    ],
+    "notes": "Title explicitly labels 2024. Body identifies the priority-institution MANIT Bhopal on-campus opportunity, with NQT delivered at a TCS test centre. Two advanced coding tasks in 90 minutes; update timestamp is not used as OA year."
+  }
+]

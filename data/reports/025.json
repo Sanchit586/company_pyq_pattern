@@ -1,0 +1,41 @@
+[
+  {
+    "id": "R118", "company": "Google", "oa_year": 2025,
+    "year_basis": "explicit_candidate_month_year", "campus": "IIT BHU Varanasi", "campus_group": "IIT",
+    "campus_basis": "author_confirmation_in_public_comments", "role": "SWE Summer Intern",
+    "source_url": "https://www.reddit.com/r/Btechtards/comments/1u9buhk/google_swe_internship_process_oa_interview/",
+    "supporting_urls": ["https://www.reddit.com/r/Btechtards/comments/1uelpi6/amazon_oa_interview_experience/"],
+    "source_type": "candidate_account", "access": "public", "assessment_kind": "coding", "scope": "supported",
+    "topics": [
+      {"topic": "Arrays; Greedy; Difference Array; Sliding Window", "difficulty": "Hard", "difficulty_basis": "official_leetcode", "difficulty_reference": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/", "rationale": "Public formulation matches the canonical fixed-length binary-flip minimization objective; official reference is Hard."},
+      {"topic": "Order Statistics; Dynamic Multiset; Balanced Search Tree", "difficulty": "Unknown", "difficulty_basis": "unknown", "rationale": "The online kth-largest query and feedback insertion establish order statistics, but arithmetic notation and exact numeric handling are ambiguous."}
+    ],
+    "notes": "Author explicitly dates process to July 2025 and confirms BHU affiliation in comments. Two OA tasks are separate from the later live connectivity interview. Official task difficulty is not independent verification of the recruitment account."
+  },
+  {
+    "id": "R119", "company": "Amazon", "oa_year": null, "year_candidates": [2025, 2026],
+    "year_basis": "recruitment_period_not_exact_OA_year", "campus": "IIT BHU Varanasi", "campus_group": "IIT",
+    "campus_basis": "author_confirmation_in_public_comments", "role": "2 Months SDE Intern",
+    "source_url": "https://www.reddit.com/r/Btechtards/comments/1uelpi6/amazon_oa_interview_experience/",
+    "source_type": "candidate_account", "access": "public", "assessment_kind": "coding", "scope": "year_uncertain",
+    "topics": [
+      {"topic": "Arrays; Sliding Window; Hashing; Distinct-Element Counting", "difficulty": "Hard", "difficulty_basis": "official_leetcode", "difficulty_reference": "https://leetcode.com/problems/subarrays-with-k-different-integers/", "rationale": "The public objective matches the canonical exact-K-distinct subarray count; the official level is Hard despite the author's easy overall description."},
+      {"topic": "Dynamic Programming; Longest Increasing Subsequence; Bitonic Subsequence", "difficulty": "Medium", "difficulty_basis": "estimated", "rationale": "Two directional subsequence DPs combine at a valid peak. The author confirms quadratic time was accepted."}
+    ],
+    "notes": "June 2026 post shows a 2025-26 recruitment period but no explicit OA year. Author confirms IIT BHU on-campus process and gives August timing without year; retained separately. Live matrix-search and tree-symmetry tasks are excluded."
+  },
+  {
+    "id": "R120", "company": "Infosys", "oa_year": 2026,
+    "year_basis": "explicit_author_comment_date", "campus": "IIIT Ranchi", "campus_group": "IIIT",
+    "campus_basis": "interview_venue_only_OA_campus_unconfirmed", "role": "SP / DSE",
+    "source_url": "https://www.reddit.com/r/infosys/comments/1web12n/infosys_spdse_oncampus_interview_experience/",
+    "source_type": "candidate_account", "access": "public", "assessment_kind": "coding", "scope": "campus_uncertain",
+    "topics": [
+      {"topic": "Arrays", "difficulty": "Unknown", "difficulty_basis": "unknown", "rationale": "Candidate identifies the first OA task only as array-based; no objective or individual level supplied."},
+      {"topic": "Greedy", "difficulty": "Unknown", "difficulty_basis": "unknown", "rationale": "Candidate explicitly identifies one of the remaining OA tasks as greedy; details insufficient for a level."},
+      {"topic": "Trees; Dynamic Programming on Trees", "difficulty": "Unknown", "difficulty_basis": "unknown", "rationale": "Candidate explicitly identifies a tree-DP OA task; no formulation or constraints supplied."},
+      {"topic": "Arrays; Dynamic Programming", "difficulty": "Unknown", "difficulty_basis": "unknown", "rationale": "Candidate explicitly identifies a separate array-DP OA task without task-level difficulty."}
+    ],
+    "notes": "Author gives on-campus OA September 1, 2026 and interview September 11, 2026 in comments. IIIT Ranchi is confirmed only as interview venue; candidate affiliation and the OA campus are not established, so excluded from main campus tables. Four-task pool with any three required. Later interview coding and other commenters' levels are excluded."
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "R133",
+    "company": "Optiver",
+    "oa_year": 2025,
+    "year_basis": "inferred_preceding_July_CDC_season",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://medium.com/@krishcharniya/the-12-hour-cdc-interview-journey-f7df3abd255c",
+    "source_type": "candidate_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Graphs; Traversal; Data Structures; Implementation",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Only a topic-level recollection is available."
+      }
+    ],
+    "notes": "OA year inferred from mid-July season preceding January 2026 publication; role is SWE, not quant."
+  },
+  {
+    "id": "R134",
+    "company": "DE Shaw",
+    "oa_year": 2025,
+    "year_basis": "inferred_preceding_July_CDC_season",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://medium.com/@krishcharniya/the-12-hour-cdc-interview-journey-f7df3abd255c",
+    "source_type": "candidate_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Arrays; Permutations; Simulation; Greedy",
+        "difficulty": "Medium",
+        "difficulty_basis": "estimated",
+        "rationale": "Source names a collection-order analogue accepting quadratic time."
+      }
+    ],
+    "notes": "Same inferred season. One identifiable task; two others lack topics."
+  },
+  {
+    "id": "R135",
+    "company": "Google",
+    "oa_year": 2025,
+    "year_basis": "inferred_preceding_July_CDC_season",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://medium.com/@krishcharniya/the-12-hour-cdc-interview-journey-f7df3abd255c",
+    "source_type": "candidate_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Number Theory; Breadth-First Search",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Only a topic-level recollection is available."
+      },
+      {
+        "topic": "Recursion; Greedy",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Only a topic-level recollection is available."
+      }
+    ],
+    "notes": "Same inferred season. Candidate-specific pair, not the entire pool."
+  },
+  {
+    "id": "R136",
+    "company": "Microsoft",
+    "oa_year": 2025,
+    "year_basis": "inferred_preceding_July_CDC_season",
+    "campus": "IIT Kharagpur",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_campus_in_source",
+    "role": "Campus coding assessment",
+    "source_url": "https://medium.com/@krishcharniya/the-12-hour-cdc-interview-journey-f7df3abd255c",
+    "source_type": "candidate_account",
+    "access": "public",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Binary Search",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Only a topic-level recollection is available."
+      },
+      {
+        "topic": "Coordinate Compression; Breadth-First Search",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Only a topic-level recollection is available."
+      }
+    ],
+    "notes": "Same inferred season; two OA topics. Live interview tasks excluded."
+  }
+]

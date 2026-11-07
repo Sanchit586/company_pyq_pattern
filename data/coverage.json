@@ -4,11 +4,12 @@
     "oa_year": 2023,
     "status": "topics_found",
     "complete": false,
-    "topic_observations": 4,
-    "curated_coding_reports": 1,
+    "topic_observations": 5,
+    "curated_coding_reports": 2,
     "unreviewed_or_access_limited_campus_leads": 1,
     "report_ids": [
-      "R029"
+      "R029",
+      "R102"
     ]
   },
   {
@@ -28,11 +29,13 @@
     "oa_year": 2025,
     "status": "topics_found",
     "complete": false,
-    "topic_observations": 2,
-    "curated_coding_reports": 1,
+    "topic_observations": 6,
+    "curated_coding_reports": 3,
     "unreviewed_or_access_limited_campus_leads": 0,
     "report_ids": [
-      "R001"
+      "R001",
+      "R118",
+      "R135"
     ]
   },
   {
@@ -50,11 +53,13 @@
     "oa_year": 2023,
     "status": "topics_found",
     "complete": false,
-    "topic_observations": 1,
-    "curated_coding_reports": 1,
-    "unreviewed_or_access_limited_campus_leads": 5,
+    "topic_observations": 3,
+    "curated_coding_reports": 3,
+    "unreviewed_or_access_limited_campus_leads": 3,
     "report_ids": [
-      "R079"
+      "R079",
+      "R100",
+      "R101"
     ]
   },
   {
@@ -75,23 +80,26 @@
     "oa_year": 2025,
     "status": "topics_found",
     "complete": false,
-    "topic_observations": 4,
-    "curated_coding_reports": 2,
+    "topic_observations": 6,
+    "curated_coding_reports": 3,
     "unreviewed_or_access_limited_campus_leads": 0,
     "report_ids": [
       "R004",
-      "R092"
+      "R092",
+      "R136"
     ]
   },
   {
     "company": "Microsoft",
     "oa_year": 2026,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "report_without_topics",
     "complete": false,
     "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "curated_coding_reports": 1,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R125"
+    ]
   },
   {
     "company": "Amazon",
@@ -152,12 +160,14 @@
   {
     "company": "Goldman Sachs",
     "oa_year": 2024,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "topics_found",
     "complete": false,
-    "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "topic_observations": 1,
+    "curated_coding_reports": 1,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R126"
+    ]
   },
   {
     "company": "Goldman Sachs",
@@ -225,12 +235,15 @@
   {
     "company": "Flipkart",
     "oa_year": 2023,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "topics_found",
     "complete": false,
-    "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "topic_observations": 6,
+    "curated_coding_reports": 2,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R098",
+      "R106"
+    ]
   },
   {
     "company": "Flipkart",
@@ -391,12 +404,14 @@
   {
     "company": "Nvidia",
     "oa_year": 2026,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "report_without_topics",
     "complete": false,
     "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "curated_coding_reports": 1,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R117"
+    ]
   },
   {
     "company": "Accenture",
@@ -411,12 +426,14 @@
   {
     "company": "Accenture",
     "oa_year": 2024,
-    "status": "source_lead_gap",
+    "status": "topics_found",
     "complete": false,
-    "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "topic_observations": 2,
+    "curated_coding_reports": 1,
     "unreviewed_or_access_limited_campus_leads": 1,
-    "report_ids": []
+    "report_ids": [
+      "R105"
+    ]
   },
   {
     "company": "Accenture",
@@ -434,10 +451,11 @@
     "status": "report_without_topics",
     "complete": false,
     "topic_observations": 0,
-    "curated_coding_reports": 1,
+    "curated_coding_reports": 2,
     "unreviewed_or_access_limited_campus_leads": 0,
     "report_ids": [
-      "R015"
+      "R015",
+      "R123"
     ]
   },
   {
@@ -530,16 +548,18 @@
     "oa_year": 2023,
     "status": "topics_found",
     "complete": false,
-    "topic_observations": 13,
-    "curated_coding_reports": 6,
-    "unreviewed_or_access_limited_campus_leads": 1,
+    "topic_observations": 16,
+    "curated_coding_reports": 8,
+    "unreviewed_or_access_limited_campus_leads": 0,
     "report_ids": [
       "R034",
       "R035",
       "R037",
       "R038",
       "R039",
-      "R056"
+      "R056",
+      "R110",
+      "R113"
     ]
   },
   {
@@ -557,12 +577,13 @@
     "oa_year": 2025,
     "status": "topics_found",
     "complete": false,
-    "topic_observations": 3,
-    "curated_coding_reports": 2,
+    "topic_observations": 4,
+    "curated_coding_reports": 3,
     "unreviewed_or_access_limited_campus_leads": 0,
     "report_ids": [
       "R068",
-      "R087"
+      "R087",
+      "R134"
     ]
   },
   {
@@ -601,12 +622,14 @@
   {
     "company": "Infosys",
     "oa_year": 2025,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "topics_found",
     "complete": false,
-    "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "topic_observations": 4,
+    "curated_coding_reports": 1,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R124"
+    ]
   },
   {
     "company": "Infosys",
@@ -631,12 +654,14 @@
   {
     "company": "TCS",
     "oa_year": 2024,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "topics_found",
     "complete": false,
-    "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "topic_observations": 2,
+    "curated_coding_reports": 1,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R112"
+    ]
   },
   {
     "company": "TCS",
@@ -1107,12 +1132,14 @@
   {
     "company": "JP Morgan",
     "oa_year": 2026,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "topics_found",
     "complete": false,
-    "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "topic_observations": 2,
+    "curated_coding_reports": 1,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R127"
+    ]
   },
   {
     "company": "Barclays",
@@ -1374,12 +1401,14 @@
   {
     "company": "Squarepoint Capital",
     "oa_year": 2024,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "topics_found",
     "complete": false,
-    "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "topic_observations": 2,
+    "curated_coding_reports": 1,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R155"
+    ]
   },
   {
     "company": "Squarepoint Capital",
@@ -1599,12 +1628,14 @@
   {
     "company": "Tech Mahindra",
     "oa_year": 2026,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "report_without_topics",
     "complete": false,
     "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "curated_coding_reports": 1,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R150"
+    ]
   },
   {
     "company": "Sprinklr",
@@ -1775,12 +1806,14 @@
   {
     "company": "Mastercard",
     "oa_year": 2026,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "topics_found",
     "complete": false,
-    "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "topic_observations": 1,
+    "curated_coding_reports": 1,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R151"
+    ]
   },
   {
     "company": "Deutsche Bank",
@@ -1899,12 +1932,15 @@
   {
     "company": "Capital One",
     "oa_year": 2026,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "report_without_topics",
     "complete": false,
     "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "curated_coding_reports": 2,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R147",
+      "R148"
+    ]
   },
   {
     "company": "Meesho",
@@ -2017,12 +2053,14 @@
   {
     "company": "Optiver",
     "oa_year": 2025,
-    "status": "no_qualifying_public_evidence_found",
+    "status": "topics_found",
     "complete": false,
-    "topic_observations": 0,
-    "curated_coding_reports": 0,
+    "topic_observations": 1,
+    "curated_coding_reports": 1,
     "unreviewed_or_access_limited_campus_leads": 0,
-    "report_ids": []
+    "report_ids": [
+      "R133"
+    ]
   },
   {
     "company": "Optiver",

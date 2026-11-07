@@ -53,3 +53,13 @@ Three OA topics disclosed. August 2023 page update is not an event-year statemen
 | Dynamic Programming; Memoization | Unknown | unknown |
 | Geometry; Two-Dimensional Constraints | Unknown | unknown |
 | Number Theory; Base Conversion; Strings | Easy | estimate |
+
+### [R122](https://www.codinzhub.com/question/route-consolidation-uber-online-assessment-iit-roorkee)
+
+Year: unconfirmed; campus: IIT Roorkee; status: `year_uncertain`; assessment: `coding`.
+
+Public full formulation; campus attribution is the platform's claim. July 2026 is a page update, not an explicit OA year. Some worked transformations appear inconsistent; classification uses the stated positive-input objective.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Arrays; Two Pointers; Prefix Sums; Greedy | Medium | estimate |

@@ -14,11 +14,13 @@ Public candidate accounts, institute placement-office accounts, student-body int
 
 The recorded broad search sweep uses eight queries per company: four calendar-year searches and four institute-group searches. Targeted follow-ups examine dates, rounds, campus attribution, public attachments, and official difficulty references. Search-result metadata is a discovery queue, not proof of every claim in a page title.
 
-That initial sweep did not fulfill the requested campus-by-campus depth. A subsequent 88-campus roster and 352 exact campus/year discovery queries are logged separately. These do not establish that every company was individually researched at every campus, or that every returned source was reviewed. See the campus audit for the unfinished scope.
+That initial sweep did not fulfill the requested campus-by-campus depth. A subsequent 88-campus roster and 352 exact campus/year discovery queries are logged separately. That earlier sweep does not establish individual company/campus coverage. The newer full matrix audit below records those queries separately; neither audit establishes substantive review of every returned source.
 
 The public archive was additionally scanned by company tags, with up to four result pages per tag. Its navigation/sidebar links include unrelated posts and duplicate entries. The index therefore must not be counted as a verified question bank. Separate access audits distinguish public pages, public excerpts, title-only records, and fetch failures. Public pages with a short body can contain useful ordinary public attachments.
 
-No login-only content or premium body was accessed. Public PDF attachments were read transiently, with OCR and visual checks when needed. The delivered repository retains classifications and source links; source media and OCR transcripts are not retained.
+The subsequent full [company/campus/year execution audit](MATRIX_SEARCHES.md) records each actually attempted query and returned source metadata, including unsuccessful attempts and executed retries. Four year-specific queries share a result pool in each company/campus request. Search execution is separate from source review and paper completeness.
+
+No login-only content or premium body was accessed. Public PDF attachments were read transiently, with OCR and visual checks when needed. The delivered repository retains classifications and source links; source media and OCR transcripts are not retained. Public community-platform submissions remain source claims, not employer verification. An explicit OA date is distinguished from a platform upload/update date; an unlabelled date can remain unresolved. Generic placeholders on membership previews are not treated as real task content.
 
 ## Calendar years
 

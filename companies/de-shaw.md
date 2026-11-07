@@ -25,6 +25,9 @@ Coverage: `topics_found`. Completeness: **not established**.
 | Strings; Greedy; Digit Counts; Backtracking | Medium | estimate | IIT Madras | [R056](https://thejoboverflow.com/p/p1349/) |
 | Graphs; Dijkstra; Reverse Graph; Edge Queries | Hard | estimate | IIT Madras | [R056](https://thejoboverflow.com/p/p1349/) |
 | Dynamic Programming; Hashing; Sorting | Medium | estimate | IIT Madras | [R056](https://thejoboverflow.com/p/p1349/) |
+| Arrays; Greedy; Digit-Substring Enumeration | Medium | estimate | NIT Nagpur | [R110](https://thejoboverflow.com/p/p1369/) |
+| Arrays; Greedy; Digit-Substring Enumeration | Medium | estimate | IIIT Bhopal | [R113](https://thejoboverflow.com/p/p2005/) |
+| Trees; DFS; Subtree Aggregation; Greedy | Medium | estimate | IIIT Bhopal | [R113](https://thejoboverflow.com/p/p2005/) |
 
 - [R034](https://thejoboverflow.com/p/p1572/), NIT Karnataka, Surathkal. Five-page public PDF reviewed. Variant constraints include zeros; do not claim an exact LeetCode match for the repeated-array task. Year evidence: `explicit_title_or_event_date`.
 - [R035](https://thejoboverflow.com/p/p1466/), BITS Pilani. July 30, 2023 OA. All six public PDF pages reviewed. Three coding topics. Year evidence: `explicit_title_or_event_date`.
@@ -32,10 +35,8 @@ Coverage: `topics_found`. Completeness: **not established**.
 - [R038](https://thejoboverflow.com/p/p1295/), IIT Gandhinagar. July 15, 2023. One fully described topic; image attachments may contain additional material. Year evidence: `explicit_title_or_event_date`.
 - [R039](https://thejoboverflow.com/p/p1277/), IIT Patna. Two public OA tasks from July 2023. Descriptions are sufficient for topic classification. Year evidence: `explicit_title_or_event_date`.
 - [R056](https://thejoboverflow.com/p/p1349/), IIT Madras. All seven public attachment pages reviewed; the first page was also checked visually. Year evidence: `explicit_title_or_event_date`.
-
-Additional campus leads (metadata only; topics not inferred from titles):
-
-- [Source](https://thejoboverflow.com/p/p2005/): `public_page`. Campus/year hints still need confirmation.
+- [R110](https://thejoboverflow.com/p/p1369/), NIT Nagpur. July 2023 header and original post date. One publicly formulated OA task is classified. Later comment timestamps are not used as event dates. Year evidence: `explicit_source_header`.
+- [R113](https://thejoboverflow.com/p/p2005/), IIIT Bhopal. Header explicitly gives August 15, 2023, despite September post date. Six attachment pages inspected with in-memory OCR and a visual check of the tree objective. Two tasks; the first overlaps R110 and is not claimed as a distinct unique question. Year evidence: `explicit_source_header`.
 
 ## 2024
 
@@ -52,9 +53,11 @@ Coverage: `topics_found`. Completeness: **not established**.
 | Strings; Prefix Sum; Substring Enumeration | Medium | estimate | IIT Bhubaneswar | [R068](https://codeforces.com/blog/entry/145050) |
 | Queues; Event Simulation; Priority Rules | Hard | estimate | IIT Bhubaneswar | [R068](https://codeforces.com/blog/entry/145050) |
 | Hashing; Sorting; Coordinate Grouping; Nearest Neighbors | Medium | estimate | IIT Bhubaneswar | [R068](https://codeforces.com/blog/entry/145050) |
+| Arrays; Permutations; Simulation; Greedy | Medium | estimate | IIT Kharagpur | [R134](https://medium.com/@krishcharniya/the-12-hour-cdc-interview-journey-f7df3abd255c) |
 
 - [R068](https://codeforces.com/blog/entry/145050), IIT Bhubaneswar. Three OA tasks. Title identifies the 2025 assessment; body also uses 2025 as the internship role year. Year evidence: `source_title_year_with_role_year_ambiguity`.
 - [R087](https://drive.google.com/file/d/11WimZTqOvK51pqCAN7Jsdl9Bop2QXRua/view#page=46), IIT Kharagpur. No specific OA topics disclosed. Overall source rating: Easy / Medium–Hard / Hard (relative descriptions). p46: three OA tasks, topics absent. Year evidence: `inferred_collection_previous_year`.
+- [R134](https://medium.com/@krishcharniya/the-12-hour-cdc-interview-journey-f7df3abd255c), IIT Kharagpur. Same inferred season. One identifiable task; two others lack topics. Year evidence: `inferred_preceding_July_CDC_season`.
 
 ## 2026
 
@@ -92,3 +95,14 @@ Interview graphs, heaps, and binary lifting are excluded. The page date is not t
 | Topic | Difficulty | Basis |
 |---|---|---|
 | Dynamic Programming; Mathematics | Unknown | unknown |
+
+### [R111](https://codeforces.com/blog/entry/144939)
+
+Year: unconfirmed; campus: NIT Raipur; status: `year_uncertain`; assessment: `coding`.
+
+Public author revision metadata is July 22, 2025, but no explicit OA calendar year is stated. Revision date is not silently used as assessment year.
+
+| Topic | Difficulty | Basis |
+|---|---|---|
+| Arrays; Greedy; Adjacent Differences | Medium | estimate |
+| Graphs; Connected Components; DSU; Combinatorics | Unknown | unknown |

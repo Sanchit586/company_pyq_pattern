@@ -25,9 +25,13 @@ Coverage: `topics_found`. Completeness: **not established**.
 
 ## 2024
 
-Coverage: `no_qualifying_public_evidence_found`. Completeness: **not established**.
+Coverage: `topics_found`. Completeness: **not established**.
 
-No qualifying dated topic evidence has been curated. This does not establish that no OA took place.
+| Topic | Difficulty | Basis | Campus | Evidence |
+|---|---|---|---|---|
+| Mathematics; Logical Problem Solving | Unknown | unknown | IIT Delhi | [R126](https://medium.com/@prishajain.jain/goldman-sachs-quant-analyst-interview-experience-full-time-33493a4558f6) |
+
+- [R126](https://medium.com/@prishajain.jain/goldman-sachs-quant-analyst-interview-experience-full-time-33493a4558f6), IIT Delhi. One aggregate observation for the coding section, not a question count. OA year inferred from placement season after summer-2024 internship and before 2025 graduation, with December 1 interviews. January 2026 publication is not OA year. Probability, Markov chains and game theory refer to a separate quant section; binary-search coding is a live interview. Year evidence: `inferred_placement_season_timeline`.
 
 ## 2025
 

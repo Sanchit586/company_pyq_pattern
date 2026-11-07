@@ -1,0 +1,68 @@
+[
+  {
+    "id": "R098",
+    "company": "Flipkart",
+    "oa_year": 2023,
+    "year_basis": "explicit_recruitment_month_year",
+    "campus": "IIT Mandi",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_candidate_affiliation_and_campus_process",
+    "role": "SDE Intern",
+    "source_url": "https://medium.com/@aishalgupta/flipkart-internship-interview-experience-selected-116e2ff374dd",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "supported",
+    "topics": [
+      {
+        "topic": "Arrays; Linked Lists",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Task topic stated; no formulation or LeetCode level disclosed."
+      },
+      {
+        "topic": "Strings",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Task topic stated; no formulation or LeetCode level disclosed."
+      },
+      {
+        "topic": "Graphs",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Task topic stated; no formulation or LeetCode level disclosed."
+      }
+    ],
+    "overall_difficulty": "Comparatively easy (relative author description)",
+    "overall_difficulty_basis": "reported",
+    "notes": "August 2023 campus recruitment; SHL, three tasks in 90 minutes. Later stack, DP, and sorted-stream interview tasks excluded."
+  },
+  {
+    "id": "R099",
+    "company": "Flipkart",
+    "oa_year": null,
+    "year_candidates": [
+      2023,
+      2024
+    ],
+    "year_basis": "summer_2024_internship_without_oa_calendar_year",
+    "campus": "IIT Patna",
+    "campus_group": "IIT",
+    "campus_basis": "explicit_candidate_affiliation_and_campus_visit",
+    "role": "SDE Intern",
+    "source_url": "https://avlmp2003.medium.com/complete-flipkart-sde-internship-interview-experience-selected-761d51d24428",
+    "source_type": "candidate_report",
+    "access": "full_page",
+    "assessment_kind": "coding",
+    "scope": "year_uncertain",
+    "topics": [
+      {
+        "topic": "Greedy; DFS; Sliding Window; Priority Queue",
+        "difficulty": "Unknown",
+        "difficulty_basis": "unknown",
+        "rationale": "Pool-level topics and similar practice references; exact task constraints and per-task mapping are absent."
+      }
+    ],
+    "notes": "Three proctored SHL tasks in 90 minutes for a summer 2024 internship. Calendar year unstated; four similar practice references are not counted as four OA tasks."
+  }
+]
